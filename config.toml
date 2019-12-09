@@ -1,0 +1,43 @@
+baseURL = "http://blog.dakic.com/"
+languageCode = "en-us"
+title = "SW Dev Chicago Blog"
+theme = "internet-weblog"
+
+SectionPagesMenu = "main"
+
+[params]
+   RSSSections = [ "Posts", "Microposts", "Photos" ]
+   Description = "Zeljko Dakic's blog, a micro blog."
+   ShowCopyright = true
+   RSSEnabled = true
+
+
+[author]
+   Handle = "Zeljko"
+   FirstName = "Zeljko"
+   LastName = "Dakic"
+   AboutPage = "https://dakic.com/"
+   Location = "Chicago, IL, USA"
+
+[taxonomies]
+   tag = "tags"
+   category = "categories"
+   series = "series"
+
+[[menu.main]]
+   name = "Posts"
+   weight = 1
+   identifier = "posts"
+   url = "/posts/"
+
+[[menu.main]]
+   name = "Microposts"
+   weight = 2
+   identifier = "microposts"
+   url = "/microposts/"
+
+[[menu.main]]
+   name = "Photos"
+   weight = 3
+   identifier = "photos"
+   url = "/photos/"
