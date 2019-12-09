@@ -1,0 +1,40 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>@Zeljko’s SW Dev Chicago Blog - SW Dev Chicago Blog</title>
+    <link>http://blog.dakic.com/http://blog.dakic.com/</link>
+    <description>All entries in SW Dev Chicago Blog on SW Dev Chicago Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+    <lastBuildDate>Mon, 09 Dec 2019 08:53:01 -0600</lastBuildDate>
+    <atom:link href="http://blog.dakic.com/" rel="self" type="application/rss+xml" />
+    
+      
+      <item>
+        <title>What I focus now</title>
+        <link>http://blog.dakic.com/microposts/things-i-focus-now/</link>
+        <pubDate>Mon, 09 Dec 2019 08:53:01 -0600</pubDate>
+        <author>Zeljko Dakic</author>
+        <guid>http://blog.dakic.com/microposts/things-i-focus-now/</guid>
+        <description>&lt;p&gt;At the moment, I am interested in developing my &lt;strong&gt;TypeScript&lt;/strong&gt; skills for current work, restarting using &lt;strong&gt;Elm and Phoenix&lt;/strong&gt; for future projects.&lt;/p&gt;
+</description>
+      </item>
+      
+    
+      
+      <item>
+        <title>Creating A New Blog</title>
+        <link>http://blog.dakic.com/posts/create-new-blog/</link>
+        <pubDate>Mon, 09 Dec 2019 08:46:48 -0600</pubDate>
+        <author>Zeljko Dakic</author>
+        <guid>http://blog.dakic.com/posts/create-new-blog/</guid>
+        <description>&lt;p&gt;I had previous blog linger without any real posts. I thought about shutting thing down and releasing domain name. But I do have desire to write. It just takes too much time and planning to express what new and notable is in a form of coherent post.&lt;/p&gt;
+&lt;p&gt;Recently I discovered &lt;a href=&#34;https://micro.blog/&#34;&gt;https://micro.blog/&lt;/a&gt; network. It make total sense. Often I find really cool video, or link to article. Or I just have short insight. I could use Twitter, which is original micro post network. But this is like yelling at the stadium.&lt;/p&gt;
+&lt;p&gt;I want to preserve my learning and growing, for others, who follow me and are interested, but mostly for myself, so I can see what I was reading, learning in the past and to be able to look at that from distance.&lt;/p&gt;
+&lt;p&gt;For those reasons, I want to try again.&lt;/p&gt;
+</description>
+      </item>
+      
+    
+  </channel>
+</rss>
