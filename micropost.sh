@@ -1,0 +1,1 @@
+hugo new microposts/`date +'%m-%d-%y'`-$1.md
