@@ -1,8 +1,8 @@
-
+@import url('https://fonts.googleapis.com/css?family=Zilla+Slab');
 /* Page */
 
 body {
-  font: 16px/24px "Avenir Next", "Helvetica Neue", Arial, Helvetica, sans-serif;
+  font: 16px/24px "Zilla Slab", "Helvetica Neue", Arial, Helvetica, sans-serif;
   line-height: 24px;
 }
 
@@ -128,7 +128,7 @@ nav ul > li {
 
 .micropost > p, .post > p, .page > p {
   color: #666666;
-  font-size: 18px;
+  font-size: 1.5rem;
   line-height: 28px;
   margin: 0;
   text-align: justify;
@@ -302,7 +302,7 @@ footer {
 
 .footer_copyright {
   color: #999999;
-  font: 12px/20px "Avenir Next", "Helvetica Neue", Arial, Helvetica, sans-serif;
+  font: 12px/20px "Zilla Slab", "Helvetica Neue", Arial, Helvetica, sans-serif;
   margin: auto;
   padding: 10px 0;
   text-align: center;
