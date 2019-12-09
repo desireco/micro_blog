@@ -10,6 +10,7 @@ SectionPagesMenu = "main"
    Description = "Zeljko Dakic's blog, a micro blog."
    ShowCopyright = true
    RSSEnabled = true
+   rssmicroposttitles = false
 
 
 [author]
