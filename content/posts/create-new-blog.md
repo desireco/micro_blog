@@ -1,6 +1,7 @@
 ---
 title: "Creating A New Blog"
 date: 2019-12-09T08:46:48-06:00
+tags: [development, publishing]
 ---
 
 I had previous blog linger without any real posts. I thought about shutting thing down and releasing domain name. But I do have desire to write. It just takes too much time and planning to express what new and notable is in a form of coherent post.
