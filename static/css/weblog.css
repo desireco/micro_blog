@@ -45,6 +45,7 @@ blockquote p:last-child {
   min-height: 100vh;
   flex-direction: column;
   margin: 0;
+  padding: 0 0.75rem;
 }
 
 .content {
@@ -158,6 +159,7 @@ article.photo {
   max-width: 780px;
   overflow: hidden;
   height: 300px;
+  padding: 0 0.25rem;
 }
 
 article.photo div {
