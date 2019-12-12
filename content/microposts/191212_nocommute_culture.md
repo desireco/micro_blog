@@ -1,3 +1,8 @@
++++
+title = "No Commute Culture"
+date = "2019-12-12"
++++
+
 This is really good article about how futile is to commute today, especially for places that make all collaboration tools. 
 Anyhow, I plan to expand on it in future, but for now, here it is.
 
