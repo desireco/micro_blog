@@ -1,6 +1,6 @@
 +++
 title = "Currently Listening to"
-date = "2019-12-10"
+date = "2019-12-11"
 +++
 
 Currently listening to Cindy Lauper and Henry Rollins singing "Rise Above" !..!:
