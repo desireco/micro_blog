@@ -3,40 +3,111 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://blog.dakic.com/microposts/</loc>
+    <loc>https://softwaredevelopmentinchicago.com/microposts/</loc>
+    <lastmod>2019-12-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://softwaredevelopmentinchicago.com/microposts/191224_minimalism_for_business/</loc>
+    <lastmod>2019-12-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://softwaredevelopmentinchicago.com/</loc>
+    <lastmod>2019-12-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://softwaredevelopmentinchicago.com/microposts/191220_to_err_is_human/</loc>
+    <lastmod>2019-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://softwaredevelopmentinchicago.com/microposts/191219_everything_is_slower_then_1983/</loc>
+    <lastmod>2019-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://softwaredevelopmentinchicago.com/microposts/191219_right_thing_from_wrong_reasons/</loc>
+    <lastmod>2019-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://softwaredevelopmentinchicago.com/microposts/191212_nocommute_culture/</loc>
+    <lastmod>2019-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://softwaredevelopmentinchicago.com/microposts/191211_rise_above/</loc>
+    <lastmod>2019-12-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://softwaredevelopmentinchicago.com/microposts/191210_creating-new-blog-flow/</loc>
+    <lastmod>2019-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://softwaredevelopmentinchicago.com/microposts/191210_this-what-i-am-listening-now/</loc>
+    <lastmod>2019-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://softwaredevelopmentinchicago.com/microposts/fixing-rss/</loc>
+    <lastmod>2019-12-09T15:12:45-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://softwaredevelopmentinchicago.com/microposts/while-music-was-playing/</loc>
+    <lastmod>2019-12-09T10:09:26-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://softwaredevelopmentinchicago.com/microposts/new-microblog/</loc>
+    <lastmod>2019-12-09T10:05:58-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://softwaredevelopmentinchicago.com/microposts/this-is-what-i-am-listening-now/</loc>
+    <lastmod>2019-12-09T09:07:50-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://softwaredevelopmentinchicago.com/microposts/things-i-focus-now/</loc>
     <lastmod>2019-12-09T08:53:01-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.dakic.com/</loc>
-    <lastmod>2019-12-09T08:53:01-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://blog.dakic.com/microposts/things-i-focus-now/</loc>
-    <lastmod>2019-12-09T08:53:01-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://blog.dakic.com/posts/create-new-blog/</loc>
+    <loc>https://softwaredevelopmentinchicago.com/posts/create-new-blog/</loc>
     <lastmod>2019-12-09T08:46:48-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.dakic.com/posts/</loc>
+    <loc>https://softwaredevelopmentinchicago.com/tags/development/</loc>
     <lastmod>2019-12-09T08:46:48-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.dakic.com/categories/</loc>
+    <loc>https://softwaredevelopmentinchicago.com/posts/</loc>
+    <lastmod>2019-12-09T08:46:48-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.dakic.com/series/</loc>
+    <loc>https://softwaredevelopmentinchicago.com/tags/publishing/</loc>
+    <lastmod>2019-12-09T08:46:48-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.dakic.com/tags/</loc>
+    <loc>https://softwaredevelopmentinchicago.com/tags/</loc>
+    <lastmod>2019-12-09T08:46:48-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://softwaredevelopmentinchicago.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://softwaredevelopmentinchicago.com/series/</loc>
   </url>
   
 </urlset>

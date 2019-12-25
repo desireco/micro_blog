@@ -1,21 +1,200 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>@Zeljko’s SW Dev Chicago Blog - SW Dev Chicago Blog</title>
-    <link>http://blog.dakic.com/http://blog.dakic.com/</link>
+    <link>https://softwaredevelopmentinchicago.com/https://softwaredevelopmentinchicago.com/</link>
     <description>All entries in SW Dev Chicago Blog on SW Dev Chicago Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    <lastBuildDate>Mon, 09 Dec 2019 08:53:01 -0600</lastBuildDate>
-    <atom:link href="http://blog.dakic.com/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://softwaredevelopmentinchicago.com/" rel="self" type="application/rss+xml" />
+    
+      
+      <item>
+        <title>Minimalism for business</title>
+        <link>https://softwaredevelopmentinchicago.com/microposts/191224_minimalism_for_business/</link>
+        <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
+        <author>Zeljko Dakic</author>
+        <guid>https://softwaredevelopmentinchicago.com/microposts/191224_minimalism_for_business/</guid>
+        <description>&lt;p&gt;To be minimalist in your code and tech stack is great skill and something only
+most senior technologists know how to well.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://volument.com/blog/minimalism-the-most-undervalued-development-skill&#34;&gt;https://volument.com/blog/minimalism-the-most-undervalued-development-skill&lt;/a&gt;&lt;/p&gt;
+</description>
+      </item>
+      
+    
+      
+      <item>
+        <title>To Err Is Human</title>
+        <link>https://softwaredevelopmentinchicago.com/microposts/191220_to_err_is_human/</link>
+        <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
+        <author>Zeljko Dakic</author>
+        <guid>https://softwaredevelopmentinchicago.com/microposts/191220_to_err_is_human/</guid>
+        <description>&lt;p&gt;To err is human; to introduce bugs is to be a developer; and to debug is part of everyday life.&lt;/p&gt;
+</description>
+      </item>
+      
+    
+      
+      <item>
+        <title>almost everything on computers is perceptually slower than it was in 1983</title>
+        <link>https://softwaredevelopmentinchicago.com/microposts/191219_everything_is_slower_then_1983/</link>
+        <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
+        <author>Zeljko Dakic</author>
+        <guid>https://softwaredevelopmentinchicago.com/microposts/191219_everything_is_slower_then_1983/</guid>
+        <description>&lt;p&gt;This topic on how everything is slower, perceptually or real is coming up every now and then.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://threadreaderapp.com/thread/927593460642615296.html&#34;&gt;https://threadreaderapp.com/thread/927593460642615296.html&lt;/a&gt;&lt;/p&gt;
+</description>
+      </item>
+      
+    
+      
+      <item>
+        <title>Right Thing For Wrong Reasons</title>
+        <link>https://softwaredevelopmentinchicago.com/microposts/191219_right_thing_from_wrong_reasons/</link>
+        <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
+        <author>Zeljko Dakic</author>
+        <guid>https://softwaredevelopmentinchicago.com/microposts/191219_right_thing_from_wrong_reasons/</guid>
+        <description>&lt;p&gt;I feel like Facebook is doing absolutely right thing for completely wrong reasons.
+It will be open-sourced in the end anyway, so I think this is fantastic news.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://techcrunch.com/2019/12/19/facebook-operating-system/&#34;&gt;https://techcrunch.com/2019/12/19/facebook-operating-system/&lt;/a&gt;&lt;/p&gt;
+</description>
+      </item>
+      
+    
+      
+      <item>
+        <title>No Commute Culture</title>
+        <link>https://softwaredevelopmentinchicago.com/microposts/191212_nocommute_culture/</link>
+        <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+        <author>Zeljko Dakic</author>
+        <guid>https://softwaredevelopmentinchicago.com/microposts/191212_nocommute_culture/</guid>
+        <description>&lt;p&gt;This is really good article about how futile is to commute today, especially for places that make all collaboration tools.
+Anyhow, I plan to expand on it in future, but for now, here it is.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.irishtimes.com/business/innovation/chris-horn-we-need-to-adopt-a-no-commute-culture-1.4110977&#34;&gt;https://www.irishtimes.com/business/innovation/chris-horn-we-need-to-adopt-a-no-commute-culture-1.4110977&lt;/a&gt;&lt;/p&gt;
+</description>
+      </item>
+      
+    
+      
+      <item>
+        <title>Currently Listening to</title>
+        <link>https://softwaredevelopmentinchicago.com/microposts/191211_rise_above/</link>
+        <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
+        <author>Zeljko Dakic</author>
+        <guid>https://softwaredevelopmentinchicago.com/microposts/191211_rise_above/</guid>
+        <description>&lt;p&gt;Currently listening to Cindy Lauper and Henry Rollins singing &amp;ldquo;Rise Above&amp;rdquo; !..!:&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/4rAWnkM9-BE&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=4rAWnkM9-BE&#34;&gt;https://www.youtube.com/watch?v=4rAWnkM9-BE&lt;/a&gt;&lt;/p&gt;
+</description>
+      </item>
+      
+    
+      
+      <item>
+        <title>Creating New Blog Flow</title>
+        <link>https://softwaredevelopmentinchicago.com/microposts/191210_creating-new-blog-flow/</link>
+        <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+        <author>Zeljko Dakic</author>
+        <guid>https://softwaredevelopmentinchicago.com/microposts/191210_creating-new-blog-flow/</guid>
+        <description>&lt;p&gt;I want to explain few random posts on Twitter and LinkedIn, I created new blog, publishing workflow
+and my &amp;ldquo;microblog&amp;rdquo; posts get automagically posted to Twitter and LinkedIn. Homepage is at &lt;a href=&#34;https://softwaredevelopmentinchicago.com/&#34;&gt;https://softwaredevelopmentinchicago.com/&lt;/a&gt;
+and so far I am happy that I can write and post about things I care about and it will be shared everywhere that is relevant.&lt;/p&gt;
+</description>
+      </item>
+      
+    
+      
+      <item>
+        <title>Currently Listening to</title>
+        <link>https://softwaredevelopmentinchicago.com/microposts/191210_this-what-i-am-listening-now/</link>
+        <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+        <author>Zeljko Dakic</author>
+        <guid>https://softwaredevelopmentinchicago.com/microposts/191210_this-what-i-am-listening-now/</guid>
+        <description>&lt;p&gt;Currently listening to:&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/48VHc5XyDpE&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=48VHc5XyDpE&#34;&gt;https://www.youtube.com/watch?v=48VHc5XyDpE&lt;/a&gt;&lt;/p&gt;
+</description>
+      </item>
+      
+    
+      
+      <item>
+        <title>2019-12-09T15:12:45-06:00</title>
+        <link>https://softwaredevelopmentinchicago.com/microposts/fixing-rss/</link>
+        <pubDate>Mon, 09 Dec 2019 15:12:45 -0600</pubDate>
+        <author>Zeljko Dakic</author>
+        <guid>https://softwaredevelopmentinchicago.com/microposts/fixing-rss/</guid>
+        <description>&lt;p&gt;So, there was some issue with titles being messed up for microposts, and &lt;a href=&#34;https://micro.blog/help&#34;&gt;@help&lt;/a&gt; was suggesting that killing titles for microposts is best strategy. So hopefully this will work.&lt;/p&gt;
+</description>
+      </item>
+      
+    
+      
+      <item>
+        <title>2019-12-09T10:09:26-06:00</title>
+        <link>https://softwaredevelopmentinchicago.com/microposts/while-music-was-playing/</link>
+        <pubDate>Mon, 09 Dec 2019 10:09:26 -0600</pubDate>
+        <author>Zeljko Dakic</author>
+        <guid>https://softwaredevelopmentinchicago.com/microposts/while-music-was-playing/</guid>
+        <description>&lt;p&gt;I just want to point out, that while this chill deep house theme was playing, I was able to setup a new blog, configure everything, explore different kind of posts, shortcodes, tie it to be published on Netlify, connect it to Micro.blog, tie crossposting to Twitter and while it is still playing, waiting for posts to show up on Twitter. Cool.&lt;/p&gt;
+</description>
+      </item>
+      
+    
+      
+      <item>
+        <title>2019-12-09T10:05:58-06:00</title>
+        <link>https://softwaredevelopmentinchicago.com/microposts/new-microblog/</link>
+        <pubDate>Mon, 09 Dec 2019 10:05:58 -0600</pubDate>
+        <author>Zeljko Dakic</author>
+        <guid>https://softwaredevelopmentinchicago.com/microposts/new-microblog/</guid>
+        <description>&lt;p&gt;Just started a new microblog (look it up) on &lt;a href=&#34;https://micro.blog&#34;&gt;https://micro.blog&lt;/a&gt; and &lt;a href=&#34;https://softwaredevelopmentinchicago.com/&#34;&gt;https://softwaredevelopmentinchicago.com/&lt;/a&gt; and things look good. Now let&amp;rsquo;s see if this will cross post to Twitter and LinkedIn. So far, things are super cool.&lt;/p&gt;
+</description>
+      </item>
+      
+    
+      
+      <item>
+        <title>2019-12-09T09:07:50-06:00</title>
+        <link>https://softwaredevelopmentinchicago.com/microposts/this-is-what-i-am-listening-now/</link>
+        <pubDate>Mon, 09 Dec 2019 09:07:50 -0600</pubDate>
+        <author>Zeljko Dakic</author>
+        <guid>https://softwaredevelopmentinchicago.com/microposts/this-is-what-i-am-listening-now/</guid>
+        <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/DNDK0hxKoj0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=DNDK0hxKoj0&#34;&gt;https://www.youtube.com/watch?v=DNDK0hxKoj0&lt;/a&gt;&lt;/p&gt;
+</description>
+      </item>
+      
     
       
       <item>
         <title>What I focus now</title>
-        <link>http://blog.dakic.com/microposts/things-i-focus-now/</link>
+        <link>https://softwaredevelopmentinchicago.com/microposts/things-i-focus-now/</link>
         <pubDate>Mon, 09 Dec 2019 08:53:01 -0600</pubDate>
         <author>Zeljko Dakic</author>
-        <guid>http://blog.dakic.com/microposts/things-i-focus-now/</guid>
+        <guid>https://softwaredevelopmentinchicago.com/microposts/things-i-focus-now/</guid>
         <description>&lt;p&gt;At the moment, I am interested in developing my &lt;strong&gt;TypeScript&lt;/strong&gt; skills for current work, restarting using &lt;strong&gt;Elm and Phoenix&lt;/strong&gt; for future projects.&lt;/p&gt;
 </description>
       </item>
@@ -24,13 +203,16 @@
       
       <item>
         <title>Creating A New Blog</title>
-        <link>http://blog.dakic.com/posts/create-new-blog/</link>
+        <link>https://softwaredevelopmentinchicago.com/posts/create-new-blog/</link>
         <pubDate>Mon, 09 Dec 2019 08:46:48 -0600</pubDate>
         <author>Zeljko Dakic</author>
-        <guid>http://blog.dakic.com/posts/create-new-blog/</guid>
+        <guid>https://softwaredevelopmentinchicago.com/posts/create-new-blog/</guid>
         <description>&lt;p&gt;I had previous blog linger without any real posts. I thought about shutting thing down and releasing domain name. But I do have desire to write. It just takes too much time and planning to express what new and notable is in a form of coherent post.&lt;/p&gt;
+
 &lt;p&gt;Recently I discovered &lt;a href=&#34;https://micro.blog/&#34;&gt;https://micro.blog/&lt;/a&gt; network. It make total sense. Often I find really cool video, or link to article. Or I just have short insight. I could use Twitter, which is original micro post network. But this is like yelling at the stadium.&lt;/p&gt;
+
 &lt;p&gt;I want to preserve my learning and growing, for others, who follow me and are interested, but mostly for myself, so I can see what I was reading, learning in the past and to be able to look at that from distance.&lt;/p&gt;
+
 &lt;p&gt;For those reasons, I want to try again.&lt;/p&gt;
 </description>
       </item>
