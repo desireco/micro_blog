@@ -1,29 +1,24 @@
 ---
-title: "Agility vs Productivity"
+title: "Commuting every day"
 date: 2020-02-12T08:23:14-06:00
 draft: true
-categories: ["agile", "productivity"]
+categories: ["work"]
 ---
 
-I am complelled to write this as a reaction to how people implement agile mostly, but also to so many terrible office trends.
 
-Current state of corporations is such that time is wasted everywhere and in huge amounts.
+Current state of corporations is such that time is wasted everywhere and in huge amounts. One great way to waste time and pollute environment is to commute to work every day.
 
-It is wasted for example during commute to work that everyone is doing at the same time. I can write about that some other time. What I want to focus now is 3 core issues that prevent people from being productive:
 
-- excessive agile ceremonies
-- open space
-- 8h continuous work day
+<!--more-->
 
-Well meaning corporation A decides that it wants to be modern and fancy and adopts Scrum of all the ways how you can be unproductive. Now, Scrum in itself is actually really cool way to be productive and kick ass, except, you know, reasons, usually related to corporate power dynamics.
 
-OK, so when smart people were thinking of agile methods and how to make people work better, they were responding to what they saw, which was in 1990 or so (Agile Manifesto was written Feb 2001). We simply don't have same problems people at the time had. Not at all.
+It really make sense when you are working in factory. Or as modern office environment is factory of paperwork, it made sense to ask people to be present there at same time.
 
-One of the problem people felt is lack of communication and feedback loop with customer.
+I don't think for majority of organization that it makes sense to ask people to be present in single place every day for 8 hours. There is just no need and by asking everyone to travel at the same time, it is just logistical nightmare.
 
-It is wasted on commute to work that everyone is doing at roughly the same time, it is waste
-I would say, it starts with your commute to work, you are essentially commuting somewhere at specifici time with thousands of others at the same time every day. Need for people to be present wwhole day in the office, unless you are working as a cashier at the supermarket is not as essential. Actually it is quite the opposite. DHH and Jason Friend write about that in Rework.
+There should definitely be place like office and people present there at some point during the day if they need to be there.
 
-That doesn't mean to say that you don't need plenty of face time with your coworkers, this is not what I am saying. You do need to collaborate and work together, especially when you are plannig and trying to solve problems.
+Same like businesses saw open floor plan as competitive advantage as it reduced highly costs for office space, this can also lead to more sane workplace and also huge reduction in office space needed.
 
-So 
+If you create organization where people are present in office during times when they are needed to collaborate, plan and organize work. You simple need different space. Space with creative floor plan. You might not even need personal space for everyone working, if they are not in the office all the time.
+
