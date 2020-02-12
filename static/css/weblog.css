@@ -70,8 +70,8 @@ header h1 {
 }
 
 article > ul > li {
-  font-size: 18px;
-  line-height: 28px;
+  font-size: 1.5rem;
+  line-height: 2rem;
   color: #5B636E;
 }
 
@@ -80,7 +80,6 @@ article > ul > li {
 nav {
   margin: auto;
   max-width: 720px;
-  text-align: center;
 }
 
 nav ul {
@@ -93,9 +92,8 @@ nav ul > li {
   display: inline;
   float: left;
   padding: 10px;
-  text-align: center;
-  text-transform: uppercase;
-  font-size: 9pt;
+  text-align: left;
+  font-size: 1.2rem;
   font-weight: normal;
 }
 
@@ -149,8 +147,9 @@ nav ul > li {
 }
 
 .post h2 {
-  margin: 0;
-  line-height: 32px;
+  margin: 2rem 0;
+  font-size: 2rem;
+  line-height: 4rem;
 }
 
 article.photo {
