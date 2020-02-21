@@ -1,7 +1,6 @@
 ---
 title: "Mobile Tech Strategy Guide"
 date: 2020-02-21T13:13:59-06:00
-draft: true
 categories: [programming"]
 ---
 
