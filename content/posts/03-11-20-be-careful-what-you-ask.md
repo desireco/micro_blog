@@ -1,7 +1,6 @@
 ---
 title: "You always get what you ask for"
 date: 2020-03-11T09:40:01-05:00
-draft: true
 categories: ["work"]
 ---
 

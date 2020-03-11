@@ -1,7 +1,6 @@
 ---
 title: "What to do, when you are stuck"
 date: 2020-03-11T09:30:44-05:00
-draft: true
 categories: ["programming", "work"]
 ---
 
