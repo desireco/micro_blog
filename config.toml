@@ -1,6 +1,6 @@
 baseURL = "https://zeljko.dakic.com/"
 languageCode = "en-us"
-title = "SW Dev Chicago Blog"
+title = "Zeljko Dakic Is Doing Software In Chicago Blog"
 theme = "internet-weblog"
 
 SectionPagesMenu = "main"
