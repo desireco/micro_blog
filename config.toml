@@ -7,6 +7,7 @@ SectionPagesMenu = "main"
 
 [params]
    RSSSections = [ "Posts", "Microposts" ]
+   Description = "Zeljko Dakic Is Doing Software In Chicago Blog"
    ShowCopyright = true
    RSSEnabled = true
    rssmicroposttitles = false
