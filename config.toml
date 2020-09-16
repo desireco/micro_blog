@@ -27,7 +27,8 @@ paginate     = 10
   # Default theme "light" or "dark"
   defaultTheme = "dark"
 
-
+[author]
+  name = "Zeljko Dakic"
 [taxonomies]
     category = "blog"
     tag      = "tags"
