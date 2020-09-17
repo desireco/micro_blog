@@ -34,6 +34,24 @@ paginate     = 10
     tag      = "tags"
     series   = "series"
 
+# Social icons
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/desireco"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:zeljko@gmail.com"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/desireco"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/zeljkodakic"
+
+
 [languages]
   [languages.en]
     title = "Hello World!"
