@@ -1,5 +1,5 @@
 ---
-title: "02 21 20 Proud Parent"
+title: "Proud Parent"
 date: 2020-02-21T12:30:45-06:00
 categories: ["javascript", "programming"]
 ---

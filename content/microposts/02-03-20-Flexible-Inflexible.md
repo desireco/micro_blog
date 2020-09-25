@@ -1,5 +1,5 @@
 ---
-title: "02 03 20 Flexible Inflexible"
+title: "Flexible Inflexible"
 date: 2020-02-03T12:24:49-06:00
 categories: ["photo"]
 ---
