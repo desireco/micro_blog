@@ -1,7 +1,6 @@
 ---
 title: "Agile Benefits"
 date: 2020-09-25T14:42:07-05:00
-draft: true
 categories: ["agile", "work"]
 ---
 
