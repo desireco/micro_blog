@@ -1,3 +1,4 @@
 #!/bin/bash
 
-hugo server --buildDrafts
+open http://localhost:1313
+hugo server --buildDrafts&
