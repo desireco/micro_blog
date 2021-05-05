@@ -1,22 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>development on SW Dev Chicago Blog</title>
-    <link>https://softwaredevelopmentinchicago.com/tags/development/</link>
-    <description>Recent content in development on SW Dev Chicago Blog</description>
+    <title>development on Hello World!</title>
+    <link>https://zeljko.dakic.com/tags/development/</link>
+    <description>Recent content in development on Hello World!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Dec 2019 08:46:48 -0600</lastBuildDate>
-    
-	<atom:link href="https://softwaredevelopmentinchicago.com/tags/development/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 09 Dec 2019 08:46:48 -0600</lastBuildDate><atom:link href="https://zeljko.dakic.com/tags/development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creating A New Blog</title>
-      <link>https://softwaredevelopmentinchicago.com/posts/create-new-blog/</link>
+      <link>https://zeljko.dakic.com/posts/create-new-blog/</link>
       <pubDate>Mon, 09 Dec 2019 08:46:48 -0600</pubDate>
       
-      <guid>https://softwaredevelopmentinchicago.com/posts/create-new-blog/</guid>
+      <guid>https://zeljko.dakic.com/posts/create-new-blog/</guid>
       <description>I had previous blog linger without any real posts. I thought about shutting thing down and releasing domain name. But I do have desire to write. It just takes too much time and planning to express what new and notable is in a form of coherent post.
 Recently I discovered https://micro.blog/ network. It make total sense. Often I find really cool video, or link to article. Or I just have short insight.</description>
     </item>

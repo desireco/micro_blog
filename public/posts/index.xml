@@ -1,25 +1,224 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on SW Dev Chicago Blog</title>
-    <link>https://softwaredevelopmentinchicago.com/posts/</link>
-    <description>Recent content in Posts on SW Dev Chicago Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 09 Dec 2019 08:46:48 -0600</lastBuildDate>
-    
-	<atom:link href="https://softwaredevelopmentinchicago.com/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Creating A New Blog</title>
-      <link>https://softwaredevelopmentinchicago.com/posts/create-new-blog/</link>
-      <pubDate>Mon, 09 Dec 2019 08:46:48 -0600</pubDate>
-      
-      <guid>https://softwaredevelopmentinchicago.com/posts/create-new-blog/</guid>
-      <description>I had previous blog linger without any real posts. I thought about shutting thing down and releasing domain name. But I do have desire to write. It just takes too much time and planning to express what new and notable is in a form of coherent post.
+    <channel>
+        <title>Posts on Hello World!</title>
+        <link>https://zeljko.dakic.com/posts/</link>
+        <description>Recent content in Posts on Hello World!</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Fri, 25 Sep 2020 14:42:07 -0500</lastBuildDate>
+        <atom:link href="https://zeljko.dakic.com/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Agile Benefits</title>
+            <link>https://zeljko.dakic.com/posts/09-25-20-agile-benefits/</link>
+            <pubDate>Fri, 25 Sep 2020 14:42:07 -0500</pubDate>
+            
+            <guid>https://zeljko.dakic.com/posts/09-25-20-agile-benefits/</guid>
+            <description>Companies that practice Agile methodologies or want to jump on board with this “modern” methodologies, they want flexibility and gain customer focus. These are often benefits of going agile.
+There is one benefit that makes a huge difference and for most part people don’t understand it and don’t know to utilize it properly. It is a principle of starting fresh.
+In Agile, every sprint, every week, even every day is a new start.</description>
+            <content type="html"><![CDATA[<p>Companies that practice Agile methodologies or want to jump on board with this “modern” methodologies, they want flexibility and gain customer focus. These are often benefits of going agile.</p>
+<p>There is one benefit that makes a huge difference and for most part people don’t understand it and don’t know to utilize it properly. It is a principle of starting fresh.</p>
+<p>In Agile, every sprint, every week, even every day is a new start. Whatever was before is put behind and you are starting anew. This let’s you put behind and overcome any issues from before and focus on what you want to accomplish with least amount of burden on your team.</p>
+<p>For personal agile, when you plan your life every week and realign yourself to your goals and projects, this is especially beneficial. Whatever issues you had before, you can still start fresh and focus on what you want to accomplish in next week, usually for personal agile, week equates as sprint.</p>
+<p>So every week, start fresh. Go to catalog/backlog of goals and actions which ones you want to pursue. There will be themes that will play along longer for sure, but each week you are free to start fresh.</p>
+<p>I don&rsquo;t think this is emphasised nearly enough and it makes a huge difference.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>You always get what you ask for</title>
+            <link>https://zeljko.dakic.com/posts/03-11-20-be-careful-what-you-ask/</link>
+            <pubDate>Wed, 11 Mar 2020 09:40:01 -0500</pubDate>
+            
+            <guid>https://zeljko.dakic.com/posts/03-11-20-be-careful-what-you-ask/</guid>
+            <description>Or, be careful what you are asking for Funny thing is, that you will get what you ask for.
+At the place where I work, we have a really big project. And one of the issues we faced most of the past year was, that we were not even close to the state to release it. And you can’t learn anything about the product if you don’t let customers use it.</description>
+            <content type="html"><![CDATA[<h2 id="or-be-careful-what-you-are-asking-for">Or, be careful what you are asking for</h2>
+<p>Funny thing is, that you will get what you ask for.</p>
+<p>At the place where I work, we have a really big project. And one of the issues we faced most of the past year was, that we were not even close to the state to release it. And you can’t learn anything about the product if you don’t let customers use it.</p>
+<p>So that was a problem.</p>
+<p>I complained often about that.</p>
+<p>My boss decided that it makes sense what I am saying and asked managers in charge to make things happen&hellip; well&hellip; the thing is&hellip; he asked them to deliver version 1.0 of the product. Probably hinted or promised some kind of reward.</p>
+<p>Here is a funny thing. We are still where we are, in the state of incompleteness and chaos. But did a version 1.0 got delivered? Oh yeah, and with fanfare.</p>
+<p>Now emboldened with their success, they are already working on version 1.2, after delivering 1.1 in the meantime.</p>
+<p>Are those complete? Not really, we are still putting foundational things that would be there in place for some kind of MVP.</p>
+<p>So, be careful what you are asking for.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>What to do, when you are stuck</title>
+            <link>https://zeljko.dakic.com/posts/03-11-20-when-you-are-stuck/</link>
+            <pubDate>Wed, 11 Mar 2020 09:30:44 -0500</pubDate>
+            
+            <guid>https://zeljko.dakic.com/posts/03-11-20-when-you-are-stuck/</guid>
+            <description>I talked to a friend today about how he got stuck with a coding problem that in the end turned out to be very simple. It took him several days and a lot of frustration before he discovered solution.
+It wasn’t pleasant experience. While he was struggling, he questioned his skills and abilities, wondered if he is still as good as he was in the past.
+It happened to everyone. Usually when it happens to me, it is past 3:30pm.</description>
+            <content type="html"><![CDATA[<p>I talked to a friend today about how he got stuck with a coding problem that in the end turned out to be very simple. It took him several days and a lot of frustration before he discovered solution.</p>
+<p>It wasn’t pleasant experience. While he was struggling, he questioned his skills and abilities, wondered if he is still as good as he was in the past.</p>
+<p>It happened to everyone. Usually when it happens to me, it is past 3:30pm. I noticed that what seemed simple problem in the morning, would be something I can get stuck on after 4pm. Same thing would look super easy in the evening, if I look at it again.</p>
+<p>So what to do when you are stuck. I have small 3x5 on which I wrote some of the things I can try if I feel frustrated with a problem. I have few of those with different options for different situations.</p>
+<p>Here are some of the highlights:</p>
+<ul>
+<li>go to washroom and splash water on your face (it helps me refresh)</li>
+<li>stand up and go for a walk
+change your environment or just a mode of being (standing up) is very helpful</li>
+<li>explain that problem to someone, maybe even write it down if you don’t have anyone to explain</li>
+<li>Explain that problem to someone famous, explain Ruby problem to Matz or DHH for example.</li>
+<li>What would XX do? (XX - someone you admire and is known to be good at this skill)
+This last one helped me more time then I want to admit. If you watched youtube videos of another developer you admire, just imagining this person talking to you and repeating a problem and then offering suggestions is very powerful.</li>
+<li>what would be smallest next step I could do
+I talked to a friend today about how he got stuck with a coding problem that in the end turned out to be very simple. It took him several days and a lot of frustration before he discovered a solution.</li>
+</ul>
+<p>It wasn’t a pleasant experience. While he was struggling, he questioned his skills and abilities, wondered if he is still as good as he was in the past.</p>
+<p>It happened to everyone. Usually, when it happens to me, it is past 3:30 pm. I noticed that what seemed a simple problem in the morning, would be something I can get stuck on after 4 pm. The same thing would look super easy in the evening if I look at it again.</p>
+<p>So what to do when you are stuck. I have small 3x5 on which I wrote some of the things I can try if I feel frustrated with a problem. I have a few of those with different options for different situations.</p>
+<p>Here are some of the highlights:</p>
+<ul>
+<li>go to the washroom and splash water on your face (it helps me refresh)</li>
+<li>stand up and go for a walk
+change your environment or just a mode of being (standing up) is very helpful</li>
+<li>explain that problem to someone, maybe even write it down if you don’t have anyone to explain</li>
+<li>Explain that problem to someone famous, explain Ruby problem to Matz or DHH for example.</li>
+<li>What would XX do? (XX - someone you admire and is known to be good at this skill)
+This last one helped me more time then I want to admit. If you watched youtube videos of another developer you admire, just imagining this person talking to you and repeating a problem and then offering suggestions is very powerful.</li>
+<li>what would be the smallest next step I could do
+this one is inspired by GTD and it can be very powerful when we are overwhelmed with the task and don’t feel like starting</li>
+<li>what could I try to, list all the things you can try to resolve the issue you are stuck with</li>
+<li>what is this problem in essence, what is the kind of problem? Once you identify what kind of problem is, what is category, you have the usual steps people use to resolve it.</li>
+</ul>
+<p>There is many more. I would often check what time of day is and schedule work during the time when I feel like I have more chance.</p>
+<p>Rescheduling work is really effective, especially if you are not making any progress currently, so spending more time on it doesn’t bring any benefit anyway.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Mobile Tech Strategy Guide</title>
+            <link>https://zeljko.dakic.com/posts/02-21-20-mobile-strategy-guide/</link>
+            <pubDate>Fri, 21 Feb 2020 13:13:59 -0600</pubDate>
+            
+            <guid>https://zeljko.dakic.com/posts/02-21-20-mobile-strategy-guide/</guid>
+            <description>We have exciting times in past few years in terms of development tooling, browser abilities and what is available and possible to do. Your approach should take into account new tools and possibilities.
+When it comes to development of new apps or services, things changed a lot. It would not make sense to do same old things to what made sense few years ago.
+I want to explain several new trends that are dominating successful application development.</description>
+            <content type="html"><![CDATA[<p>We have exciting times in past few years in terms of development tooling, browser abilities and what is available and possible to do. Your approach should take into account new tools and possibilities.</p>
+<p>When it comes to development of new apps or services, things changed a lot. It would not make sense to do same old things to what made sense few years ago.</p>
+<p>I want to explain several new trends that are dominating successful application development.</p>
+<h2 id="trend-frontend-makes-90-of-modern-apps">Trend: FrontEnd makes 90% of modern apps.</h2>
+<p>Modern apps are pretty much all front-end. Backend is reduced to API for the most part. When you use GraphQL with its flexible queries and mobile-friendly delivery of data, your backend shrinks even more as they provide data endpoints (API). It is possible making most of the app on front-end only and utilize authentication and other services from 3rd parties.</p>
+<p>When you use backend service like Hasura, Apollo or FaunaDB, you pretty much resolve most of your backend needs and need only to focus on delivering great UI experience to your customers.</p>
+<h2 id="trend-think-and-experiment-before-you-build">Trend: Think and experiment before you build</h2>
+<p>Eric Ries and Steve Blank with Lean Agile was way ahead of his time with experimental approach. Actually they were right on the money, but as usual it takes a while before it gets adopted to mainstream. I think we are finally seeing more mainstream adoption of approach, even if it isn&rsquo;t always coming in form of Lean Startup. People now spend time thinking things through and experimenting before building and that is awesome and makes all of us more happier humans.</p>
+<h2 id="trend-typescript-and-js-component-frameworks-rule">Trend: TypeScript and JS component frameworks rule</h2>
+<p>Days, when you assemble your front-end with templates in PHP, are &hellip; well gone for the most part. Some people still live in the stone age, but trends are focused on modern component development. Javascript no longer is JS and Microsoft&rsquo;s TypeScript is taking over as ultimate professional tool for developing solid JS apps.</p>
+<p>Companies mostly use React, but other component frameworks like Angular, Stencil, Vue are gaining prominence and are excellent tools.</p>
+<p>How about Elm? Well, it is fantastic language for frontend but it&rsquo;s time has not come just yet.</p>
+<h2 id="trend-build-webpwa-apps-instead-of-native-first">Trend: Build Web/PWA Apps instead of native first</h2>
+<p>This one is sensible approach but it took long to start, even if it is still too slow. It totally doesn&rsquo;t make sense to burn through resources to build native apps on multiple platforms.</p>
+<p>Some of the negatives:</p>
+<ul>
+<li>slow development</li>
+<li>each platform (IOS/Android) requires separate talent</li>
+<li>you can&rsquo;t control release</li>
+<li>fixing issues and changing course is exceptionally slow</li>
+<li>you are alienating users on platforms you are not present</li>
+</ul>
+<p>PWA apps for most part completely resolve all those issues, you can be super nice to your users. Performance wise, you are close to native in experience, and with some other benefits, like real-time updates you can offer features that are not possible that easily on native.</p>
+<p>Costs to develop are hugely reduced comparing to native apps, support is easier, releases can be continuous.</p>
+<p>For new businesses and products, quickly learning and adjusting course would be most important feature, which is exactly what making web apps into PWAs offers.</p>
+<p>Also, industry is adopting PWAs as ultimate apps, Google and Microsoft are pushing hard and are heavily invested in their success.</p>
+<h2 id="trend-continuous-everythinglive-updates">Trend: Continuous everything/Live updates</h2>
+<p>Another trend that might not be as obvious, but is still pervasive, is how everything is no longer discrete but continous. Apps are delivered continuosly, using GitHub as collaboration Hub and CI services. But even more then that, more often you will see experiences that are live updated, which means you don&rsquo;t need to reload page to refresh information. As you are updating things on your end, others looking at the same page will see those updates instantly. This is something that is mostly available on web apps as opposed to native apps.</p>
+<h3 id="conclusion">Conclusion</h3>
+<p>On one hand, these are all fantastic trends, that free us from boring tasks and developing CRUD apps over and over again. It also makes it easier for everyone to offer great experiences.</p>
+<p>For developers this means that they will have to learn even more to keep up with trends and stay up to date with current happenings. Things are changing and moving faster then ever before.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Every Language Focus</title>
+            <link>https://zeljko.dakic.com/posts/02-12-20-every-language-focus/</link>
+            <pubDate>Wed, 12 Feb 2020 10:15:38 -0600</pubDate>
+            
+            <guid>https://zeljko.dakic.com/posts/02-12-20-every-language-focus/</guid>
+            <description>&lt;p&gt;Every programming language carries focus on a problem space that is naturally good at solving. You would think that we pick languages as we focus on problems, but I am not 100% sure this is the case. There is definitely seeking best tool for the job, but it is also that certain tools inspire our thinking and focus on a problem in certain way.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>Every programming language carries focus on a problem space that is naturally good at solving. You would think that we pick languages as we focus on problems, but I am not 100% sure this is the case. There is definitely seeking best tool for the job, but it is also that certain tools inspire our thinking and focus on a problem in certain way.</p>
+<p>You could say for sure that if we stayed with C++ our approach to internet as whole would be drastically different.</p>
+<ul>
+<li>Java - design patterns</li>
+<li>Php - blogs, content management</li>
+<li>Ruby - TDD discipline, Domain Specific Languages, Happines</li>
+<li>Python - Machine learning, Robots</li>
+<li>Lisp - Weirdness, left wrist injury (due to Emacs)</li>
+<li>Haskell - Excessive purity, Monads</li>
+<li>Javascript - UI, Async</li>
+</ul>
+<p>I don&rsquo;t want to elaborate too much why things are, just want to observe interesting pattern. For example, Java was created as universal language to be available on every pattern, to be OO and modern. Verbosity that came with it, created need to recongnize and use Design Patterns as a way to communicate complex patterns.</p>]]></content>
+        </item>
+        
+        <item>
+            <title>Agility vs Productivity</title>
+            <link>https://zeljko.dakic.com/posts/02-12-20-agility-productivity/</link>
+            <pubDate>Wed, 12 Feb 2020 08:23:14 -0600</pubDate>
+            
+            <guid>https://zeljko.dakic.com/posts/02-12-20-agility-productivity/</guid>
+            <description>&lt;p&gt;I am complelled to write this as a reaction to how people implement agile mostly, but also to so many terrible office trends that exist today and unfortunatelly that I have to endure some of those.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>I am complelled to write this as a reaction to how people implement agile mostly, but also to so many terrible office trends that exist today and unfortunatelly that I have to endure some of those.</p>
+<p>Current state of corporations is such that time is wasted everywhere and in huge amounts.</p>
+<p>It is wasted for example during commute to work that everyone is doing at the same time. I can write about that some other time. What I want to focus now is 3 core issues that prevent people from being productive:</p>
+<ul>
+<li>excessive agile ceremonies</li>
+<li>open space</li>
+<li>8h continuous work day</li>
+</ul>
+<h2 id="agile-ceremonies">Agile Ceremonies</h2>
+<p>Well meaning corporation A decides that it wants to be modern and fancy and adopts Scrum of all the ways how you can be unproductive. Now, Scrum in itself is actually really cool way to be productive and kick ass, except, you know, reasons, usually related to corporate power dynamics.</p>
+<p>When smart people were thinking of agile methods and how to make people work better, they were responding to what they saw, which was in 1990 or so (Agile Manifesto was written Feb 2001). We simply don&rsquo;t have same problems people at the time had. Not at all.</p>
+<p>One of the problem people felt is lack of communication and feedback loop with customer. Another were huge specs that needed to be written before any work would be done. And many more.</p>
+<p>I would argue, that we simply don&rsquo;t have such problem any more. We have other problems, like too much information, too many distractions, lack of focus etc.</p>
+<p>So, agile ceremonies are really good way to get together as a team and plan and organize. Except, they are not when for example people use them and try to fill time with activities just so they could say they had 1h long retro or 2h planning meeting.</p>
+<p><strong>THERE IS NOTHING AGILE ABOUT 2H PLANNING MEETING.</strong></p>
+<p>Absolutely nothing. It just means it was poorly prepared, wasn&rsquo;t focused and usually doesn&rsquo;t really produce results. The reason why 2h IPM (Iteration Planning Meeting) is terrible waste of time, is that it signals things are not planned, so usually aafter 2h, barely anything is resolved, it is mostly that people are exhausted and can&rsquo;t endure it anymore.</p>
+<p>Other agile ceremonies are usually similar, with retro&rsquo;s being about venting, which they are actually meant for that, but also for focusing on themes and resolving problems and those things are rarely happening. People are simply tasked to produce number of positive and negative things, which they do, then some actions (hopefully) are assigned to alliviate those. Rarely teams are more productive or even happier after those, which is a sign that it isn&rsquo;t working.</p>
+<h2 id="open-office-and-standing-desks">Open Office (and standing desks)</h2>
+<p>Oh boy. This one is of epic proportions.</p>
+<p>Now to be fair, open office was invented with best of intentions. We can go through the history and you should explore it, as it is very interesting how it came to be.</p>
+<p>In short, the way current open office layouts are made is complete insanity.</p>
+<p>Biologically it induced consistent fight-or-flight reflex in us. It kills creativity, prevents communication as you are trying to shield yourself. And lastly, it is beyond terrible for focus.</p>
+<p>There is research and studies that support this.</p>
+<p>Why do business make those floor plans? Very simple, to cram more people in small space. It is just way more cheaper to jam people together using open floor plan then if you actually had to give them an office.</p>
+<p>This causes another thing to happen, you just don&rsquo;t respect people nearly as much in open space. Corporations would just say, we need 5 more resources here, and they would jam 5 people in line and expect them to work.</p>
+<p>In the past, you have to have some thought to it, give office to everyone, think what their role and contribution should be. You would not just say, hey I need 5 more people here, pressing keys and looking busy.</p>
+<p>There are studies that show that people are performing at 60% of their performance if they would have more humane office space. I personally would take all this with grain of salt, as it is based on context, but it wouldn&rsquo;t surprise me that it goes as low as 20-30%, as people often spend weeks spinning in circles before they get to do things.</p>
+<p>I just don&rsquo;t have in me today to write about standing desks and varicose veins.</p>
+<h2 id="8h-work-day">8h work day</h2>
+<p>This last one is maybe not as obvious. There are success in France and Finland (effin' countries) with shorter work day.</p>
+<p>The reason why 8h is bad, is that it is not factory work. You just can&rsquo;t jam current creative work in 8h continuous period. I think people already feel that, which weirdly enough, they are trying to resolve by working before and often after work hours, to do work they can&rsquo;t perform during regular hours.</p>
+<p>Also, current work day doesn&rsquo;t have structure. You just get random meetings sprinkled around your day and you are supposed to magically work in between. This is not how things can work.</p>
+<p>You need to create small breaks and walks every 2h. I don&rsquo;t think it is a matter of personal productivity for you to do this. You can get meetings scheduled at times when you should be taking a break.</p>
+<p>I would institute break at 10-10:15, then another 3-3:15pm at least. It would be global and you can invent some activity that would require everyone to do it. Coffee break is fine excuse. You get socializing, so you can as well get rid of open office plan.</p>
+<p>I would also require meeting to happen in afternoon. I would also give meeting creators ie. managers a number of tokens that they can use to make meetings.</p>
+<h2 id="is-this-all">Is this all</h2>
+<p>This is just skratching the surface. It is sad to see and know how many people are wasting their lives at work where they are just spinning their wheels.</p>
+<p>Also, corporations (and startups) are wasting huge resources and capital without getting proper return. I believe a good organization would allow genuine competitive advantage, for example 37 Signals ie. Basecamp. They can just hint that they will have opening and immediatelly get thousands of applications. But because they hire people like people not resources, they don&rsquo;t hire 10 resources, but single developer, someone to provide support, a designer for specific product. They have much-much smaller, super efficient teams. Everyone is presumably overjoyed to work there.</p>]]></content>
+        </item>
+        
+        <item>
+            <title>Creating A New Blog</title>
+            <link>https://zeljko.dakic.com/posts/create-new-blog/</link>
+            <pubDate>Mon, 09 Dec 2019 08:46:48 -0600</pubDate>
+            
+            <guid>https://zeljko.dakic.com/posts/create-new-blog/</guid>
+            <description>I had previous blog linger without any real posts. I thought about shutting thing down and releasing domain name. But I do have desire to write. It just takes too much time and planning to express what new and notable is in a form of coherent post.
 Recently I discovered https://micro.blog/ network. It make total sense. Often I find really cool video, or link to article. Or I just have short insight.</description>
-    </item>
-    
-  </channel>
+            <content type="html"><![CDATA[<p>I had previous blog linger without any real posts. I thought about shutting thing down and releasing domain name. But I do have desire to write. It just takes too much time and planning to express what new and notable is in a form of coherent post.</p>
+<p>Recently I discovered <a href="https://micro.blog/">https://micro.blog/</a> network. It make total sense. Often I find really cool video, or link to article. Or I just have short insight. I could use Twitter, which is original micro post network. But this is like yelling at the stadium.</p>
+<p>I want to preserve my learning and growing, for others, who follow me and are interested, but mostly for myself, so I can see what I was reading, learning in the past and to be able to look at that from distance.</p>
+<p>For those reasons, I want to try again.</p>
+]]></content>
+        </item>
+        
+    </channel>
 </rss>
