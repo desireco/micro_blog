@@ -1,5 +1,5 @@
 ---
-title: "05 05 21 Now Using Shampoo"
+title: "Now Using Shampoo"
 date: 2021-05-05T01:34:58-05:00
 categories: ["life"]
 ---

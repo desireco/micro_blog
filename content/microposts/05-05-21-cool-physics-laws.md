@@ -1,5 +1,5 @@
 ---
-title: "05 05 21 Cool Physics Laws"
+title: "Cool Physics Laws"
 date: 2021-05-05T01:25:54-05:00
 categories: ["video", "science"]
 ---

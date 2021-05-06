@@ -1,5 +1,5 @@
 ---
-title: "05 05 21 Nft Info"
+title: "Nft Info"
 date: 2021-05-05T01:42:32-05:00
 categories: ["tech", "life"]
 ---
