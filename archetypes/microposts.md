@@ -10,4 +10,7 @@ image
 ![Flexible/Inflexible](/images/a-writing-on-the-wall-3627937.jpg)
 
 youtube
-{{< youtube yb0y6MRwmd4 >}}
+{{< youtube yb0y6MRwmd4 title="" >}}
+
+tweet
+{{< tweet user="SanDiegoZoo" id="1453110110599868418" >}}
