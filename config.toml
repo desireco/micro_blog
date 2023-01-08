@@ -78,5 +78,5 @@ paginate     = 10
 
   [[menu.main]]
     identifier = "sites"
-    name       = "Sites I ❤️"
+    name       = "I ❤️"
     url        = "/sites"
