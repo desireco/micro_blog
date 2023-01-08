@@ -75,3 +75,8 @@ paginate     = 10
     identifier = "short"
     name       = "Shorts"
     url        = "/microposts"
+
+  [[menu.main]]
+    identifier = "sites"
+    name       = "Sites I ❤️"
+    url        = "/sites"
