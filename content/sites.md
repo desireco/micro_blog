@@ -12,3 +12,66 @@
 - Meditation & Atmosphere
 
     https://www.youtube.com/@GreenredProductions
+
+    https://www.youtube.com/@subbassmeditationmusic
+
+    Seriously good for programming or writing
+
+    https://www.youtube.com/@curemusic-
+
+    https://www.youtube.com/@BLUME_Music
+
+    Instant relaxation
+
+    https://www.youtube.com/@ParadiseTonight
+
+    https://www.youtube.com/@ThePsychedelicMuse
+
+    Meditation
+
+    https://www.youtube.com/@GoodVibesMusic
+
+    https://www.youtube.com/@BrianScott1111
+
+    https://www.youtube.com/@meditationrelaxclub
+
+
+
+
+- Great Music
+
+    Latino
+    https://www.youtube.com/@PlayingForChange
+
+    Disco Mix
+    https://www.youtube.com/@MorenoJ1973
+
+    More techno, progressive
+    https://www.youtube.com/@MorphineMusic
+
+    https://www.youtube.com/@BorisBrejcha_official
+
+- Politics / War in Europe
+    
+    https://www.youtube.com/@dpa-war
+    
+    https://www.youtube.com/@historylegends
+
+
+    https://www.youtube.com/@breakingpoints
+
+- Philosophy, success
+
+    https://www.youtube.com/@DanKoeTalks
+
+    https://www.youtube.com/@bigthink
+
+
+
+- Comedy
+
+    https://www.youtube.com/@DragosComedy
+
+- Programming
+
+    https://www.youtube.com/@ThePrimeagen
