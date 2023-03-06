@@ -1,5 +1,5 @@
 ---
-title: "08 01 22 Deno Svelte"
+title: "Deno Svelte"
 date: 2022-08-01T09:27:39-05:00
 categories: ["programming", "javascript"]
 ---
