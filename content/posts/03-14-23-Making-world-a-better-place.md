@@ -1,5 +1,5 @@
 ---
-title: "03 14 23 Making World a Better Place"
+title: "Making World a Better Place"
 date: 2023-03-14T15:02:10-05:00
 ---
 
