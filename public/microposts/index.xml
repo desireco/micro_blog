@@ -6,7 +6,25 @@
     <description>Recent content in Microposts on Hello World!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Jul 2022 12:55:13 -0500</lastBuildDate><atom:link href="https://zeljko.dakic.com/microposts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Aug 2022 14:04:36 -0500</lastBuildDate><atom:link href="https://zeljko.dakic.com/microposts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Use Vim</title>
+      <link>https://zeljko.dakic.com/microposts/08-01-22-why-use-vim/</link>
+      <pubDate>Mon, 01 Aug 2022 14:04:36 -0500</pubDate>
+      
+      <guid>https://zeljko.dakic.com/microposts/08-01-22-why-use-vim/</guid>
+      <description>Honest and funny way to explain obvious to people</description>
+    </item>
+    
+    <item>
+      <title>Deno Svelte</title>
+      <link>https://zeljko.dakic.com/microposts/08-01-22-deno-svelte/</link>
+      <pubDate>Mon, 01 Aug 2022 09:27:39 -0500</pubDate>
+      
+      <guid>https://zeljko.dakic.com/microposts/08-01-22-deno-svelte/</guid>
+      <description>This is definitely a way to go for performance until Bun gets more production ready. But totally legitimate combination and solid choice is using Svelte (kit) with Deno runtime.</description>
+    </item>
+    
     <item>
       <title>Second Brain - Building it part 1</title>
       <link>https://zeljko.dakic.com/microposts/07-31-22-second-brain/</link>
@@ -44,274 +62,12 @@
     </item>
     
     <item>
-      <title>Now Using Shampoo</title>
-      <link>https://zeljko.dakic.com/microposts/05-05-21-now-using-shampoo/</link>
-      <pubDate>Wed, 05 May 2021 01:34:58 -0500</pubDate>
-      
-      <guid>https://zeljko.dakic.com/microposts/05-05-21-now-using-shampoo/</guid>
-      <description>So for the record, I tried to go shampoo free, for like 4-5 days and it didn&amp;rsquo;t work out for me. I heard from few people that it really works well, but I really didn&amp;rsquo;t like it.
-To be honest, it seems that you need to endure it for like a month, which is too much for me, I really didn&amp;rsquo;t like how my hear felt like it.
-My thing is to wash my hair 3-5 times.</description>
-    </item>
-    
-    <item>
       <title>Cool Physics Laws</title>
       <link>https://zeljko.dakic.com/microposts/05-05-21-cool-physics-laws/</link>
       <pubDate>Wed, 05 May 2021 01:25:54 -0500</pubDate>
       
       <guid>https://zeljko.dakic.com/microposts/05-05-21-cool-physics-laws/</guid>
       <description>I found this video of physicist explaining new approach to defining the universe and liked it. It is short and she explains her ideas quite well.</description>
-    </item>
-    
-    <item>
-      <title>Music for Working</title>
-      <link>https://zeljko.dakic.com/microposts/09-25-20-music-for-working/</link>
-      <pubDate>Fri, 25 Sep 2020 13:34:33 -0500</pubDate>
-      
-      <guid>https://zeljko.dakic.com/microposts/09-25-20-music-for-working/</guid>
-      <description>I was planning to post really cool Craftwerk album that I use for working, but in the meantime, thanks to Youtube amazing recommendation engine, I ended up enjoying Italo Disco quite a bit and it puts me in groove for work. It does look weird how much I move while I work, but I am having fun.
-OK, here is Craftwerk as well.
-Both are solid for working.</description>
-    </item>
-    
-    <item>
-      <title>Proud Parent</title>
-      <link>https://zeljko.dakic.com/microposts/02-21-20-proud-parent/</link>
-      <pubDate>Fri, 21 Feb 2020 12:30:45 -0600</pubDate>
-      
-      <guid>https://zeljko.dakic.com/microposts/02-21-20-proud-parent/</guid>
-      <description>The other day, my son come home from school and asked me: &amp;ldquo;Dad, do you know what NoRedInk is?&amp;rdquo;. He totally didn&amp;rsquo;t expect me to jump and ask him excitedly &amp;ldquo;YOU ARE USING NOREDINK AT SCHOOL&amp;rdquo; (It is fancy Montessori school, what can I say). Then I sat him by me, explained how NoRedInk uses most advanced language on the planet called Elm, which makes it ultimate tool to help kids correct their writing.</description>
-    </item>
-    
-    <item>
-      <title>Green Tea</title>
-      <link>https://zeljko.dakic.com/microposts/02-12-20-green-tea/</link>
-      <pubDate>Wed, 12 Feb 2020 17:32:55 -0600</pubDate>
-      
-      <guid>https://zeljko.dakic.com/microposts/02-12-20-green-tea/</guid>
-      <description>I was brewing myself some loose leaf green tea and thinking about how green tea is the most misunderstood tea ever. Unless you are asian, most people completely miss how to brew this tea properly, kill the taste and genuinely can&amp;rsquo;t enjoy this wonderful tea.</description>
-    </item>
-    
-    <item>
-      <title>Flexible Inflexible</title>
-      <link>https://zeljko.dakic.com/microposts/02-03-20-flexible-inflexible/</link>
-      <pubDate>Mon, 03 Feb 2020 12:24:49 -0600</pubDate>
-      
-      <guid>https://zeljko.dakic.com/microposts/02-03-20-flexible-inflexible/</guid>
-      <description>I think this perfectly summarizes my approach to work.</description>
-    </item>
-    
-    <item>
-      <title>Picard</title>
-      <link>https://zeljko.dakic.com/microposts/02-02-20-picard/</link>
-      <pubDate>Sun, 02 Feb 2020 21:09:21 -0600</pubDate>
-      
-      <guid>https://zeljko.dakic.com/microposts/02-02-20-picard/</guid>
-      <description>My son came to me this afternoon, &amp;ldquo;Hey Dad, did you hear about Picard&amp;hellip;&amp;rdquo;, I stopped him before he finished his sentence&amp;hellip; &amp;ldquo;Son, we are StarWars family.&amp;rdquo;.
-He looked at me&amp;hellip; &amp;ldquo;Sooo, no?&amp;rdquo;&amp;hellip; &amp;ldquo;Exactly.&amp;rdquo;
-I do hear it is a good movie though and have huge respect for actors&amp;hellip; Apparently it is a series. We are after all StarWars family.</description>
-    </item>
-    
-    <item>
-      <title>Party in the Elevator</title>
-      <link>https://zeljko.dakic.com/microposts/02-02-20-party-in-the-elevator/</link>
-      <pubDate>Sun, 02 Feb 2020 21:04:46 -0600</pubDate>
-      
-      <guid>https://zeljko.dakic.com/microposts/02-02-20-party-in-the-elevator/</guid>
-      <description>My kids are crazy about this song. I wanted to include it here so it is not always serious coding stuff.</description>
-    </item>
-    
-    <item>
-      <title>We came a long way</title>
-      <link>https://zeljko.dakic.com/microposts/02-02-20-old-and-new-css/</link>
-      <pubDate>Sun, 02 Feb 2020 20:49:36 -0600</pubDate>
-      
-      <guid>https://zeljko.dakic.com/microposts/02-02-20-old-and-new-css/</guid>
-      <description>Eevee has a long and exhaustive post about history of html and css. I forgot a lot of these things, how we had to put FONT (in caps) for every tag. Anyhow, it is fantastic read and spend time remembering or learning about it, if you are younger, it is well worth it to remember where we all came from.
-https://eev.ee/blog/2020/02/01/old-css-new-css/</description>
-    </item>
-    
-    <item>
-      <title>Officeless Working</title>
-      <link>https://zeljko.dakic.com/microposts/01-20-20-officeless-working/</link>
-      <pubDate>Mon, 20 Jan 2020 09:48:08 -0600</pubDate>
-      
-      <guid>https://zeljko.dakic.com/microposts/01-20-20-officeless-working/</guid>
-      <description>ArsTechnica has article explaining and showing how their fully remote offices look like. I think it is fantastic view into what is one the better ways to work.
-https://arstechnica.com/information-technology/2020/01/no-office-no-problem-how-ars-technicas-remote-workers-work/</description>
-    </item>
-    
-    <item>
-      <title>StartupStory</title>
-      <link>https://zeljko.dakic.com/microposts/01-03-20-startupstory/</link>
-      <pubDate>Fri, 03 Jan 2020 12:24:46 -0600</pubDate>
-      
-      <guid>https://zeljko.dakic.com/microposts/01-03-20-startupstory/</guid>
-      <description>This is perfectly amusing story about someone elses crash and burn in startupville. This guy is honest, he is smart, this doesn&amp;rsquo;t prevent him from making dumb mistakes. Excellent read.
-https://tjcx.me/posts/i-wasted-40k-on-a-fantastic-startup-idea/</description>
-    </item>
-    
-    <item>
-      <title>Computer Science Fiction</title>
-      <link>https://zeljko.dakic.com/microposts/01-02-20-computer-science-fiction/</link>
-      <pubDate>Thu, 02 Jan 2020 09:48:08 -0600</pubDate>
-      
-      <guid>https://zeljko.dakic.com/microposts/01-02-20-computer-science-fiction/</guid>
-      <description>This is post from 2015 but titles are really fantastic for any developer to experience especially if they didn&amp;rsquo;t read those before.
-And I apparently forgot to include link :). Have no idea what was so fantastic.</description>
-    </item>
-    
-    <item>
-      <title>Thinking behind TailWind CSS</title>
-      <link>https://zeljko.dakic.com/microposts/01-02-20-tailwind-philosphy/</link>
-      <pubDate>Thu, 02 Jan 2020 00:28:49 -0600</pubDate>
-      
-      <guid>https://zeljko.dakic.com/microposts/01-02-20-tailwind-philosphy/</guid>
-      <description>Adam Watham creator of TailWind CSS, a library/framework that features utility classes explains here his reasoning and why it makes sense to use TailWind. I find his reasoning compelling.
-https://adamwathan.me/css-utility-classes-and-separation-of-concerns/</description>
-    </item>
-    
-    <item>
-      <title>Cutest Little Grid</title>
-      <link>https://zeljko.dakic.com/microposts/01-02-20-cutest-little-grid/</link>
-      <pubDate>Thu, 02 Jan 2020 00:28:20 -0600</pubDate>
-      
-      <guid>https://zeljko.dakic.com/microposts/01-02-20-cutest-little-grid/</guid>
-      <description>I found this grid while I was researching CSS frameworks. It is really beautiful and elegant and just right for many projects. Check it out, it is less then 20 lines of code.
-https://zeph.co/grid</description>
-    </item>
-    
-    <item>
-      <title>Functional CSS Framework</title>
-      <link>https://zeljko.dakic.com/microposts/191230_functional_framework/</link>
-      <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://zeljko.dakic.com/microposts/191230_functional_framework/</guid>
-      <description>So a funny thing happened. I am starting a new project and wanted to use (Tachyons)[https://tachyons.io/]. So I did training on one website, really fantastic, totally sold me on idea of using it.
-So I add it to a project and nothing works, and classes I am writing are like sh*t and completely not working. I was completely confused. And I kept googling for Tachyons and the closest thing I found was some articles on PostCSS and more verbose classes for Tachyons.</description>
-    </item>
-    
-    <item>
-      <title>Minimalism for business</title>
-      <link>https://zeljko.dakic.com/microposts/191224_minimalism_for_business/</link>
-      <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://zeljko.dakic.com/microposts/191224_minimalism_for_business/</guid>
-      <description>To be minimalist in your code and tech stack is great skill and something only most senior technologists know how to well.
-https://volument.com/blog/minimalism-the-most-undervalued-development-skill</description>
-    </item>
-    
-    <item>
-      <title>To Err Is Human</title>
-      <link>https://zeljko.dakic.com/microposts/191220_to_err_is_human/</link>
-      <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://zeljko.dakic.com/microposts/191220_to_err_is_human/</guid>
-      <description>To err is human; to introduce bugs is to be a developer; and to debug is part of everyday life.</description>
-    </item>
-    
-    <item>
-      <title>almost everything on computers is perceptually slower than it was in 1983</title>
-      <link>https://zeljko.dakic.com/microposts/191219_everything_is_slower_then_1983/</link>
-      <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://zeljko.dakic.com/microposts/191219_everything_is_slower_then_1983/</guid>
-      <description>This topic on how everything is slower, perceptually or real is coming up every now and then.
-https://threadreaderapp.com/thread/927593460642615296.html</description>
-    </item>
-    
-    <item>
-      <title>Right Thing For Wrong Reasons</title>
-      <link>https://zeljko.dakic.com/microposts/191219_right_thing_from_wrong_reasons/</link>
-      <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://zeljko.dakic.com/microposts/191219_right_thing_from_wrong_reasons/</guid>
-      <description>I feel like Facebook is doing absolutely right thing for completely wrong reasons. It will be open-sourced in the end anyway, so I think this is fantastic news.
-https://techcrunch.com/2019/12/19/facebook-operating-system/</description>
-    </item>
-    
-    <item>
-      <title>No Commute Culture</title>
-      <link>https://zeljko.dakic.com/microposts/191212_nocommute_culture/</link>
-      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://zeljko.dakic.com/microposts/191212_nocommute_culture/</guid>
-      <description>This is really good article about how futile is to commute today, especially for places that make all collaboration tools. Anyhow, I plan to expand on it in future, but for now, here it is.
-https://www.irishtimes.com/business/innovation/chris-horn-we-need-to-adopt-a-no-commute-culture-1.4110977</description>
-    </item>
-    
-    <item>
-      <title>Currently Listening to</title>
-      <link>https://zeljko.dakic.com/microposts/191211_rise_above/</link>
-      <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://zeljko.dakic.com/microposts/191211_rise_above/</guid>
-      <description>Currently listening to Cindy Lauper and Henry Rollins singing &amp;ldquo;Rise Above&amp;rdquo; !..!:
-https://www.youtube.com/watch?v=4rAWnkM9-BE</description>
-    </item>
-    
-    <item>
-      <title>Creating New Blog Flow</title>
-      <link>https://zeljko.dakic.com/microposts/191210_creating-new-blog-flow/</link>
-      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://zeljko.dakic.com/microposts/191210_creating-new-blog-flow/</guid>
-      <description>I want to explain few random posts on Twitter and LinkedIn, I created new blog, publishing workflow and my &amp;ldquo;microblog&amp;rdquo; posts get automagically posted to Twitter and LinkedIn. Homepage is at https://softwaredevelopmentinchicago.com/ and so far I am happy that I can write and post about things I care about and it will be shared everywhere that is relevant.</description>
-    </item>
-    
-    <item>
-      <title>Currently Listening to</title>
-      <link>https://zeljko.dakic.com/microposts/191210_this-what-i-am-listening-now/</link>
-      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://zeljko.dakic.com/microposts/191210_this-what-i-am-listening-now/</guid>
-      <description>Currently listening to:
-https://www.youtube.com/watch?v=48VHc5XyDpE</description>
-    </item>
-    
-    <item>
-      <title>2019-12-09T15:12:45-06:00</title>
-      <link>https://zeljko.dakic.com/microposts/fixing-rss/</link>
-      <pubDate>Mon, 09 Dec 2019 15:12:45 -0600</pubDate>
-      
-      <guid>https://zeljko.dakic.com/microposts/fixing-rss/</guid>
-      <description>So, there was some issue with titles being messed up for microposts, and @help was suggesting that killing titles for microposts is best strategy. So hopefully this will work.</description>
-    </item>
-    
-    <item>
-      <title>2019-12-09T10:09:26-06:00</title>
-      <link>https://zeljko.dakic.com/microposts/while-music-was-playing/</link>
-      <pubDate>Mon, 09 Dec 2019 10:09:26 -0600</pubDate>
-      
-      <guid>https://zeljko.dakic.com/microposts/while-music-was-playing/</guid>
-      <description>I just want to point out, that while this chill deep house theme was playing, I was able to setup a new blog, configure everything, explore different kind of posts, shortcodes, tie it to be published on Netlify, connect it to Micro.blog, tie crossposting to Twitter and while it is still playing, waiting for posts to show up on Twitter. Cool.</description>
-    </item>
-    
-    <item>
-      <title>2019-12-09T10:05:58-06:00</title>
-      <link>https://zeljko.dakic.com/microposts/new-microblog/</link>
-      <pubDate>Mon, 09 Dec 2019 10:05:58 -0600</pubDate>
-      
-      <guid>https://zeljko.dakic.com/microposts/new-microblog/</guid>
-      <description>Just started a new microblog (look it up) on https://micro.blog and https://softwaredevelopmentinchicago.com/ and things look good. Now let&amp;rsquo;s see if this will cross post to Twitter and LinkedIn. So far, things are super cool.</description>
-    </item>
-    
-    <item>
-      <title>2019-12-09T09:07:50-06:00</title>
-      <link>https://zeljko.dakic.com/microposts/this-is-what-i-am-listening-now/</link>
-      <pubDate>Mon, 09 Dec 2019 09:07:50 -0600</pubDate>
-      
-      <guid>https://zeljko.dakic.com/microposts/this-is-what-i-am-listening-now/</guid>
-      <description>https://www.youtube.com/watch?v=DNDK0hxKoj0</description>
-    </item>
-    
-    <item>
-      <title>What I focus now</title>
-      <link>https://zeljko.dakic.com/microposts/things-i-focus-now/</link>
-      <pubDate>Mon, 09 Dec 2019 08:53:01 -0600</pubDate>
-      
-      <guid>https://zeljko.dakic.com/microposts/things-i-focus-now/</guid>
-      <description>At the moment, I am interested in developing my TypeScript skills for current work, restarting using Elm and Phoenix for future projects.</description>
     </item>
     
   </channel>

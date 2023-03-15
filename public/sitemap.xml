@@ -2,11 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://zeljko.dakic.com/posts/03-14-23-making-world-a-better-place/</loc>
+    <lastmod>2023-03-14T15:02:10-05:00</lastmod>
+  </url><url>
     <loc>https://zeljko.dakic.com/</loc>
-    <lastmod>2022-07-31T12:55:13-05:00</lastmod>
+    <lastmod>2023-03-14T15:02:10-05:00</lastmod>
+  </url><url>
+    <loc>https://zeljko.dakic.com/posts/</loc>
+    <lastmod>2023-03-14T15:02:10-05:00</lastmod>
   </url><url>
     <loc>https://zeljko.dakic.com/microposts/</loc>
-    <lastmod>2022-07-31T12:55:13-05:00</lastmod>
+    <lastmod>2022-08-01T14:04:36-05:00</lastmod>
+  </url><url>
+    <loc>https://zeljko.dakic.com/microposts/08-01-22-why-use-vim/</loc>
+    <lastmod>2022-08-01T14:04:36-05:00</lastmod>
+  </url><url>
+    <loc>https://zeljko.dakic.com/microposts/08-01-22-deno-svelte/</loc>
+    <lastmod>2022-08-01T09:27:39-05:00</lastmod>
   </url><url>
     <loc>https://zeljko.dakic.com/microposts/07-31-22-second-brain/</loc>
     <lastmod>2022-07-31T12:55:13-05:00</lastmod>
@@ -20,125 +32,16 @@
     <loc>https://zeljko.dakic.com/microposts/05-05-21-nft-info/</loc>
     <lastmod>2021-05-05T01:42:32-05:00</lastmod>
   </url><url>
-    <loc>https://zeljko.dakic.com/microposts/05-05-21-now-using-shampoo/</loc>
-    <lastmod>2021-05-05T01:34:58-05:00</lastmod>
-  </url><url>
     <loc>https://zeljko.dakic.com/microposts/05-05-21-cool-physics-laws/</loc>
     <lastmod>2021-05-05T01:25:54-05:00</lastmod>
   </url><url>
-    <loc>https://zeljko.dakic.com/posts/09-25-20-agile-benefits/</loc>
-    <lastmod>2020-09-25T14:42:07-05:00</lastmod>
-  </url><url>
-    <loc>https://zeljko.dakic.com/posts/</loc>
-    <lastmod>2020-09-25T14:42:07-05:00</lastmod>
-  </url><url>
-    <loc>https://zeljko.dakic.com/microposts/09-25-20-music-for-working/</loc>
-    <lastmod>2020-09-25T13:34:33-05:00</lastmod>
-  </url><url>
-    <loc>https://zeljko.dakic.com/posts/03-11-20-be-careful-what-you-ask/</loc>
-    <lastmod>2020-03-11T09:40:01-05:00</lastmod>
-  </url><url>
-    <loc>https://zeljko.dakic.com/posts/03-11-20-when-you-are-stuck/</loc>
-    <lastmod>2020-03-11T09:30:44-05:00</lastmod>
-  </url><url>
-    <loc>https://zeljko.dakic.com/posts/02-21-20-mobile-strategy-guide/</loc>
-    <lastmod>2020-02-21T13:13:59-06:00</lastmod>
-  </url><url>
-    <loc>https://zeljko.dakic.com/microposts/02-21-20-proud-parent/</loc>
-    <lastmod>2020-02-21T12:30:45-06:00</lastmod>
-  </url><url>
-    <loc>https://zeljko.dakic.com/microposts/02-12-20-green-tea/</loc>
-    <lastmod>2020-02-12T17:32:55-06:00</lastmod>
-  </url><url>
-    <loc>https://zeljko.dakic.com/posts/02-12-20-every-language-focus/</loc>
-    <lastmod>2020-02-12T10:15:38-06:00</lastmod>
-  </url><url>
-    <loc>https://zeljko.dakic.com/posts/02-12-20-agility-productivity/</loc>
-    <lastmod>2020-02-12T08:23:14-06:00</lastmod>
-  </url><url>
-    <loc>https://zeljko.dakic.com/microposts/02-03-20-flexible-inflexible/</loc>
-    <lastmod>2020-02-03T12:24:49-06:00</lastmod>
-  </url><url>
-    <loc>https://zeljko.dakic.com/microposts/02-02-20-picard/</loc>
-    <lastmod>2020-02-02T21:09:21-06:00</lastmod>
-  </url><url>
-    <loc>https://zeljko.dakic.com/microposts/02-02-20-party-in-the-elevator/</loc>
-    <lastmod>2020-02-02T21:04:46-06:00</lastmod>
-  </url><url>
-    <loc>https://zeljko.dakic.com/microposts/02-02-20-old-and-new-css/</loc>
-    <lastmod>2020-02-02T20:49:36-06:00</lastmod>
-  </url><url>
-    <loc>https://zeljko.dakic.com/microposts/01-20-20-officeless-working/</loc>
-    <lastmod>2020-01-20T09:48:08-06:00</lastmod>
-  </url><url>
-    <loc>https://zeljko.dakic.com/microposts/01-03-20-startupstory/</loc>
-    <lastmod>2020-01-03T12:24:46-06:00</lastmod>
-  </url><url>
-    <loc>https://zeljko.dakic.com/microposts/01-02-20-computer-science-fiction/</loc>
-    <lastmod>2020-01-02T09:48:08-06:00</lastmod>
-  </url><url>
-    <loc>https://zeljko.dakic.com/microposts/01-02-20-tailwind-philosphy/</loc>
-    <lastmod>2020-01-02T00:28:49-06:00</lastmod>
-  </url><url>
-    <loc>https://zeljko.dakic.com/microposts/01-02-20-cutest-little-grid/</loc>
-    <lastmod>2020-01-02T00:28:20-06:00</lastmod>
-  </url><url>
-    <loc>https://zeljko.dakic.com/microposts/191230_functional_framework/</loc>
-    <lastmod>2019-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zeljko.dakic.com/microposts/191224_minimalism_for_business/</loc>
-    <lastmod>2019-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zeljko.dakic.com/microposts/191220_to_err_is_human/</loc>
-    <lastmod>2019-12-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zeljko.dakic.com/microposts/191219_everything_is_slower_then_1983/</loc>
-    <lastmod>2019-12-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zeljko.dakic.com/microposts/191219_right_thing_from_wrong_reasons/</loc>
-    <lastmod>2019-12-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zeljko.dakic.com/microposts/191212_nocommute_culture/</loc>
-    <lastmod>2019-12-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zeljko.dakic.com/microposts/191211_rise_above/</loc>
-    <lastmod>2019-12-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zeljko.dakic.com/microposts/191210_creating-new-blog-flow/</loc>
-    <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zeljko.dakic.com/microposts/191210_this-what-i-am-listening-now/</loc>
-    <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zeljko.dakic.com/microposts/fixing-rss/</loc>
-    <lastmod>2019-12-09T15:12:45-06:00</lastmod>
-  </url><url>
-    <loc>https://zeljko.dakic.com/microposts/while-music-was-playing/</loc>
-    <lastmod>2019-12-09T10:09:26-06:00</lastmod>
-  </url><url>
-    <loc>https://zeljko.dakic.com/microposts/new-microblog/</loc>
-    <lastmod>2019-12-09T10:05:58-06:00</lastmod>
-  </url><url>
-    <loc>https://zeljko.dakic.com/microposts/this-is-what-i-am-listening-now/</loc>
-    <lastmod>2019-12-09T09:07:50-06:00</lastmod>
-  </url><url>
-    <loc>https://zeljko.dakic.com/microposts/things-i-focus-now/</loc>
-    <lastmod>2019-12-09T08:53:01-06:00</lastmod>
-  </url><url>
-    <loc>https://zeljko.dakic.com/posts/create-new-blog/</loc>
-    <lastmod>2019-12-09T08:46:48-06:00</lastmod>
-  </url><url>
-    <loc>https://zeljko.dakic.com/tags/development/</loc>
-    <lastmod>2019-12-09T08:46:48-06:00</lastmod>
-  </url><url>
-    <loc>https://zeljko.dakic.com/tags/publishing/</loc>
-    <lastmod>2019-12-09T08:46:48-06:00</lastmod>
-  </url><url>
-    <loc>https://zeljko.dakic.com/tags/</loc>
-    <lastmod>2019-12-09T08:46:48-06:00</lastmod>
+    <loc>https://zeljko.dakic.com/sites/</loc>
+    <priority>0</priority>
   </url><url>
     <loc>https://zeljko.dakic.com/blog/</loc>
   </url><url>
     <loc>https://zeljko.dakic.com/series/</loc>
+  </url><url>
+    <loc>https://zeljko.dakic.com/tags/</loc>
   </url>
 </urlset>
