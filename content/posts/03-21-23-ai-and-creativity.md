@@ -1,6 +1,6 @@
 ---
 title: "Ai And Creativity"
-date: 2023-03-19
+date: 2023-03-21
 draft: true
 ---
 

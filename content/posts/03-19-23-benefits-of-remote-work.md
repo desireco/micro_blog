@@ -1,9 +1,16 @@
 ---
 title: "Benefits of Remote Work"
-date: 2023-03-18T12:28:26-05:00
+date: 2023-03-19
+draft: true
 ---
 
 The rise of remote work has transformed the global workforce, offering employees and employers an array of benefits that have contributed to its increasing popularity. Remote work allows individuals to work from the comfort of their own homes, reducing commute time, increasing productivity and focus, and providing increased flexibility for parents. Moreover, remote work is more environmentally friendly and encourages innovative management strategies for success. In this article, we will explore these advantages in depth, as well as other lesser-known benefits that make remote work a valuable option for many organizations.
+
+### Changes cause pushback
+
+Quite a number of managers, especially middle managers and CEOs are feeling lost and confused by these changes. On one hand they have all this savings and flexibility because they have a lot of fixed cost of owning real-estate and maintaining offices just gone. On the other hand,they feel the need to control people and they are not sure how to go about it.
+
+Let's look at the benefits of remote work.
 
 ### Saving Time
 One of the most apparent benefits of remote work is the significant amount of time saved by eliminating the daily commute. This time can be reallocated to more valuable activities, such as spending time with family, pursuing hobbies, or focusing on personal health and well-being.
