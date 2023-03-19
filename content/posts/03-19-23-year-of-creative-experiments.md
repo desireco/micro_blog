@@ -1,6 +1,6 @@
 ---
 title: "Year of Creative Experiments"
-date: 2023-03-18
+date: 2023-03-19
 ---
 
 I am part of the NessLabs community and recently a member of NessLabs, a lovely women presented a topic of a whole year of creative experiments.
