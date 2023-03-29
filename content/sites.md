@@ -9,25 +9,25 @@
 
 ### Youtube channels
 
-- Meditation & Atmosphere
+##### Meditation & Atmosphere
 
     https://www.youtube.com/@GreenredProductions
 
     https://www.youtube.com/@subbassmeditationmusic
 
-    Seriously good for programming or writing
+##### Seriously good for programming or writing
 
     https://www.youtube.com/@curemusic-
 
     https://www.youtube.com/@BLUME_Music
 
-    Instant relaxation
+##### Instant relaxation
 
     https://www.youtube.com/@ParadiseTonight
 
     https://www.youtube.com/@ThePsychedelicMuse
 
-    Meditation
+##### Meditation
 
     https://www.youtube.com/@GoodVibesMusic
 
@@ -36,9 +36,11 @@
     https://www.youtube.com/@meditationrelaxclub
 
 
+##### Science
+    Undecided /w Matt Farrell
+    https://www.youtube.com/@UndecidedMF
 
-
-- Great Music
+##### Great Music
 
     Latino
     https://www.youtube.com/@PlayingForChange
@@ -51,7 +53,7 @@
 
     https://www.youtube.com/@BorisBrejcha_official
 
-- Politics / War in Europe
+##### Politics / War in Europe
     
     https://www.youtube.com/@dpa-war
     
@@ -60,7 +62,7 @@
 
     https://www.youtube.com/@breakingpoints
 
-- Philosophy, success
+##### Philosophy, success
 
     https://www.youtube.com/@DanKoeTalks
 
@@ -68,10 +70,12 @@
 
 
 
-- Comedy
+##### Comedy
 
     https://www.youtube.com/@DragosComedy
+    https://www.youtube.com/@triggerpod
 
-- Programming
+##### Programming
 
     https://www.youtube.com/@ThePrimeagen
+    https://www.youtube.com/@Fireship
