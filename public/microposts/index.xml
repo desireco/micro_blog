@@ -6,14 +6,53 @@
     <description>Recent content in Microposts on Hello World!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Aug 2022 14:04:36 -0500</lastBuildDate><atom:link href="https://zeljko.dakic.com/microposts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Mar 2023 23:11:23 -0600</lastBuildDate><atom:link href="https://zeljko.dakic.com/microposts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Why Use Vim</title>
-      <link>https://zeljko.dakic.com/microposts/08-01-22-why-use-vim/</link>
-      <pubDate>Mon, 01 Aug 2022 14:04:36 -0500</pubDate>
+      <title>Overcome Odds</title>
+      <link>https://zeljko.dakic.com/microposts/03-29-23-overcome-odds/</link>
+      <pubDate>Wed, 29 Mar 2023 23:11:23 -0600</pubDate>
       
-      <guid>https://zeljko.dakic.com/microposts/08-01-22-why-use-vim/</guid>
-      <description>Honest and funny way to explain obvious to people</description>
+      <guid>https://zeljko.dakic.com/microposts/03-29-23-overcome-odds/</guid>
+      <description>Excellent post about how small and passionate can go against big and entrenched opponent.
+(How Clever Leaders Overcome More Talented and Better Funded Competitors)[https://fs.blog/leaders-talent/]</description>
+    </item>
+    
+    <item>
+      <title>Ai Is Danger</title>
+      <link>https://zeljko.dakic.com/microposts/03-29-23-ai-is-danger/</link>
+      <pubDate>Wed, 29 Mar 2023 22:37:42 -0600</pubDate>
+      
+      <guid>https://zeljko.dakic.com/microposts/03-29-23-ai-is-danger/</guid>
+      <description>People is freaking out</description>
+    </item>
+    
+    <item>
+      <title>Generative Ai Explanation</title>
+      <link>https://zeljko.dakic.com/microposts/03-29-23-generative-ai-explanation/</link>
+      <pubDate>Wed, 29 Mar 2023 22:29:55 -0600</pubDate>
+      
+      <guid>https://zeljko.dakic.com/microposts/03-29-23-generative-ai-explanation/</guid>
+      <description>Pretty good explanation of current state of AI. I personally thing Generative label is more then just picking next word, in fact, good Generative System/Model should provide you with range of choices, but overall this is very informative and short video.</description>
+    </item>
+    
+    <item>
+      <title>Vite for Js Libraries</title>
+      <link>https://zeljko.dakic.com/microposts/03-28-23-vite-for-js-libraries/</link>
+      <pubDate>Tue, 28 Mar 2023 22:19:49 -0600</pubDate>
+      
+      <guid>https://zeljko.dakic.com/microposts/03-28-23-vite-for-js-libraries/</guid>
+      <description>I&amp;rsquo;ve been building libraries and design systems for a while. Building them using Vite is very simple and effective.
+https://andrewwalpole.com/blog/use-vite-for-javascript-libraries/</description>
+    </item>
+    
+    <item>
+      <title>Push Notifications finally free</title>
+      <link>https://zeljko.dakic.com/microposts/03-28-23-push-notifications/</link>
+      <pubDate>Tue, 28 Mar 2023 22:17:05 -0600</pubDate>
+      
+      <guid>https://zeljko.dakic.com/microposts/03-28-23-push-notifications/</guid>
+      <description>Apple finally let us send notifications from PWA. You have to have it installed as desktop shortcut for this to work.
+https://web.dev/push-notifications-in-all-modern-browsers/</description>
     </item>
     
     <item>
@@ -23,51 +62,6 @@
       
       <guid>https://zeljko.dakic.com/microposts/08-01-22-deno-svelte/</guid>
       <description>This is definitely a way to go for performance until Bun gets more production ready. But totally legitimate combination and solid choice is using Svelte (kit) with Deno runtime.</description>
-    </item>
-    
-    <item>
-      <title>Second Brain - Building it part 1</title>
-      <link>https://zeljko.dakic.com/microposts/07-31-22-second-brain/</link>
-      <pubDate>Sun, 31 Jul 2022 12:55:13 -0500</pubDate>
-      
-      <guid>https://zeljko.dakic.com/microposts/07-31-22-second-brain/</guid>
-      <description> </description>
-    </item>
-    
-    <item>
-      <title>The Time Block Academy</title>
-      <link>https://zeljko.dakic.com/microposts/07-31-22-the-time-block-academy/</link>
-      <pubDate>Sun, 31 Jul 2022 12:51:54 -0500</pubDate>
-      
-      <guid>https://zeljko.dakic.com/microposts/07-31-22-the-time-block-academy/</guid>
-      <description> </description>
-    </item>
-    
-    <item>
-      <title>Second Brain: Tiago Forte and Ali Abdaal</title>
-      <link>https://zeljko.dakic.com/microposts/05-05-21-second-brain/</link>
-      <pubDate>Wed, 05 May 2021 19:43:18 -0500</pubDate>
-      
-      <guid>https://zeljko.dakic.com/microposts/05-05-21-second-brain/</guid>
-      <description>Interview with two leading thinkers on note systems and thinking. Really cool if you are interested in how you handle knowledge and notes.</description>
-    </item>
-    
-    <item>
-      <title>Nft Info</title>
-      <link>https://zeljko.dakic.com/microposts/05-05-21-nft-info/</link>
-      <pubDate>Wed, 05 May 2021 01:42:32 -0500</pubDate>
-      
-      <guid>https://zeljko.dakic.com/microposts/05-05-21-nft-info/</guid>
-      <description>Yeah, it is cool and new thing.</description>
-    </item>
-    
-    <item>
-      <title>Cool Physics Laws</title>
-      <link>https://zeljko.dakic.com/microposts/05-05-21-cool-physics-laws/</link>
-      <pubDate>Wed, 05 May 2021 01:25:54 -0500</pubDate>
-      
-      <guid>https://zeljko.dakic.com/microposts/05-05-21-cool-physics-laws/</guid>
-      <description>I found this video of physicist explaining new approach to defining the universe and liked it. It is short and she explains her ideas quite well.</description>
     </item>
     
   </channel>
