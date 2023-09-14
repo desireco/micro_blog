@@ -4,10 +4,90 @@
     <link>https://zeljko.dakic.com/https://zeljko.dakic.com/</link>
     <description>All entries in Hello World! on Hello World!</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     
-    <lastBuildDate>Wed, 29 Mar 2023 23:11:23 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 03 Apr 2023 14:25:55 -0500</lastBuildDate>
     <atom:link href="https://zeljko.dakic.com/" rel="self" type="application/rss+xml" />
+    
+      
+      <item>
+        <title>Groundhog Day</title>
+        <link>https://zeljko.dakic.com/posts/04-03-23-groundhog-day/</link>
+        <pubDate>Mon, 03 Apr 2023 14:25:55 -0500</pubDate>
+        <author> </author>
+        <guid>https://zeljko.dakic.com/posts/04-03-23-groundhog-day/</guid>
+        <description>&lt;p&gt;Imagine being trapped in a never-ending cycle where each day is a repetition of the previous one, with little to no change. This is the premise of the classic comedy-drama film &amp;ldquo;Groundhog Day,&amp;rdquo; in which the protagonist, Phil Connors, finds himself living the same day over and over again. While the movie is a work of fiction, it serves as a compelling metaphor for the experiences of individuals with ADHD, particularly those who work as programmers.&lt;/p&gt;
+&lt;p&gt;For me as a programmer, daily life can feel like a perpetual Groundhog Day. There are things and projects I would like to accomplish, which I am trying really hard to work on and focus. Then weeks, months and sometimes year later, I would find notes on the projects I wanted to do then&amp;hellip; and it is the same projects and things I am trying to do now. And when this happens this is just soul-crushing.&lt;/p&gt;
+&lt;p&gt;ADHD is characterized by difficulty in sustaining attention, impulsivity, and hyperactivity. These symptoms can manifest in various ways, but for programmers, they may lead to struggles with time management, task completion, and organization.&lt;/p&gt;
+&lt;p&gt;Just as Phil Connors is unable to escape the cycle of February 2nd, programmers with ADHD may find themselves stuck in a loop of unfinished projects and missed deadlines. The fast-paced, detail-oriented nature of coding can be overwhelming for those who struggle to maintain focus. Additionally, the constant demand for multitasking and the need to switch between different tasks can exacerbate the symptoms of ADHD.&lt;/p&gt;
+&lt;p&gt;Scrum methodology with endless meetings definitely doesn&amp;rsquo;t help and is especially difficult for people like me. And people like me&amp;hellip; there is a lot of my colleagues who are like me, it seems that programming attracts people like me and our messed up brains are especially good at programming.&lt;/p&gt;
+&lt;p&gt;I am in constant search of new organizational methods and ways how I can sustain my focus so I can make what I always wanted to make.&lt;/p&gt;
+&lt;p&gt;Other people say there are advantages to have a mind like I do (definitely agree) in terms of creativity, ideas, enthysiasm that you can produce. I definitely wouldn&amp;rsquo;t want to lose any of that, but it is really hard when you realize you were &amp;ldquo;looping&amp;rdquo; for months and years over something really simple.&lt;/p&gt;
+&lt;p&gt;Breaking the loop of Groundhog Day requires a combination of self-awareness, support, and strategies. Here is what I found elsewhere suggested and I am trying to apply:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Structure Your Day: Create a daily routine with clear priorities and set achievable goals. Utilize time management tools, such as timers or scheduling apps, to stay on track.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Minimize Distractions: Designate a workspace free of distractions, and use noise-cancelling headphones or white noise machines to block out external sounds.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Take Regular Breaks: Allow yourself regular breaks to recharge and regain focus. Practice mindfulness techniques or engage in physical activity to reduce stress. Walks outside help a lot.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Leverage Your Strengths: Embrace your creativity and problem-solving skills. Identify tasks that align with your strengths and interests.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Seek Support: Connect with others who have similar experiences, talk to your colleagues who struggle like you, it will help immensely knowing others have similar problems.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Listening to ambient music really helps a lot.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Like in the movie, you have to break the loop, do the work, make the Win. It happens, but it requires a lot of energy and often people don&amp;rsquo;t understand how much emotional energy it takes to accomplish some simple things that they take for granted.&lt;/p&gt;
+</description>
+      </item>
+      
+    
+      
+      <item>
+        <title>POSSE - practice to publish content on your own site</title>
+        <link>https://zeljko.dakic.com/microposts/04-03-23-posse/</link>
+        <pubDate>Mon, 03 Apr 2023 14:16:52 -0500</pubDate>
+        <author> </author>
+        <guid>https://zeljko.dakic.com/microposts/04-03-23-posse/</guid>
+        <description>&lt;p&gt;&lt;a href=&#34;https://indieweb.org/POSSE&#34;&gt;https://indieweb.org/POSSE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;POSSE is an abbreviation for Publish (on your) Own Site, Syndicate Elsewhere, the practice of posting content on your own site first, then publishing copies or sharing links to third parties (like social media silos) with original post links to provide viewers a path to directly interacting with your content.&lt;/p&gt;
+</description>
+      </item>
+      
+    
+      
+      <item>
+        <title>Gary Makes Us Wat</title>
+        <link>https://zeljko.dakic.com/microposts/03-29-23-gary-makes-us-wat/</link>
+        <pubDate>Wed, 29 Mar 2023 23:23:50 -0600</pubDate>
+        <author> </author>
+        <guid>https://zeljko.dakic.com/microposts/03-29-23-gary-makes-us-wat/</guid>
+        <description>&lt;p&gt;This is famous talk from Gary Bernhardt in 2012, but it is still amazing and relevant to see how weird sometimes writing software can be.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.destroyallsoftware.com/talks/wat&#34;&gt;https://www.destroyallsoftware.com/talks/wat&lt;/a&gt;&lt;/p&gt;
+</description>
+      </item>
+      
+    
+      
+      <item>
+        <title>Writing to Communicate</title>
+        <link>https://zeljko.dakic.com/microposts/03-29-23-writing-to-communicate/</link>
+        <pubDate>Wed, 29 Mar 2023 23:17:23 -0600</pubDate>
+        <author> </author>
+        <guid>https://zeljko.dakic.com/microposts/03-29-23-writing-to-communicate/</guid>
+        <description>&lt;p&gt;Excellent piece on writing in organization and how it can enhance and help with communication.
+Wish more people and orgs were using this.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://fs.blog/carl-braun-communicating/&#34;&gt;https://fs.blog/carl-braun-communicating/&lt;/a&gt;&lt;/p&gt;
+</description>
+      </item>
+      
     
       
       <item>
@@ -17,7 +97,7 @@
         <author> </author>
         <guid>https://zeljko.dakic.com/microposts/03-29-23-overcome-odds/</guid>
         <description>&lt;p&gt;Excellent post about how small and passionate can go against big and entrenched opponent.&lt;/p&gt;
-&lt;p&gt;(How Clever Leaders Overcome More Talented and Better Funded Competitors)[https://fs.blog/leaders-talent/]&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://fs.blog/leaders-talent/&#34;&gt;How Clever Leaders Overcome More Talented and Better Funded Competitors&lt;/a&gt;&lt;/p&gt;
 </description>
       </item>
       

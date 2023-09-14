@@ -5,8 +5,38 @@
     <link>https://zeljko.dakic.com/microposts/</link>
     <description>Recent content in Microposts on Hello World!</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 29 Mar 2023 23:11:23 -0600</lastBuildDate><atom:link href="https://zeljko.dakic.com/microposts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 03 Apr 2023 14:16:52 -0500</lastBuildDate><atom:link href="https://zeljko.dakic.com/microposts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>POSSE - practice to publish content on your own site</title>
+      <link>https://zeljko.dakic.com/microposts/04-03-23-posse/</link>
+      <pubDate>Mon, 03 Apr 2023 14:16:52 -0500</pubDate>
+      
+      <guid>https://zeljko.dakic.com/microposts/04-03-23-posse/</guid>
+      <description>https://indieweb.org/POSSE
+POSSE is an abbreviation for Publish (on your) Own Site, Syndicate Elsewhere, the practice of posting content on your own site first, then publishing copies or sharing links to third parties (like social media silos) with original post links to provide viewers a path to directly interacting with your content.</description>
+    </item>
+    
+    <item>
+      <title>Gary Makes Us Wat</title>
+      <link>https://zeljko.dakic.com/microposts/03-29-23-gary-makes-us-wat/</link>
+      <pubDate>Wed, 29 Mar 2023 23:23:50 -0600</pubDate>
+      
+      <guid>https://zeljko.dakic.com/microposts/03-29-23-gary-makes-us-wat/</guid>
+      <description>This is famous talk from Gary Bernhardt in 2012, but it is still amazing and relevant to see how weird sometimes writing software can be.
+https://www.destroyallsoftware.com/talks/wat</description>
+    </item>
+    
+    <item>
+      <title>Writing to Communicate</title>
+      <link>https://zeljko.dakic.com/microposts/03-29-23-writing-to-communicate/</link>
+      <pubDate>Wed, 29 Mar 2023 23:17:23 -0600</pubDate>
+      
+      <guid>https://zeljko.dakic.com/microposts/03-29-23-writing-to-communicate/</guid>
+      <description>Excellent piece on writing in organization and how it can enhance and help with communication. Wish more people and orgs were using this.
+https://fs.blog/carl-braun-communicating/</description>
+    </item>
+    
     <item>
       <title>Overcome Odds</title>
       <link>https://zeljko.dakic.com/microposts/03-29-23-overcome-odds/</link>
@@ -14,7 +44,7 @@
       
       <guid>https://zeljko.dakic.com/microposts/03-29-23-overcome-odds/</guid>
       <description>Excellent post about how small and passionate can go against big and entrenched opponent.
-(How Clever Leaders Overcome More Talented and Better Funded Competitors)[https://fs.blog/leaders-talent/]</description>
+How Clever Leaders Overcome More Talented and Better Funded Competitors</description>
     </item>
     
     <item>
