@@ -10,6 +10,9 @@ https://augmented-devs.com
 
 I am doing it with joy and happiness. It should address number of issues I see with modern development and how developers are fitting into it.
 
+![](https://augmented-devs.com/assets/homepage/crypto_face@2700w.jpeg)
+
+
 I asked local data infused ChatGPT to help me write something knowing well about all the benefits we are offering, it is definitely kinder and nicer then I would ever be. Here is it's take:
 
 In today's rapidly evolving digital landscape, the demand for forward-thinking solutions is more pressing than ever. Traditional development methods, while reliable, often fall short in harnessing the full potential of modern technologies. This is where Augmented Developers come into the frame, offering a paradigm shift in the way we approach development. Here are some standout benefits of using Augmented Developers:
