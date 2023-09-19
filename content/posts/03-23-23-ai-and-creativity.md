@@ -1,7 +1,6 @@
 ---
 title: "Ai And Creativity"
 date: 2023-03-23
-draft: true
 ---
 
 I believe that AI can significantly aid and boost human creativity and enhance collaboration. This is something that has to be proven just yet, but I want to explore it and see where we can use AI for that purpose.

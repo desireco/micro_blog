@@ -1,6 +1,7 @@
 ---
 title: "How Do Augmented Developers Tackle the Complex Landscape of Modern Development?"
 date: 2023-09-19T10:58:41-05:00
+categories: ["AI", "software development", "process", "augmented"]
 ---
 
 ## Introduction

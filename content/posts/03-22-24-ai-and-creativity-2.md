@@ -1,7 +1,6 @@
 ---
 title: "Ai and Creativity 2nd part"
 date: 2023-03-24
-draft: true
 ---
 
 I wanted to further expand on previous article and worked with ChatGPT to explore few more points of interest when it comes to creativity and how AI can help us expand it.
