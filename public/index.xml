@@ -1,21 +1,112 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>@’s Hello World! - Hello World!</title>
-    <link>https://zeljko.dakic.com/https://zeljko.dakic.com/</link>
+    <link>http://localhost:1313/http://localhost:1313/</link>
     <description>All entries in Hello World! on Hello World!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-    <lastBuildDate>Mon, 03 Apr 2023 14:25:55 -0500</lastBuildDate>
-    <atom:link href="https://zeljko.dakic.com/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Sep 2023 10:58:41 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/" rel="self" type="application/rss+xml" />
+    
+      
+      <item>
+        <title>How Do Augmented Developers Tackle the Complex Landscape of Modern Development?</title>
+        <link>http://localhost:1313/posts/09-19-23-why-is-now-the-perfect-time-for-the-rise-of-augmented-/</link>
+        <pubDate>Tue, 19 Sep 2023 10:58:41 -0500</pubDate>
+        <author> </author>
+        <guid>http://localhost:1313/posts/09-19-23-why-is-now-the-perfect-time-for-the-rise-of-augmented-/</guid>
+        <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;When Yukihiro Matsumoto, affectionately known as Matz, introduced the concept that a developer&amp;rsquo;s happiness is a pivotal aspect of development, it was a revelation. It emphasized that producing quality work isn&amp;rsquo;t just about the end product, but also about the journey and the well-being of those involved. This philosophy resonated deeply with me, reminding me of the Agile Manifesto&amp;rsquo;s pioneers who championed innovative ways to enhance work quality. Inspired by these trailblazers, I present &amp;ldquo;Augmented Developers&amp;rdquo; – my vision to elevate the quality of our work while ensuring the utmost satisfaction for everyone involved.&lt;/p&gt;
+&lt;h2 id=&#34;current-landscape-of-software-development&#34;&gt;Current landscape of software development&lt;/h2&gt;
+&lt;p&gt;Today&amp;rsquo;s software development landscape is a maze of challenges:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;We navigate an increasingly intricate work environment.&lt;/li&gt;
+&lt;li&gt;Technologies evolve and complicate at a breakneck pace.&lt;/li&gt;
+&lt;li&gt;The platforms for delivery have diversified like never before.&lt;/li&gt;
+&lt;li&gt;While we have access to phenomenal tools, their sheer number can be overwhelming.&lt;/li&gt;
+&lt;li&gt;The demand for versatility in skills and expertise has skyrocketed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Amidst these challenges, we also grapple with:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Clients whose expectations shift and sometimes remain ambiguous.&lt;/li&gt;
+&lt;li&gt;The daunting task of managing and updating legacy codebases.&lt;/li&gt;
+&lt;li&gt;Keeping up with the relentless speed of technological advancements.&lt;/li&gt;
+&lt;li&gt;Overcoming process inefficiencies and systemic breakdowns.&lt;/li&gt;
+&lt;li&gt;In this complex scenario, &amp;ldquo;Augmented Developers&amp;rdquo; aims to be the beacon, guiding us towards excellence and satisfaction in our craft.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;the-augmented-developer-a-new-breed-of-problem-solver&#34;&gt;The Augmented Developer: A New Breed of Problem Solver&lt;/h2&gt;
+&lt;p&gt;In the ever-evolving realm of software development, a new archetype emerges: the &amp;ldquo;Augmented Developer.&amp;rdquo; Defined not just by their skills but by a unique blend of tools and a forward-thinking mindset, these developers stand a class apart. While traditional developers have laid the foundation, Augmented Developers build upon it, bringing innovation and adaptability to the forefront.&lt;/p&gt;
+&lt;h2 id=&#34;strategies-for-navigating-client-expectations&#34;&gt;Strategies for Navigating Client Expectations&lt;/h2&gt;
+&lt;p&gt;The Augmented Developer understands that at the heart of every project lies effective communication. By setting clear boundaries and expectations, they ensure a harmonious collaboration. They harness the power of prototyping, wireframing, and visualization tools, creating a shared vision with clients. Moreover, they play the role of educators, guiding clients through the maze of technology choices to arrive at solutions that are both optimal and future-proof.&lt;/p&gt;
+&lt;h2 id=&#34;tackling-the-legacy-codebase-challenge&#34;&gt;Tackling the Legacy Codebase Challenge&lt;/h2&gt;
+&lt;p&gt;We will just not do it&amp;hellip; only greenfield projects to start as legacy is adding complexity for which we don&amp;rsquo;t have good enough processes at the moment.&lt;/p&gt;
+&lt;h2 id=&#34;simplifying-and-refactoring-ceremonies&#34;&gt;Simplifying and refactoring ceremonies&lt;/h2&gt;
+&lt;p&gt;In the intricate ballet of software development, ceremonies play a pivotal role. However, not all ceremonies add value. As Augmented Developers, our primary objective is to foster meaningful communication with our clients. We strive to deeply understand their needs, aspirations, and challenges. This understanding is the bedrock upon which we build solutions.&lt;/p&gt;
+&lt;p&gt;But here&amp;rsquo;s the catch: time is a finite resource. Every minute spent in redundant ceremonies is a minute taken away from crafting the right solutions. Moreover, unnecessary ceremonies don&amp;rsquo;t just consume time; they also drain financial resources. In an industry where both time and budget are often tight, this is a luxury we cannot afford.&lt;/p&gt;
+&lt;p&gt;Therefore, we are on a mission to simplify and refactor our ceremonies. We are trimming the fat, eliminating processes that don&amp;rsquo;t directly contribute to understanding our client&amp;rsquo;s needs or delivering apt solutions. This streamlined approach ensures that every meeting, every discussion, and every collaboration is purpose-driven. It&amp;rsquo;s not about doing more; it&amp;rsquo;s about doing what&amp;rsquo;s right. By focusing our energies on what truly matters, we are better positioned to deliver solutions that resonate, solutions that make a difference.&lt;/p&gt;
+&lt;h2 id=&#34;in-the-end-it-is-a-ever-evolving-process&#34;&gt;In the end, it is a ever evolving process&lt;/h2&gt;
+&lt;p&gt;Our journey in software development is akin to navigating the vast expanse of an ever-changing landscape. The processes we adhere to today are the culmination of our collective experiences, learnings, and reflections up to this point. They represent our best understanding of how to deliver exceptional value to our clients efficiently and effectively.&lt;/p&gt;
+&lt;p&gt;However, we recognize that the world of technology and client needs are in a state of constant flux. As we continue to undertake more projects and face new challenges, our perspectives will shift, and our strategies will adapt. This evolution is not just inevitable; it&amp;rsquo;s embraced. We see it as an opportunity to refine our approach, to sharpen our methodologies, and to discover even better ways of working.&lt;/p&gt;
+&lt;p&gt;Our commitment is unwavering: to relentlessly pursue improvement. We are dedicated to enhancing our processes, not for the sake of change, but to find the optimal balance that serves both our team and our esteemed clients. We believe that by staying agile, receptive, and proactive, we can ensure that our processes remain as dynamic and innovative as the solutions we provide.&lt;/p&gt;
+&lt;p&gt;Having written all this, I have to add&amp;hellip;&lt;/p&gt;
+&lt;p&gt;With joy,&lt;/p&gt;
+&lt;p&gt;Zhex&lt;/p&gt;
+&lt;p&gt;P.S. Make sure you visit &lt;a href=&#34;https://augmented-devs.com/&#34;&gt;https://augmented-devs.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+      </item>
+      
+    
+      
+      <item>
+        <title>Modern Times Call for Modern Development</title>
+        <link>http://localhost:1313/posts/09-14-23-modern-times-call-for-modern-development/</link>
+        <pubDate>Thu, 14 Sep 2023 16:29:49 -0500</pubDate>
+        <author> </author>
+        <guid>http://localhost:1313/posts/09-14-23-modern-times-call-for-modern-development/</guid>
+        <description>&lt;p&gt;Today we a launching Augmented Developers!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://augmented-devs.com&#34;&gt;https://augmented-devs.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I am doing it with joy and happiness. It should address number of issues I see with modern development and how developers are fitting into it.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://augmented-devs.com/assets/homepage/crypto_face@2700w.jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I asked local data infused ChatGPT to help me write something knowing well about all the benefits we are offering, it is definitely kinder and nicer then I would ever be. Here is it&amp;rsquo;s take:&lt;/p&gt;
+&lt;p&gt;In today&amp;rsquo;s rapidly evolving digital landscape, the demand for forward-thinking solutions is more pressing than ever. Traditional development methods, while reliable, often fall short in harnessing the full potential of modern technologies. This is where Augmented Developers come into the frame, offering a paradigm shift in the way we approach development. Here are some standout benefits of using Augmented Developers:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Harnessing the Best Tools: Augmented Developers are always equipped with the latest tools and technologies. This not only ensures up-to-date solutions but also maximizes efficiency, security, and scalability.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Infusing Joy &amp;amp; Creativity: In a field often perceived as cold and logical, Augmented Developers break the mold by introducing joy and happiness into the development process. This positive energy often translates to more innovative solutions and a brighter, more user-friendly end product.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Adaptable &amp;amp; Future-Ready: The world of tech is always on the move. Augmented Developers are trained to anticipate and adapt to future trends, ensuring that the solutions they create today remain relevant tomorrow.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Holistic Development: Beyond just coding, Augmented Developers approach projects holistically. They consider user experience, market trends, and client visions, creating a comprehensive solution that addresses multiple facets of a challenge.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Efficient Problem Solving: Equipped with a vast array of modern tools and methodologies, Augmented Developers can quickly identify and rectify issues, ensuring smooth project progression and timely delivery.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Collaborative Spirit: Augmented Developers often thrive in collaborative environments. Their exposure to diverse tools and methods means they can communicate effectively with other team members, from designers to marketers, ensuring a cohesive final product.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The digital age demands more than just developers; it calls for visionaries who can navigate the intricate web of modern technology with ease, creativity, and joy. Augmented Developers are the answer to this call, representing the gold standard in contemporary development. In a world where technology is ever-advancing, isn&amp;rsquo;t it time we advance our developers too?&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Remember, Augmented Developers is what you need to develop solutions for modern business.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://augmented-devs.com&#34;&gt;https://augmented-devs.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Sincerely with joy,&lt;/p&gt;
+&lt;p&gt;Zhex&lt;/p&gt;
+</description>
+      </item>
+      
     
       
       <item>
         <title>Groundhog Day</title>
-        <link>https://zeljko.dakic.com/posts/04-03-23-groundhog-day/</link>
+        <link>http://localhost:1313/posts/04-03-23-groundhog-day/</link>
         <pubDate>Mon, 03 Apr 2023 14:25:55 -0500</pubDate>
         <author> </author>
-        <guid>https://zeljko.dakic.com/posts/04-03-23-groundhog-day/</guid>
+        <guid>http://localhost:1313/posts/04-03-23-groundhog-day/</guid>
         <description>&lt;p&gt;Imagine being trapped in a never-ending cycle where each day is a repetition of the previous one, with little to no change. This is the premise of the classic comedy-drama film &amp;ldquo;Groundhog Day,&amp;rdquo; in which the protagonist, Phil Connors, finds himself living the same day over and over again. While the movie is a work of fiction, it serves as a compelling metaphor for the experiences of individuals with ADHD, particularly those who work as programmers.&lt;/p&gt;
 &lt;p&gt;For me as a programmer, daily life can feel like a perpetual Groundhog Day. There are things and projects I would like to accomplish, which I am trying really hard to work on and focus. Then weeks, months and sometimes year later, I would find notes on the projects I wanted to do then&amp;hellip; and it is the same projects and things I am trying to do now. And when this happens this is just soul-crushing.&lt;/p&gt;
 &lt;p&gt;ADHD is characterized by difficulty in sustaining attention, impulsivity, and hyperactivity. These symptoms can manifest in various ways, but for programmers, they may lead to struggles with time management, task completion, and organization.&lt;/p&gt;
@@ -52,10 +143,10 @@
       
       <item>
         <title>POSSE - practice to publish content on your own site</title>
-        <link>https://zeljko.dakic.com/microposts/04-03-23-posse/</link>
+        <link>http://localhost:1313/microposts/04-03-23-posse/</link>
         <pubDate>Mon, 03 Apr 2023 14:16:52 -0500</pubDate>
         <author> </author>
-        <guid>https://zeljko.dakic.com/microposts/04-03-23-posse/</guid>
+        <guid>http://localhost:1313/microposts/04-03-23-posse/</guid>
         <description>&lt;p&gt;&lt;a href=&#34;https://indieweb.org/POSSE&#34;&gt;https://indieweb.org/POSSE&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;POSSE is an abbreviation for Publish (on your) Own Site, Syndicate Elsewhere, the practice of posting content on your own site first, then publishing copies or sharing links to third parties (like social media silos) with original post links to provide viewers a path to directly interacting with your content.&lt;/p&gt;
 </description>
@@ -65,10 +156,10 @@
       
       <item>
         <title>Gary Makes Us Wat</title>
-        <link>https://zeljko.dakic.com/microposts/03-29-23-gary-makes-us-wat/</link>
+        <link>http://localhost:1313/microposts/03-29-23-gary-makes-us-wat/</link>
         <pubDate>Wed, 29 Mar 2023 23:23:50 -0600</pubDate>
         <author> </author>
-        <guid>https://zeljko.dakic.com/microposts/03-29-23-gary-makes-us-wat/</guid>
+        <guid>http://localhost:1313/microposts/03-29-23-gary-makes-us-wat/</guid>
         <description>&lt;p&gt;This is famous talk from Gary Bernhardt in 2012, but it is still amazing and relevant to see how weird sometimes writing software can be.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.destroyallsoftware.com/talks/wat&#34;&gt;https://www.destroyallsoftware.com/talks/wat&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -78,10 +169,10 @@
       
       <item>
         <title>Writing to Communicate</title>
-        <link>https://zeljko.dakic.com/microposts/03-29-23-writing-to-communicate/</link>
+        <link>http://localhost:1313/microposts/03-29-23-writing-to-communicate/</link>
         <pubDate>Wed, 29 Mar 2023 23:17:23 -0600</pubDate>
         <author> </author>
-        <guid>https://zeljko.dakic.com/microposts/03-29-23-writing-to-communicate/</guid>
+        <guid>http://localhost:1313/microposts/03-29-23-writing-to-communicate/</guid>
         <description>&lt;p&gt;Excellent piece on writing in organization and how it can enhance and help with communication.
 Wish more people and orgs were using this.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://fs.blog/carl-braun-communicating/&#34;&gt;https://fs.blog/carl-braun-communicating/&lt;/a&gt;&lt;/p&gt;
@@ -92,10 +183,10 @@ Wish more people and orgs were using this.&lt;/p&gt;
       
       <item>
         <title>Overcome Odds</title>
-        <link>https://zeljko.dakic.com/microposts/03-29-23-overcome-odds/</link>
+        <link>http://localhost:1313/microposts/03-29-23-overcome-odds/</link>
         <pubDate>Wed, 29 Mar 2023 23:11:23 -0600</pubDate>
         <author> </author>
-        <guid>https://zeljko.dakic.com/microposts/03-29-23-overcome-odds/</guid>
+        <guid>http://localhost:1313/microposts/03-29-23-overcome-odds/</guid>
         <description>&lt;p&gt;Excellent post about how small and passionate can go against big and entrenched opponent.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://fs.blog/leaders-talent/&#34;&gt;How Clever Leaders Overcome More Talented and Better Funded Competitors&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -105,10 +196,10 @@ Wish more people and orgs were using this.&lt;/p&gt;
       
       <item>
         <title>Ai Is Danger</title>
-        <link>https://zeljko.dakic.com/microposts/03-29-23-ai-is-danger/</link>
+        <link>http://localhost:1313/microposts/03-29-23-ai-is-danger/</link>
         <pubDate>Wed, 29 Mar 2023 22:37:42 -0600</pubDate>
         <author> </author>
-        <guid>https://zeljko.dakic.com/microposts/03-29-23-ai-is-danger/</guid>
+        <guid>http://localhost:1313/microposts/03-29-23-ai-is-danger/</guid>
         <description>&lt;p&gt;People is freaking out&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -122,10 +213,10 @@ Wish more people and orgs were using this.&lt;/p&gt;
       
       <item>
         <title>Generative Ai Explanation</title>
-        <link>https://zeljko.dakic.com/microposts/03-29-23-generative-ai-explanation/</link>
+        <link>http://localhost:1313/microposts/03-29-23-generative-ai-explanation/</link>
         <pubDate>Wed, 29 Mar 2023 22:29:55 -0600</pubDate>
         <author> </author>
-        <guid>https://zeljko.dakic.com/microposts/03-29-23-generative-ai-explanation/</guid>
+        <guid>http://localhost:1313/microposts/03-29-23-generative-ai-explanation/</guid>
         <description>&lt;p&gt;Pretty good explanation of current state of AI. I personally thing Generative label is more then just picking next word, in fact, good Generative System/Model should provide you with range of choices, but overall this is very informative and short video.&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -139,10 +230,10 @@ Wish more people and orgs were using this.&lt;/p&gt;
       
       <item>
         <title>Vite for Js Libraries</title>
-        <link>https://zeljko.dakic.com/microposts/03-28-23-vite-for-js-libraries/</link>
+        <link>http://localhost:1313/microposts/03-28-23-vite-for-js-libraries/</link>
         <pubDate>Tue, 28 Mar 2023 22:19:49 -0600</pubDate>
         <author> </author>
-        <guid>https://zeljko.dakic.com/microposts/03-28-23-vite-for-js-libraries/</guid>
+        <guid>http://localhost:1313/microposts/03-28-23-vite-for-js-libraries/</guid>
         <description>&lt;p&gt;I&amp;rsquo;ve been building libraries and design systems for a while. Building them using Vite is very simple and effective.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://andrewwalpole.com/blog/use-vite-for-javascript-libraries/&#34;&gt;https://andrewwalpole.com/blog/use-vite-for-javascript-libraries/&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -152,10 +243,10 @@ Wish more people and orgs were using this.&lt;/p&gt;
       
       <item>
         <title>Push Notifications finally free</title>
-        <link>https://zeljko.dakic.com/microposts/03-28-23-push-notifications/</link>
+        <link>http://localhost:1313/microposts/03-28-23-push-notifications/</link>
         <pubDate>Tue, 28 Mar 2023 22:17:05 -0600</pubDate>
         <author> </author>
-        <guid>https://zeljko.dakic.com/microposts/03-28-23-push-notifications/</guid>
+        <guid>http://localhost:1313/microposts/03-28-23-push-notifications/</guid>
         <description>&lt;p&gt;Apple finally let us send notifications from PWA. You have to have it installed as desktop shortcut for this to work.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://web.dev/push-notifications-in-all-modern-browsers/&#34;&gt;https://web.dev/push-notifications-in-all-modern-browsers/&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -164,11 +255,147 @@ Wish more people and orgs were using this.&lt;/p&gt;
     
       
       <item>
-        <title>Year of Creative Experiments</title>
-        <link>https://zeljko.dakic.com/posts/03-18-23-year-of-creative-experiments/</link>
-        <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
+        <title>Ai and Creativity 2nd part</title>
+        <link>http://localhost:1313/posts/03-22-24-ai-and-creativity-2/</link>
+        <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
         <author> </author>
-        <guid>https://zeljko.dakic.com/posts/03-18-23-year-of-creative-experiments/</guid>
+        <guid>http://localhost:1313/posts/03-22-24-ai-and-creativity-2/</guid>
+        <description>&lt;p&gt;I wanted to further expand on previous article and worked with ChatGPT to explore few more points of interest when it comes to creativity and how AI can help us expand it.&lt;/p&gt;
+&lt;p&gt;**Introduction&lt;/p&gt;
+&lt;p&gt;As previously discussed, AI is not only emulating human creativity but also stimulating and enhancing it. By delving deeper into the ways AI can boost and augment the human creative process, we can better understand the potential of this groundbreaking partnership. In this article, we will explore the various ways AI is revolutionizing creativity and idea generation, paving the way for unprecedented innovation.&lt;/p&gt;
+&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;Customizing Creative Inspiration&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;AI algorithms can curate personalized inspiration feeds based on an individual&amp;rsquo;s interests, preferences, and creative goals. By presenting a diverse range of ideas, images, and content tailored to the user, AI helps stimulate the creative process and encourages individuals to think outside the box. This continuous flow of inspiration can lead to the development of groundbreaking ideas and creative solutions.&lt;/p&gt;
+&lt;ol start=&#34;7&#34;&gt;
+&lt;li&gt;Real-time Creative Feedback&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;AI systems can provide real-time feedback on creative work, enabling individuals to make adjustments and refinements as they go. By offering objective analysis and suggestions for improvement, AI helps creators fine-tune their ideas and achieve the desired outcome more efficiently. This continuous feedback loop encourages experimentation and growth, allowing individuals to refine their creative skills over time.&lt;/p&gt;
+&lt;ol start=&#34;8&#34;&gt;
+&lt;li&gt;Analyzing and Predicting Creative Trends&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;One of the most significant advantages of AI in the creative realm is its ability to analyze vast amounts of data and predict emerging trends. By identifying patterns and trends in consumer preferences, social media, and other creative fields, AI can provide insights into the future direction of creative industries. This knowledge enables creators to stay ahead of the curve and develop ideas that resonate with their target audience.&lt;/p&gt;
+&lt;ol start=&#34;9&#34;&gt;
+&lt;li&gt;Encouraging Cross-disciplinary Creativity&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;AI can serve as a bridge between different creative disciplines, fostering collaboration and idea exchange among professionals from various fields. By analyzing and identifying common threads and themes across disciplines, AI can suggest innovative ways to combine different techniques, styles, and approaches. This cross-disciplinary creativity encourages individuals to think beyond their own expertise, leading to the development of unique and groundbreaking ideas.&lt;/p&gt;
+&lt;ol start=&#34;10&#34;&gt;
+&lt;li&gt;Democratising Creativity&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;AI-powered tools are becoming more accessible, enabling individuals with varying levels of skill and expertise to engage in the creative process. By providing easy-to-use interfaces and automating complex tasks, AI is democratizing creativity, allowing more people to explore their creative potential. This widespread access to creative tools and resources is likely to result in a surge of new ideas and innovations.&lt;/p&gt;
+&lt;ol start=&#34;11&#34;&gt;
+&lt;li&gt;Overcoming Creative Bias&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Human creativity can sometimes be influenced by personal biases, leading to the development of ideas that cater to specific tastes and preferences. AI, on the other hand, can provide an objective perspective by analyzing data from various sources and offering unbiased suggestions. This objectivity helps creators challenge their assumptions and develop ideas that appeal to a broader audience.&lt;/p&gt;
+&lt;p&gt;Conclusion&lt;/p&gt;
+&lt;p&gt;AI is playing an increasingly vital role in augmenting and boosting human creativity. By customizing creative inspiration, providing real-time feedback, analyzing and predicting trends, encouraging cross-disciplinary collaboration, democratizing creativity, and overcoming creative biases, AI is revolutionizing the way we approach and experience the creative process. As AI and human intelligence continue to work in tandem, we can anticipate a future filled with innovative ideas and groundbreaking solutions that enrich our world and push the boundaries of what we once thought possible.&lt;/p&gt;
+</description>
+      </item>
+      
+    
+      
+      <item>
+        <title>Ai And Creativity</title>
+        <link>http://localhost:1313/posts/03-23-23-ai-and-creativity/</link>
+        <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
+        <author> </author>
+        <guid>http://localhost:1313/posts/03-23-23-ai-and-creativity/</guid>
+        <description>&lt;p&gt;I believe that AI can significantly aid and boost human creativity and enhance collaboration. This is something that has to be proven just yet, but I want to explore it and see where we can use AI for that purpose.&lt;/p&gt;
+&lt;p&gt;This article and it&amp;rsquo;s points were made using ChatGPT-4.&lt;/p&gt;
+&lt;h4 id=&#34;introduction&#34;&gt;Introduction&lt;/h4&gt;
+&lt;p&gt;Creativity is often considered the exclusive domain of human intelligence. However, with the advancement of artificial intelligence (AI), it has become evident that AI can not only emulate human creativity but can also stimulate and enhance it. This article explores how AI is transforming the way we approach creative thinking and ideas, and how this innovative partnership between AI and humans can lead to unparalleled innovation.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;AI as a Creative Assistant&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;AI-powered tools and algorithms can now act as creative assistants, helping individuals brainstorm, ideate, and experiment with new concepts. These tools can analyze vast amounts of data, recognize patterns, and generate novel suggestions based on the user&amp;rsquo;s inputs. By providing unique and relevant ideas, AI helps creators overcome creative blocks and come up with innovative solutions to complex problems.&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Expanding the Creative Playground&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;When it comes to creativity, exposure to diverse perspectives is crucial. AI can analyze and learn from a multitude of sources, creating new connections and ideas that might not have been considered otherwise. By exposing humans to a broader range of influences, AI empowers them to think beyond the boundaries of their own experiences and explore uncharted creative territories.&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Enhancing Collaboration&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;AI can facilitate collaboration among creative professionals by providing a common platform for idea sharing, organization, and development. By leveraging machine learning algorithms, AI can identify the strengths of individual collaborators and suggest how their skills can be best utilized in a project. This enhances teamwork and ensures that the creative process is optimized for the best results.&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;Personalized Creativity Coaching&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;One of the most exciting ways AI can stimulate human creativity is through personalized coaching. AI can analyze an individual&amp;rsquo;s creative habits, preferences, and strengths, and provide tailored recommendations and exercises to help them improve. This personalized approach allows individuals to develop their creativity in ways that are most effective for them, rather than following a one-size-fits-all model.&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;Accelerating the Creative Process&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;AI can help streamline the creative process by automating repetitive tasks and providing real-time feedback. This allows creators to focus on the essence of their work and iterate more quickly. As AI continues to evolve, it will become increasingly adept at understanding and evaluating creative output, further accelerating the ideation and refinement process.&lt;/p&gt;
+&lt;p&gt;Conclusion&lt;/p&gt;
+&lt;p&gt;As AI continues to advance, its ability to stimulate creativity and ideas among humans will only grow stronger. By acting as a creative assistant, expanding the creative playground, enhancing collaboration, providing personalized coaching, and accelerating the creative process, AI is revolutionizing the way humans approach and experience creativity. In this symbiotic relationship, AI and human intelligence work together to unlock new levels of innovation, enriching our world with novel ideas and groundbreaking solutions.&lt;/p&gt;
+</description>
+      </item>
+      
+    
+      
+      <item>
+        <title>Benefits of Remote Work</title>
+        <link>http://localhost:1313/posts/03-21-23-benefits-of-remote-work/</link>
+        <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
+        <author> </author>
+        <guid>http://localhost:1313/posts/03-21-23-benefits-of-remote-work/</guid>
+        <description>&lt;p&gt;As the world has shifted toward remote work, I have witnessed firsthand the numerous advantages it offers to both employees and employers. Working from home has allowed me to save time on my daily commute, become more productive and focused, and enjoy increased flexibility as a parent. Not only that, remote work has proven to be environmentally friendly and has required the development of innovative management strategies for success. In this article, I will share my experience with these benefits, as well as other advantages that have made remote work an invaluable option for me and many others.&lt;/p&gt;
+&lt;h3 id=&#34;changes-cause-pushback&#34;&gt;Changes cause pushback&lt;/h3&gt;
+&lt;p&gt;Quite a number of managers, especially middle managers and CEOs are feeling lost and confused by these changes. On one hand they have all this savings and flexibility because they have a lot of fixed cost of owning real-estate and maintaining offices just gone. On the other hand,they feel the need to control people and they are not sure how to go about it.&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s look at the benefits of remote work.&lt;/p&gt;
+&lt;h3 id=&#34;saving-time&#34;&gt;Saving Time&lt;/h3&gt;
+&lt;p&gt;One of the most significant benefits of remote work is the considerable amount of time I&amp;rsquo;ve saved by eliminating my daily commute. I can now use this time for more valuable activities, such as spending time with my family, pursuing hobbies, or focusing on personal health and well-being.&lt;/p&gt;
+&lt;h3 id=&#34;increased-productivity-and-focus&#34;&gt;Increased Productivity and Focus&lt;/h3&gt;
+&lt;p&gt;Working remotely has allowed me to create my ideal work environment, leading to increased productivity and focus. By minimizing distractions typically found in traditional office settings, I find that I can concentrate better on my tasks, resulting in a higher quality of work and more efficient output.&lt;/p&gt;
+&lt;h3 id=&#34;flexibility-for-parents&#34;&gt;Flexibility for Parents&lt;/h3&gt;
+&lt;p&gt;As a parent, remote work has been a game-changer, offering more time to spend with my children and the ability to balance work and family life better. This flexibility has significantly reduced the stress associated with juggling professional and personal responsibilities, ultimately leading to a happier, healthier work-life balance.&lt;/p&gt;
+&lt;h3 id=&#34;innovative-management-strategies&#34;&gt;Innovative Management Strategies&lt;/h3&gt;
+&lt;p&gt;The shift to remote work has necessitated the development of new ways to manage teams and projects. By embracing remote work, I&amp;rsquo;ve been able to foster a culture of trust and accountability within my team, empowering my colleagues to take ownership of their tasks. As a manager, I&amp;rsquo;ve had to develop effective communication and collaboration strategies to ensure my remote team remains engaged and aligned with company goals. This has led to more innovative and efficient management practices that benefit both my colleagues and the organization.&lt;/p&gt;
+&lt;h3 id=&#34;environmental-benefits&#34;&gt;Environmental Benefits&lt;/h3&gt;
+&lt;p&gt;Working remotely is an eco-friendly choice for me and my employer. By reducing the number of vehicles on the road, remote work can significantly decrease greenhouse gas emissions and air pollution. Additionally, my employer can lower their energy consumption by requiring less office space and resources, thereby minimizing their overall environmental impact.&lt;/p&gt;
+&lt;h3 id=&#34;access-to-a-global-talent-pool&#34;&gt;Access to a Global Talent Pool&lt;/h3&gt;
+&lt;p&gt;Remote work has allowed my employer to tap into a global talent pool, enabling them to hire the best and brightest candidates regardless of their geographical location. This expanded access to talent has led to greater diversity and a more skilled workforce, driving innovation and growth within the company.&lt;/p&gt;
+&lt;h3 id=&#34;employee-retention-and-satisfaction&#34;&gt;Employee Retention and Satisfaction&lt;/h3&gt;
+&lt;p&gt;My company&amp;rsquo;s remote work policy has significantly boosted my satisfaction as an employee, increasing the likelihood that I&amp;rsquo;ll stay with the organization. Employees who enjoy the benefits of remote work are more likely to remain with their current employer, reducing the time and cost associated with turnover.&lt;/p&gt;
+&lt;h3 id=&#34;cost-savings-for-businesses&#34;&gt;Cost Savings for Businesses&lt;/h3&gt;
+&lt;p&gt;Remote work can result in significant cost savings for businesses. By reducing the need for office space, companies can lower their overhead expenses, such as rent, utilities, and office supplies. Additionally, remote work can lead to decreased employee absenteeism, as employees can continue working even when they are unwell or facing personal challenges.&lt;/p&gt;
+&lt;h3 id=&#34;in-the-end&#34;&gt;In the end&lt;/h3&gt;
+&lt;p&gt;My experience with remote work has been overwhelmingly positive, offering a multitude of benefits like time savings, increased productivity, enhanced flexibility, and environmental sustainability. As remote work continues to gain traction, it is crucial for organizations to adapt and embrace the new ways of managing remote teams to ensure success in this ever-evolving landscape. By leveraging these benefits, companies can foster a more engaged, productive, and satisfied workforce while contributing to a greener, more sustainable future.&lt;/p&gt;
+</description>
+      </item>
+      
+    
+      
+      <item>
+        <title>Using Chatgpt With Your Data</title>
+        <link>http://localhost:1313/microposts/03-20-23-using-chatgpt-with-your-data/</link>
+        <pubDate>Mon, 20 Mar 2023 15:38:44 -0500</pubDate>
+        <author> </author>
+        <guid>http://localhost:1313/microposts/03-20-23-using-chatgpt-with-your-data/</guid>
+        <description>&lt;p&gt;A good guide when you want your data to be foundation for AI&lt;/p&gt;
+&lt;p&gt;[A step-by-step guide to building a chatbot based on your own documents with GPT](A step-by-step guide to building a chatbot based on your own documents with GPT)&lt;/p&gt;
+</description>
+      </item>
+      
+    
+      
+      <item>
+        <title>03 20 23 Remote Work Mainstream</title>
+        <link>http://localhost:1313/microposts/03-20-23-remote-work-mainstream/</link>
+        <pubDate>Mon, 20 Mar 2023 15:36:53 -0500</pubDate>
+        <author> </author>
+        <guid>http://localhost:1313/microposts/03-20-23-remote-work-mainstream/</guid>
+        <description>&lt;p&gt;This!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://fortune.com/2023/03/09/return-to-office-seemed-inevitable-new-study-shows-companies-already-reversing-course-careers-remote-work-gleb-tsipursky/&#34;&gt;The return to the office once seemed inevitable. A new study shows companies are already reversing course&lt;/a&gt;&lt;/p&gt;
+</description>
+      </item>
+      
+    
+      
+      <item>
+        <title>Year of Creative Experiments</title>
+        <link>http://localhost:1313/posts/03-19-23-year-of-creative-experiments/</link>
+        <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+        <author> </author>
+        <guid>http://localhost:1313/posts/03-19-23-year-of-creative-experiments/</guid>
         <description>&lt;p&gt;I am part of the NessLabs community and recently a member of NessLabs, a lovely women presented a topic of a whole year of creative experiments.&lt;/p&gt;
 &lt;p&gt;Idea is to always have some small projects to work on, that will be limited in scope and will bring you joy and happiness of exploring new areas in your life or expanding existing ones.&lt;/p&gt;
 &lt;p&gt;It works like this:&lt;/p&gt;
@@ -207,10 +434,10 @@ I have some thoughts about modern management and planning, I will start writing 
       
       <item>
         <title>Dakic Online Ai Makes Song</title>
-        <link>https://zeljko.dakic.com/posts/03-14-23-dakic-online-ai-makes-song/</link>
+        <link>http://localhost:1313/posts/03-14-23-dakic-online-ai-makes-song/</link>
         <pubDate>Tue, 14 Mar 2023 23:11:52 -0500</pubDate>
         <author> </author>
-        <guid>https://zeljko.dakic.com/posts/03-14-23-dakic-online-ai-makes-song/</guid>
+        <guid>http://localhost:1313/posts/03-14-23-dakic-online-ai-makes-song/</guid>
         <description>&lt;p&gt;I asked ChatGPT-3.5 to make a song about our mission to make a world a better place,
 here is what it came up with:&lt;/p&gt;
 &lt;p&gt;Innovation and technology,&lt;br&gt;
@@ -241,10 +468,10 @@ And showing us the way.&lt;/p&gt;
       
       <item>
         <title>Making World a Better Place</title>
-        <link>https://zeljko.dakic.com/posts/03-14-23-making-world-a-better-place/</link>
+        <link>http://localhost:1313/posts/03-14-23-making-world-a-better-place/</link>
         <pubDate>Tue, 14 Mar 2023 15:02:10 -0500</pubDate>
         <author> </author>
-        <guid>https://zeljko.dakic.com/posts/03-14-23-making-world-a-better-place/</guid>
+        <guid>http://localhost:1313/posts/03-14-23-making-world-a-better-place/</guid>
         <description>&lt;p&gt;This post is about my values that I defined long time ago and some tweaks I want to add as I think things through.&lt;/p&gt;
 &lt;p&gt;It is long and rambly post, you can find conclusion near the end.&lt;/p&gt;
 &lt;h3 id=&#34;in-the-past&#34;&gt;In the past&lt;/h3&gt;
@@ -293,10 +520,10 @@ And showing us the way.&lt;/p&gt;
       
       <item>
         <title>Deno Svelte</title>
-        <link>https://zeljko.dakic.com/microposts/08-01-22-deno-svelte/</link>
+        <link>http://localhost:1313/microposts/08-01-22-deno-svelte/</link>
         <pubDate>Mon, 01 Aug 2022 09:27:39 -0500</pubDate>
         <author> </author>
-        <guid>https://zeljko.dakic.com/microposts/08-01-22-deno-svelte/</guid>
+        <guid>http://localhost:1313/microposts/08-01-22-deno-svelte/</guid>
         <description>&lt;p&gt;This is definitely a way to go for performance until Bun gets more production ready. But totally legitimate combination and solid choice is using Svelte (kit) with Deno runtime.&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -305,6 +532,8 @@ And showing us the way.&lt;/p&gt;
 
 </description>
       </item>
+      
+    
       
     
       

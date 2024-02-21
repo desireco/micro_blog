@@ -2,97 +2,88 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Microposts on Hello World!</title>
-    <link>https://zeljko.dakic.com/microposts/</link>
+    <link>http://localhost:1313/microposts/</link>
     <description>Recent content in Microposts on Hello World!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Apr 2023 14:16:52 -0500</lastBuildDate><atom:link href="https://zeljko.dakic.com/microposts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Apr 2023 14:16:52 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/microposts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>POSSE - practice to publish content on your own site</title>
-      <link>https://zeljko.dakic.com/microposts/04-03-23-posse/</link>
+      <link>http://localhost:1313/microposts/04-03-23-posse/</link>
       <pubDate>Mon, 03 Apr 2023 14:16:52 -0500</pubDate>
-      
-      <guid>https://zeljko.dakic.com/microposts/04-03-23-posse/</guid>
-      <description>https://indieweb.org/POSSE
-POSSE is an abbreviation for Publish (on your) Own Site, Syndicate Elsewhere, the practice of posting content on your own site first, then publishing copies or sharing links to third parties (like social media silos) with original post links to provide viewers a path to directly interacting with your content.</description>
+      <guid>http://localhost:1313/microposts/04-03-23-posse/</guid>
+      <description>https://indieweb.org/POSSE&#xA;POSSE is an abbreviation for Publish (on your) Own Site, Syndicate Elsewhere, the practice of posting content on your own site first, then publishing copies or sharing links to third parties (like social media silos) with original post links to provide viewers a path to directly interacting with your content.</description>
     </item>
-    
     <item>
       <title>Gary Makes Us Wat</title>
-      <link>https://zeljko.dakic.com/microposts/03-29-23-gary-makes-us-wat/</link>
+      <link>http://localhost:1313/microposts/03-29-23-gary-makes-us-wat/</link>
       <pubDate>Wed, 29 Mar 2023 23:23:50 -0600</pubDate>
-      
-      <guid>https://zeljko.dakic.com/microposts/03-29-23-gary-makes-us-wat/</guid>
-      <description>This is famous talk from Gary Bernhardt in 2012, but it is still amazing and relevant to see how weird sometimes writing software can be.
-https://www.destroyallsoftware.com/talks/wat</description>
+      <guid>http://localhost:1313/microposts/03-29-23-gary-makes-us-wat/</guid>
+      <description>This is famous talk from Gary Bernhardt in 2012, but it is still amazing and relevant to see how weird sometimes writing software can be.&#xA;https://www.destroyallsoftware.com/talks/wat</description>
     </item>
-    
     <item>
       <title>Writing to Communicate</title>
-      <link>https://zeljko.dakic.com/microposts/03-29-23-writing-to-communicate/</link>
+      <link>http://localhost:1313/microposts/03-29-23-writing-to-communicate/</link>
       <pubDate>Wed, 29 Mar 2023 23:17:23 -0600</pubDate>
-      
-      <guid>https://zeljko.dakic.com/microposts/03-29-23-writing-to-communicate/</guid>
-      <description>Excellent piece on writing in organization and how it can enhance and help with communication. Wish more people and orgs were using this.
-https://fs.blog/carl-braun-communicating/</description>
+      <guid>http://localhost:1313/microposts/03-29-23-writing-to-communicate/</guid>
+      <description>Excellent piece on writing in organization and how it can enhance and help with communication. Wish more people and orgs were using this.&#xA;https://fs.blog/carl-braun-communicating/</description>
     </item>
-    
     <item>
       <title>Overcome Odds</title>
-      <link>https://zeljko.dakic.com/microposts/03-29-23-overcome-odds/</link>
+      <link>http://localhost:1313/microposts/03-29-23-overcome-odds/</link>
       <pubDate>Wed, 29 Mar 2023 23:11:23 -0600</pubDate>
-      
-      <guid>https://zeljko.dakic.com/microposts/03-29-23-overcome-odds/</guid>
-      <description>Excellent post about how small and passionate can go against big and entrenched opponent.
-How Clever Leaders Overcome More Talented and Better Funded Competitors</description>
+      <guid>http://localhost:1313/microposts/03-29-23-overcome-odds/</guid>
+      <description>Excellent post about how small and passionate can go against big and entrenched opponent.&#xA;How Clever Leaders Overcome More Talented and Better Funded Competitors</description>
     </item>
-    
     <item>
       <title>Ai Is Danger</title>
-      <link>https://zeljko.dakic.com/microposts/03-29-23-ai-is-danger/</link>
+      <link>http://localhost:1313/microposts/03-29-23-ai-is-danger/</link>
       <pubDate>Wed, 29 Mar 2023 22:37:42 -0600</pubDate>
-      
-      <guid>https://zeljko.dakic.com/microposts/03-29-23-ai-is-danger/</guid>
+      <guid>http://localhost:1313/microposts/03-29-23-ai-is-danger/</guid>
       <description>People is freaking out</description>
     </item>
-    
     <item>
       <title>Generative Ai Explanation</title>
-      <link>https://zeljko.dakic.com/microposts/03-29-23-generative-ai-explanation/</link>
+      <link>http://localhost:1313/microposts/03-29-23-generative-ai-explanation/</link>
       <pubDate>Wed, 29 Mar 2023 22:29:55 -0600</pubDate>
-      
-      <guid>https://zeljko.dakic.com/microposts/03-29-23-generative-ai-explanation/</guid>
+      <guid>http://localhost:1313/microposts/03-29-23-generative-ai-explanation/</guid>
       <description>Pretty good explanation of current state of AI. I personally thing Generative label is more then just picking next word, in fact, good Generative System/Model should provide you with range of choices, but overall this is very informative and short video.</description>
     </item>
-    
     <item>
       <title>Vite for Js Libraries</title>
-      <link>https://zeljko.dakic.com/microposts/03-28-23-vite-for-js-libraries/</link>
+      <link>http://localhost:1313/microposts/03-28-23-vite-for-js-libraries/</link>
       <pubDate>Tue, 28 Mar 2023 22:19:49 -0600</pubDate>
-      
-      <guid>https://zeljko.dakic.com/microposts/03-28-23-vite-for-js-libraries/</guid>
-      <description>I&amp;rsquo;ve been building libraries and design systems for a while. Building them using Vite is very simple and effective.
-https://andrewwalpole.com/blog/use-vite-for-javascript-libraries/</description>
+      <guid>http://localhost:1313/microposts/03-28-23-vite-for-js-libraries/</guid>
+      <description>I&amp;rsquo;ve been building libraries and design systems for a while. Building them using Vite is very simple and effective.&#xA;https://andrewwalpole.com/blog/use-vite-for-javascript-libraries/</description>
     </item>
-    
     <item>
       <title>Push Notifications finally free</title>
-      <link>https://zeljko.dakic.com/microposts/03-28-23-push-notifications/</link>
+      <link>http://localhost:1313/microposts/03-28-23-push-notifications/</link>
       <pubDate>Tue, 28 Mar 2023 22:17:05 -0600</pubDate>
-      
-      <guid>https://zeljko.dakic.com/microposts/03-28-23-push-notifications/</guid>
-      <description>Apple finally let us send notifications from PWA. You have to have it installed as desktop shortcut for this to work.
-https://web.dev/push-notifications-in-all-modern-browsers/</description>
+      <guid>http://localhost:1313/microposts/03-28-23-push-notifications/</guid>
+      <description>Apple finally let us send notifications from PWA. You have to have it installed as desktop shortcut for this to work.&#xA;https://web.dev/push-notifications-in-all-modern-browsers/</description>
     </item>
-    
+    <item>
+      <title>Using Chatgpt With Your Data</title>
+      <link>http://localhost:1313/microposts/03-20-23-using-chatgpt-with-your-data/</link>
+      <pubDate>Mon, 20 Mar 2023 15:38:44 -0500</pubDate>
+      <guid>http://localhost:1313/microposts/03-20-23-using-chatgpt-with-your-data/</guid>
+      <description>A good guide when you want your data to be foundation for AI&#xA;[A step-by-step guide to building a chatbot based on your own documents with GPT](A step-by-step guide to building a chatbot based on your own documents with GPT)</description>
+    </item>
+    <item>
+      <title>03 20 23 Remote Work Mainstream</title>
+      <link>http://localhost:1313/microposts/03-20-23-remote-work-mainstream/</link>
+      <pubDate>Mon, 20 Mar 2023 15:36:53 -0500</pubDate>
+      <guid>http://localhost:1313/microposts/03-20-23-remote-work-mainstream/</guid>
+      <description>This!&#xA;The return to the office once seemed inevitable. A new study shows companies are already reversing course</description>
+    </item>
     <item>
       <title>Deno Svelte</title>
-      <link>https://zeljko.dakic.com/microposts/08-01-22-deno-svelte/</link>
+      <link>http://localhost:1313/microposts/08-01-22-deno-svelte/</link>
       <pubDate>Mon, 01 Aug 2022 09:27:39 -0500</pubDate>
-      
-      <guid>https://zeljko.dakic.com/microposts/08-01-22-deno-svelte/</guid>
+      <guid>http://localhost:1313/microposts/08-01-22-deno-svelte/</guid>
       <description>This is definitely a way to go for performance until Bun gets more production ready. But totally legitimate combination and solid choice is using Svelte (kit) with Deno runtime.</description>
     </item>
-    
   </channel>
 </rss>

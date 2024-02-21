@@ -75,3 +75,8 @@ paginate     = 10
     identifier = "sites"
     name       = "I ❤️"
     url        = "/sites"
+
+  [[menu.main]]
+    identifier = "music"
+    name       = "Music"
+    url        = "/music"

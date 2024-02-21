@@ -1,19 +1,112 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Hello World!</title>
-        <link>https://zeljko.dakic.com/posts/</link>
+        <link>http://localhost:1313/posts/</link>
         <description>Recent content in Posts on Hello World!</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Mon, 03 Apr 2023 14:25:55 -0500</lastBuildDate>
-        <atom:link href="https://zeljko.dakic.com/posts/index.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Tue, 19 Sep 2023 10:58:41 -0500</lastBuildDate>
+        <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>How Do Augmented Developers Tackle the Complex Landscape of Modern Development?</title>
+            <link>http://localhost:1313/posts/09-19-23-why-is-now-the-perfect-time-for-the-rise-of-augmented-/</link>
+            <pubDate>Tue, 19 Sep 2023 10:58:41 -0500</pubDate>
+            
+            <guid>http://localhost:1313/posts/09-19-23-why-is-now-the-perfect-time-for-the-rise-of-augmented-/</guid>
+            <description>Introduction When Yukihiro Matsumoto, affectionately known as Matz, introduced the concept that a developer&amp;rsquo;s happiness is a pivotal aspect of development, it was a revelation. It emphasized that producing quality work isn&amp;rsquo;t just about the end product, but also about the journey and the well-being of those involved. This philosophy resonated deeply with me, reminding me of the Agile Manifesto&amp;rsquo;s pioneers who championed innovative ways to enhance work quality. Inspired by these trailblazers, I present &amp;ldquo;Augmented Developers&amp;rdquo; – my vision to elevate the quality of our work while ensuring the utmost satisfaction for everyone involved.</description>
+            <content type="html"><![CDATA[<h2 id="introduction">Introduction</h2>
+<p>When Yukihiro Matsumoto, affectionately known as Matz, introduced the concept that a developer&rsquo;s happiness is a pivotal aspect of development, it was a revelation. It emphasized that producing quality work isn&rsquo;t just about the end product, but also about the journey and the well-being of those involved. This philosophy resonated deeply with me, reminding me of the Agile Manifesto&rsquo;s pioneers who championed innovative ways to enhance work quality. Inspired by these trailblazers, I present &ldquo;Augmented Developers&rdquo; – my vision to elevate the quality of our work while ensuring the utmost satisfaction for everyone involved.</p>
+<h2 id="current-landscape-of-software-development">Current landscape of software development</h2>
+<p>Today&rsquo;s software development landscape is a maze of challenges:</p>
+<ul>
+<li>We navigate an increasingly intricate work environment.</li>
+<li>Technologies evolve and complicate at a breakneck pace.</li>
+<li>The platforms for delivery have diversified like never before.</li>
+<li>While we have access to phenomenal tools, their sheer number can be overwhelming.</li>
+<li>The demand for versatility in skills and expertise has skyrocketed.</li>
+</ul>
+<p>Amidst these challenges, we also grapple with:</p>
+<ul>
+<li>Clients whose expectations shift and sometimes remain ambiguous.</li>
+<li>The daunting task of managing and updating legacy codebases.</li>
+<li>Keeping up with the relentless speed of technological advancements.</li>
+<li>Overcoming process inefficiencies and systemic breakdowns.</li>
+<li>In this complex scenario, &ldquo;Augmented Developers&rdquo; aims to be the beacon, guiding us towards excellence and satisfaction in our craft.</li>
+</ul>
+<h2 id="the-augmented-developer-a-new-breed-of-problem-solver">The Augmented Developer: A New Breed of Problem Solver</h2>
+<p>In the ever-evolving realm of software development, a new archetype emerges: the &ldquo;Augmented Developer.&rdquo; Defined not just by their skills but by a unique blend of tools and a forward-thinking mindset, these developers stand a class apart. While traditional developers have laid the foundation, Augmented Developers build upon it, bringing innovation and adaptability to the forefront.</p>
+<h2 id="strategies-for-navigating-client-expectations">Strategies for Navigating Client Expectations</h2>
+<p>The Augmented Developer understands that at the heart of every project lies effective communication. By setting clear boundaries and expectations, they ensure a harmonious collaboration. They harness the power of prototyping, wireframing, and visualization tools, creating a shared vision with clients. Moreover, they play the role of educators, guiding clients through the maze of technology choices to arrive at solutions that are both optimal and future-proof.</p>
+<h2 id="tackling-the-legacy-codebase-challenge">Tackling the Legacy Codebase Challenge</h2>
+<p>We will just not do it&hellip; only greenfield projects to start as legacy is adding complexity for which we don&rsquo;t have good enough processes at the moment.</p>
+<h2 id="simplifying-and-refactoring-ceremonies">Simplifying and refactoring ceremonies</h2>
+<p>In the intricate ballet of software development, ceremonies play a pivotal role. However, not all ceremonies add value. As Augmented Developers, our primary objective is to foster meaningful communication with our clients. We strive to deeply understand their needs, aspirations, and challenges. This understanding is the bedrock upon which we build solutions.</p>
+<p>But here&rsquo;s the catch: time is a finite resource. Every minute spent in redundant ceremonies is a minute taken away from crafting the right solutions. Moreover, unnecessary ceremonies don&rsquo;t just consume time; they also drain financial resources. In an industry where both time and budget are often tight, this is a luxury we cannot afford.</p>
+<p>Therefore, we are on a mission to simplify and refactor our ceremonies. We are trimming the fat, eliminating processes that don&rsquo;t directly contribute to understanding our client&rsquo;s needs or delivering apt solutions. This streamlined approach ensures that every meeting, every discussion, and every collaboration is purpose-driven. It&rsquo;s not about doing more; it&rsquo;s about doing what&rsquo;s right. By focusing our energies on what truly matters, we are better positioned to deliver solutions that resonate, solutions that make a difference.</p>
+<h2 id="in-the-end-it-is-a-ever-evolving-process">In the end, it is a ever evolving process</h2>
+<p>Our journey in software development is akin to navigating the vast expanse of an ever-changing landscape. The processes we adhere to today are the culmination of our collective experiences, learnings, and reflections up to this point. They represent our best understanding of how to deliver exceptional value to our clients efficiently and effectively.</p>
+<p>However, we recognize that the world of technology and client needs are in a state of constant flux. As we continue to undertake more projects and face new challenges, our perspectives will shift, and our strategies will adapt. This evolution is not just inevitable; it&rsquo;s embraced. We see it as an opportunity to refine our approach, to sharpen our methodologies, and to discover even better ways of working.</p>
+<p>Our commitment is unwavering: to relentlessly pursue improvement. We are dedicated to enhancing our processes, not for the sake of change, but to find the optimal balance that serves both our team and our esteemed clients. We believe that by staying agile, receptive, and proactive, we can ensure that our processes remain as dynamic and innovative as the solutions we provide.</p>
+<p>Having written all this, I have to add&hellip;</p>
+<p>With joy,</p>
+<p>Zhex</p>
+<p>P.S. Make sure you visit <a href="https://augmented-devs.com/">https://augmented-devs.com/</a></p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Modern Times Call for Modern Development</title>
+            <link>http://localhost:1313/posts/09-14-23-modern-times-call-for-modern-development/</link>
+            <pubDate>Thu, 14 Sep 2023 16:29:49 -0500</pubDate>
+            
+            <guid>http://localhost:1313/posts/09-14-23-modern-times-call-for-modern-development/</guid>
+            <description>Today we a launching Augmented Developers!
+https://augmented-devs.com
+I am doing it with joy and happiness. It should address number of issues I see with modern development and how developers are fitting into it.
+I asked local data infused ChatGPT to help me write something knowing well about all the benefits we are offering, it is definitely kinder and nicer then I would ever be. Here is it&amp;rsquo;s take:
+In today&amp;rsquo;s rapidly evolving digital landscape, the demand for forward-thinking solutions is more pressing than ever.</description>
+            <content type="html"><![CDATA[<p>Today we a launching Augmented Developers!</p>
+<p><a href="https://augmented-devs.com">https://augmented-devs.com</a></p>
+<p>I am doing it with joy and happiness. It should address number of issues I see with modern development and how developers are fitting into it.</p>
+<p><img src="https://augmented-devs.com/assets/homepage/crypto_face@2700w.jpeg"></p>
+<p>I asked local data infused ChatGPT to help me write something knowing well about all the benefits we are offering, it is definitely kinder and nicer then I would ever be. Here is it&rsquo;s take:</p>
+<p>In today&rsquo;s rapidly evolving digital landscape, the demand for forward-thinking solutions is more pressing than ever. Traditional development methods, while reliable, often fall short in harnessing the full potential of modern technologies. This is where Augmented Developers come into the frame, offering a paradigm shift in the way we approach development. Here are some standout benefits of using Augmented Developers:</p>
+<ul>
+<li>
+<p>Harnessing the Best Tools: Augmented Developers are always equipped with the latest tools and technologies. This not only ensures up-to-date solutions but also maximizes efficiency, security, and scalability.</p>
+</li>
+<li>
+<p>Infusing Joy &amp; Creativity: In a field often perceived as cold and logical, Augmented Developers break the mold by introducing joy and happiness into the development process. This positive energy often translates to more innovative solutions and a brighter, more user-friendly end product.</p>
+</li>
+<li>
+<p>Adaptable &amp; Future-Ready: The world of tech is always on the move. Augmented Developers are trained to anticipate and adapt to future trends, ensuring that the solutions they create today remain relevant tomorrow.</p>
+</li>
+<li>
+<p>Holistic Development: Beyond just coding, Augmented Developers approach projects holistically. They consider user experience, market trends, and client visions, creating a comprehensive solution that addresses multiple facets of a challenge.</p>
+</li>
+<li>
+<p>Efficient Problem Solving: Equipped with a vast array of modern tools and methodologies, Augmented Developers can quickly identify and rectify issues, ensuring smooth project progression and timely delivery.</p>
+</li>
+<li>
+<p>Collaborative Spirit: Augmented Developers often thrive in collaborative environments. Their exposure to diverse tools and methods means they can communicate effectively with other team members, from designers to marketers, ensuring a cohesive final product.</p>
+</li>
+</ul>
+<p>The digital age demands more than just developers; it calls for visionaries who can navigate the intricate web of modern technology with ease, creativity, and joy. Augmented Developers are the answer to this call, representing the gold standard in contemporary development. In a world where technology is ever-advancing, isn&rsquo;t it time we advance our developers too?</p>
+<hr>
+<p>Remember, Augmented Developers is what you need to develop solutions for modern business.</p>
+<p><a href="https://augmented-devs.com">https://augmented-devs.com</a></p>
+<p>Sincerely with joy,</p>
+<p>Zhex</p>
+]]></content>
+        </item>
         
         <item>
             <title>Groundhog Day</title>
-            <link>https://zeljko.dakic.com/posts/04-03-23-groundhog-day/</link>
+            <link>http://localhost:1313/posts/04-03-23-groundhog-day/</link>
             <pubDate>Mon, 03 Apr 2023 14:25:55 -0500</pubDate>
             
-            <guid>https://zeljko.dakic.com/posts/04-03-23-groundhog-day/</guid>
+            <guid>http://localhost:1313/posts/04-03-23-groundhog-day/</guid>
             <description>Imagine being trapped in a never-ending cycle where each day is a repetition of the previous one, with little to no change. This is the premise of the classic comedy-drama film &amp;ldquo;Groundhog Day,&amp;rdquo; in which the protagonist, Phil Connors, finds himself living the same day over and over again. While the movie is a work of fiction, it serves as a compelling metaphor for the experiences of individuals with ADHD, particularly those who work as programmers.</description>
             <content type="html"><![CDATA[<p>Imagine being trapped in a never-ending cycle where each day is a repetition of the previous one, with little to no change. This is the premise of the classic comedy-drama film &ldquo;Groundhog Day,&rdquo; in which the protagonist, Phil Connors, finds himself living the same day over and over again. While the movie is a work of fiction, it serves as a compelling metaphor for the experiences of individuals with ADHD, particularly those who work as programmers.</p>
 <p>For me as a programmer, daily life can feel like a perpetual Groundhog Day. There are things and projects I would like to accomplish, which I am trying really hard to work on and focus. Then weeks, months and sometimes year later, I would find notes on the projects I wanted to do then&hellip; and it is the same projects and things I am trying to do now. And when this happens this is just soul-crushing.</p>
@@ -48,11 +141,122 @@
         </item>
         
         <item>
-            <title>Year of Creative Experiments</title>
-            <link>https://zeljko.dakic.com/posts/03-18-23-year-of-creative-experiments/</link>
-            <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
+            <title>Ai and Creativity 2nd part</title>
+            <link>http://localhost:1313/posts/03-22-24-ai-and-creativity-2/</link>
+            <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
             
-            <guid>https://zeljko.dakic.com/posts/03-18-23-year-of-creative-experiments/</guid>
+            <guid>http://localhost:1313/posts/03-22-24-ai-and-creativity-2/</guid>
+            <description>I wanted to further expand on previous article and worked with ChatGPT to explore few more points of interest when it comes to creativity and how AI can help us expand it.
+**Introduction
+As previously discussed, AI is not only emulating human creativity but also stimulating and enhancing it. By delving deeper into the ways AI can boost and augment the human creative process, we can better understand the potential of this groundbreaking partnership.</description>
+            <content type="html"><![CDATA[<p>I wanted to further expand on previous article and worked with ChatGPT to explore few more points of interest when it comes to creativity and how AI can help us expand it.</p>
+<p>**Introduction</p>
+<p>As previously discussed, AI is not only emulating human creativity but also stimulating and enhancing it. By delving deeper into the ways AI can boost and augment the human creative process, we can better understand the potential of this groundbreaking partnership. In this article, we will explore the various ways AI is revolutionizing creativity and idea generation, paving the way for unprecedented innovation.</p>
+<ol start="6">
+<li>Customizing Creative Inspiration</li>
+</ol>
+<p>AI algorithms can curate personalized inspiration feeds based on an individual&rsquo;s interests, preferences, and creative goals. By presenting a diverse range of ideas, images, and content tailored to the user, AI helps stimulate the creative process and encourages individuals to think outside the box. This continuous flow of inspiration can lead to the development of groundbreaking ideas and creative solutions.</p>
+<ol start="7">
+<li>Real-time Creative Feedback</li>
+</ol>
+<p>AI systems can provide real-time feedback on creative work, enabling individuals to make adjustments and refinements as they go. By offering objective analysis and suggestions for improvement, AI helps creators fine-tune their ideas and achieve the desired outcome more efficiently. This continuous feedback loop encourages experimentation and growth, allowing individuals to refine their creative skills over time.</p>
+<ol start="8">
+<li>Analyzing and Predicting Creative Trends</li>
+</ol>
+<p>One of the most significant advantages of AI in the creative realm is its ability to analyze vast amounts of data and predict emerging trends. By identifying patterns and trends in consumer preferences, social media, and other creative fields, AI can provide insights into the future direction of creative industries. This knowledge enables creators to stay ahead of the curve and develop ideas that resonate with their target audience.</p>
+<ol start="9">
+<li>Encouraging Cross-disciplinary Creativity</li>
+</ol>
+<p>AI can serve as a bridge between different creative disciplines, fostering collaboration and idea exchange among professionals from various fields. By analyzing and identifying common threads and themes across disciplines, AI can suggest innovative ways to combine different techniques, styles, and approaches. This cross-disciplinary creativity encourages individuals to think beyond their own expertise, leading to the development of unique and groundbreaking ideas.</p>
+<ol start="10">
+<li>Democratising Creativity</li>
+</ol>
+<p>AI-powered tools are becoming more accessible, enabling individuals with varying levels of skill and expertise to engage in the creative process. By providing easy-to-use interfaces and automating complex tasks, AI is democratizing creativity, allowing more people to explore their creative potential. This widespread access to creative tools and resources is likely to result in a surge of new ideas and innovations.</p>
+<ol start="11">
+<li>Overcoming Creative Bias</li>
+</ol>
+<p>Human creativity can sometimes be influenced by personal biases, leading to the development of ideas that cater to specific tastes and preferences. AI, on the other hand, can provide an objective perspective by analyzing data from various sources and offering unbiased suggestions. This objectivity helps creators challenge their assumptions and develop ideas that appeal to a broader audience.</p>
+<p>Conclusion</p>
+<p>AI is playing an increasingly vital role in augmenting and boosting human creativity. By customizing creative inspiration, providing real-time feedback, analyzing and predicting trends, encouraging cross-disciplinary collaboration, democratizing creativity, and overcoming creative biases, AI is revolutionizing the way we approach and experience the creative process. As AI and human intelligence continue to work in tandem, we can anticipate a future filled with innovative ideas and groundbreaking solutions that enrich our world and push the boundaries of what we once thought possible.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Ai And Creativity</title>
+            <link>http://localhost:1313/posts/03-23-23-ai-and-creativity/</link>
+            <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
+            
+            <guid>http://localhost:1313/posts/03-23-23-ai-and-creativity/</guid>
+            <description>I believe that AI can significantly aid and boost human creativity and enhance collaboration. This is something that has to be proven just yet, but I want to explore it and see where we can use AI for that purpose.
+This article and it&amp;rsquo;s points were made using ChatGPT-4.
+Introduction Creativity is often considered the exclusive domain of human intelligence. However, with the advancement of artificial intelligence (AI), it has become evident that AI can not only emulate human creativity but can also stimulate and enhance it.</description>
+            <content type="html"><![CDATA[<p>I believe that AI can significantly aid and boost human creativity and enhance collaboration. This is something that has to be proven just yet, but I want to explore it and see where we can use AI for that purpose.</p>
+<p>This article and it&rsquo;s points were made using ChatGPT-4.</p>
+<h4 id="introduction">Introduction</h4>
+<p>Creativity is often considered the exclusive domain of human intelligence. However, with the advancement of artificial intelligence (AI), it has become evident that AI can not only emulate human creativity but can also stimulate and enhance it. This article explores how AI is transforming the way we approach creative thinking and ideas, and how this innovative partnership between AI and humans can lead to unparalleled innovation.</p>
+<ol>
+<li>AI as a Creative Assistant</li>
+</ol>
+<p>AI-powered tools and algorithms can now act as creative assistants, helping individuals brainstorm, ideate, and experiment with new concepts. These tools can analyze vast amounts of data, recognize patterns, and generate novel suggestions based on the user&rsquo;s inputs. By providing unique and relevant ideas, AI helps creators overcome creative blocks and come up with innovative solutions to complex problems.</p>
+<ol start="2">
+<li>Expanding the Creative Playground</li>
+</ol>
+<p>When it comes to creativity, exposure to diverse perspectives is crucial. AI can analyze and learn from a multitude of sources, creating new connections and ideas that might not have been considered otherwise. By exposing humans to a broader range of influences, AI empowers them to think beyond the boundaries of their own experiences and explore uncharted creative territories.</p>
+<ol start="3">
+<li>Enhancing Collaboration</li>
+</ol>
+<p>AI can facilitate collaboration among creative professionals by providing a common platform for idea sharing, organization, and development. By leveraging machine learning algorithms, AI can identify the strengths of individual collaborators and suggest how their skills can be best utilized in a project. This enhances teamwork and ensures that the creative process is optimized for the best results.</p>
+<ol start="4">
+<li>Personalized Creativity Coaching</li>
+</ol>
+<p>One of the most exciting ways AI can stimulate human creativity is through personalized coaching. AI can analyze an individual&rsquo;s creative habits, preferences, and strengths, and provide tailored recommendations and exercises to help them improve. This personalized approach allows individuals to develop their creativity in ways that are most effective for them, rather than following a one-size-fits-all model.</p>
+<ol start="5">
+<li>Accelerating the Creative Process</li>
+</ol>
+<p>AI can help streamline the creative process by automating repetitive tasks and providing real-time feedback. This allows creators to focus on the essence of their work and iterate more quickly. As AI continues to evolve, it will become increasingly adept at understanding and evaluating creative output, further accelerating the ideation and refinement process.</p>
+<p>Conclusion</p>
+<p>As AI continues to advance, its ability to stimulate creativity and ideas among humans will only grow stronger. By acting as a creative assistant, expanding the creative playground, enhancing collaboration, providing personalized coaching, and accelerating the creative process, AI is revolutionizing the way humans approach and experience creativity. In this symbiotic relationship, AI and human intelligence work together to unlock new levels of innovation, enriching our world with novel ideas and groundbreaking solutions.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Benefits of Remote Work</title>
+            <link>http://localhost:1313/posts/03-21-23-benefits-of-remote-work/</link>
+            <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
+            
+            <guid>http://localhost:1313/posts/03-21-23-benefits-of-remote-work/</guid>
+            <description>As the world has shifted toward remote work, I have witnessed firsthand the numerous advantages it offers to both employees and employers. Working from home has allowed me to save time on my daily commute, become more productive and focused, and enjoy increased flexibility as a parent. Not only that, remote work has proven to be environmentally friendly and has required the development of innovative management strategies for success. In this article, I will share my experience with these benefits, as well as other advantages that have made remote work an invaluable option for me and many others.</description>
+            <content type="html"><![CDATA[<p>As the world has shifted toward remote work, I have witnessed firsthand the numerous advantages it offers to both employees and employers. Working from home has allowed me to save time on my daily commute, become more productive and focused, and enjoy increased flexibility as a parent. Not only that, remote work has proven to be environmentally friendly and has required the development of innovative management strategies for success. In this article, I will share my experience with these benefits, as well as other advantages that have made remote work an invaluable option for me and many others.</p>
+<h3 id="changes-cause-pushback">Changes cause pushback</h3>
+<p>Quite a number of managers, especially middle managers and CEOs are feeling lost and confused by these changes. On one hand they have all this savings and flexibility because they have a lot of fixed cost of owning real-estate and maintaining offices just gone. On the other hand,they feel the need to control people and they are not sure how to go about it.</p>
+<p>Let&rsquo;s look at the benefits of remote work.</p>
+<h3 id="saving-time">Saving Time</h3>
+<p>One of the most significant benefits of remote work is the considerable amount of time I&rsquo;ve saved by eliminating my daily commute. I can now use this time for more valuable activities, such as spending time with my family, pursuing hobbies, or focusing on personal health and well-being.</p>
+<h3 id="increased-productivity-and-focus">Increased Productivity and Focus</h3>
+<p>Working remotely has allowed me to create my ideal work environment, leading to increased productivity and focus. By minimizing distractions typically found in traditional office settings, I find that I can concentrate better on my tasks, resulting in a higher quality of work and more efficient output.</p>
+<h3 id="flexibility-for-parents">Flexibility for Parents</h3>
+<p>As a parent, remote work has been a game-changer, offering more time to spend with my children and the ability to balance work and family life better. This flexibility has significantly reduced the stress associated with juggling professional and personal responsibilities, ultimately leading to a happier, healthier work-life balance.</p>
+<h3 id="innovative-management-strategies">Innovative Management Strategies</h3>
+<p>The shift to remote work has necessitated the development of new ways to manage teams and projects. By embracing remote work, I&rsquo;ve been able to foster a culture of trust and accountability within my team, empowering my colleagues to take ownership of their tasks. As a manager, I&rsquo;ve had to develop effective communication and collaboration strategies to ensure my remote team remains engaged and aligned with company goals. This has led to more innovative and efficient management practices that benefit both my colleagues and the organization.</p>
+<h3 id="environmental-benefits">Environmental Benefits</h3>
+<p>Working remotely is an eco-friendly choice for me and my employer. By reducing the number of vehicles on the road, remote work can significantly decrease greenhouse gas emissions and air pollution. Additionally, my employer can lower their energy consumption by requiring less office space and resources, thereby minimizing their overall environmental impact.</p>
+<h3 id="access-to-a-global-talent-pool">Access to a Global Talent Pool</h3>
+<p>Remote work has allowed my employer to tap into a global talent pool, enabling them to hire the best and brightest candidates regardless of their geographical location. This expanded access to talent has led to greater diversity and a more skilled workforce, driving innovation and growth within the company.</p>
+<h3 id="employee-retention-and-satisfaction">Employee Retention and Satisfaction</h3>
+<p>My company&rsquo;s remote work policy has significantly boosted my satisfaction as an employee, increasing the likelihood that I&rsquo;ll stay with the organization. Employees who enjoy the benefits of remote work are more likely to remain with their current employer, reducing the time and cost associated with turnover.</p>
+<h3 id="cost-savings-for-businesses">Cost Savings for Businesses</h3>
+<p>Remote work can result in significant cost savings for businesses. By reducing the need for office space, companies can lower their overhead expenses, such as rent, utilities, and office supplies. Additionally, remote work can lead to decreased employee absenteeism, as employees can continue working even when they are unwell or facing personal challenges.</p>
+<h3 id="in-the-end">In the end</h3>
+<p>My experience with remote work has been overwhelmingly positive, offering a multitude of benefits like time savings, increased productivity, enhanced flexibility, and environmental sustainability. As remote work continues to gain traction, it is crucial for organizations to adapt and embrace the new ways of managing remote teams to ensure success in this ever-evolving landscape. By leveraging these benefits, companies can foster a more engaged, productive, and satisfied workforce while contributing to a greener, more sustainable future.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Year of Creative Experiments</title>
+            <link>http://localhost:1313/posts/03-19-23-year-of-creative-experiments/</link>
+            <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+            
+            <guid>http://localhost:1313/posts/03-19-23-year-of-creative-experiments/</guid>
             <description>I am part of the NessLabs community and recently a member of NessLabs, a lovely women presented a topic of a whole year of creative experiments.
 Idea is to always have some small projects to work on, that will be limited in scope and will bring you joy and happiness of exploring new areas in your life or expanding existing ones.
 It works like this:
@@ -93,10 +297,10 @@ I have some thoughts about modern management and planning, I will start writing 
         
         <item>
             <title>Dakic Online Ai Makes Song</title>
-            <link>https://zeljko.dakic.com/posts/03-14-23-dakic-online-ai-makes-song/</link>
+            <link>http://localhost:1313/posts/03-14-23-dakic-online-ai-makes-song/</link>
             <pubDate>Tue, 14 Mar 2023 23:11:52 -0500</pubDate>
             
-            <guid>https://zeljko.dakic.com/posts/03-14-23-dakic-online-ai-makes-song/</guid>
+            <guid>http://localhost:1313/posts/03-14-23-dakic-online-ai-makes-song/</guid>
             <description>I asked ChatGPT-3.5 to make a song about our mission to make a world a better place, here is what it came up with:
 Innovation and technology,
 They make our lives so bright,
@@ -136,10 +340,10 @@ And showing us the way.</p>
         
         <item>
             <title>Making World a Better Place</title>
-            <link>https://zeljko.dakic.com/posts/03-14-23-making-world-a-better-place/</link>
+            <link>http://localhost:1313/posts/03-14-23-making-world-a-better-place/</link>
             <pubDate>Tue, 14 Mar 2023 15:02:10 -0500</pubDate>
             
-            <guid>https://zeljko.dakic.com/posts/03-14-23-making-world-a-better-place/</guid>
+            <guid>http://localhost:1313/posts/03-14-23-making-world-a-better-place/</guid>
             <description>This post is about my values that I defined long time ago and some tweaks I want to add as I think things through.
 It is long and rambly post, you can find conclusion near the end.
 In the past For a very long time mission of Dakic OnLine was to &amp;ldquo;create better business online using innovation&amp;rdquo; or specifically
