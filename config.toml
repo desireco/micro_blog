@@ -21,7 +21,7 @@ paginate     = 10
   # Default theme "light" or "dark"
   defaultTheme = "dark"
 
-[author]
+[params.author.name]
   name = "Zeljko Dakic"
 [taxonomies]
     category = "blog"
@@ -49,11 +49,12 @@ paginate     = 10
 [languages]
   [languages.en]
     title = "Hello World!"
-    subtitle = 'Zeljko does software'
-    homeMessage = "Read all about it!"
-    keywords = ""
     copyright = ''
-    readOtherPosts = "Read other posts"
+    [languages.en.params]
+      subtitle = 'Zeljko does software'
+      homeMessage = "Read all about it!"
+      keywords = ""
+      readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
       logoText = 'echo "Hello World!"'
