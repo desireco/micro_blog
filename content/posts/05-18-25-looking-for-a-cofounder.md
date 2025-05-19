@@ -1,6 +1,6 @@
 ---
 title: "🌿 Seeking Non-Technical Cofounder – Wellness Meets Tech 🔬"
-date: 2025-05-18T23:11:52-05:00
+date: 2025-05-18
 ---
 
 🌿 Seeking Non-Technical Cofounder – Wellness Meets Tech 🔬
