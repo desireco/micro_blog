@@ -67,7 +67,7 @@
         <description>&lt;p&gt;Today we a launching Augmented Developers!&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://augmented-devs.com&#34;&gt;https://augmented-devs.com&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;I am doing it with joy and happiness. It should address number of issues I see with modern development and how developers are fitting into it.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://augmented-devs.com/assets/homepage/crypto_face@2700w.jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://augmented-devs.com/assets/homepage/crypto_face@2700w.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;I asked local data infused ChatGPT to help me write something knowing well about all the benefits we are offering, it is definitely kinder and nicer then I would ever be. Here is it&amp;rsquo;s take:&lt;/p&gt;
 &lt;p&gt;In today&amp;rsquo;s rapidly evolving digital landscape, the demand for forward-thinking solutions is more pressing than ever. Traditional development methods, while reliable, often fall short in harnessing the full potential of modern technologies. This is where Augmented Developers come into the frame, offering a paradigm shift in the way we approach development. Here are some standout benefits of using Augmented Developers:&lt;/p&gt;
 &lt;ul&gt;
@@ -201,10 +201,9 @@ Wish more people and orgs were using this.&lt;/p&gt;
         <author> </author>
         <guid>http://localhost:1313/microposts/03-29-23-ai-is-danger/</guid>
         <description>&lt;p&gt;People is freaking out&lt;/p&gt;
-
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/TpZcGhYp4rw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/TpZcGhYp4rw?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 </description>
       </item>
@@ -218,10 +217,9 @@ Wish more people and orgs were using this.&lt;/p&gt;
         <author> </author>
         <guid>http://localhost:1313/microposts/03-29-23-generative-ai-explanation/</guid>
         <description>&lt;p&gt;Pretty good explanation of current state of AI. I personally thing Generative label is more then just picking next word, in fact, good Generative System/Model should provide you with range of choices, but overall this is very informative and short video.&lt;/p&gt;
-
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/hfIUstzHs9A&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/hfIUstzHs9A?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 </description>
       </item>
@@ -525,10 +523,9 @@ And showing us the way.&lt;/p&gt;
         <author> </author>
         <guid>http://localhost:1313/microposts/08-01-22-deno-svelte/</guid>
         <description>&lt;p&gt;This is definitely a way to go for performance until Bun gets more production ready. But totally legitimate combination and solid choice is using Svelte (kit) with Deno runtime.&lt;/p&gt;
-
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/4wE_Ey-cuuo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/4wE_Ey-cuuo?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 </description>
       </item>

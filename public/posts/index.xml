@@ -14,7 +14,8 @@
             <pubDate>Tue, 19 Sep 2023 10:58:41 -0500</pubDate>
             
             <guid>http://localhost:1313/posts/09-19-23-why-is-now-the-perfect-time-for-the-rise-of-augmented-/</guid>
-            <description>Introduction When Yukihiro Matsumoto, affectionately known as Matz, introduced the concept that a developer&amp;rsquo;s happiness is a pivotal aspect of development, it was a revelation. It emphasized that producing quality work isn&amp;rsquo;t just about the end product, but also about the journey and the well-being of those involved. This philosophy resonated deeply with me, reminding me of the Agile Manifesto&amp;rsquo;s pioneers who championed innovative ways to enhance work quality. Inspired by these trailblazers, I present &amp;ldquo;Augmented Developers&amp;rdquo; – my vision to elevate the quality of our work while ensuring the utmost satisfaction for everyone involved.</description>
+            <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;When Yukihiro Matsumoto, affectionately known as Matz, introduced the concept that a developer&amp;rsquo;s happiness is a pivotal aspect of development, it was a revelation. It emphasized that producing quality work isn&amp;rsquo;t just about the end product, but also about the journey and the well-being of those involved. This philosophy resonated deeply with me, reminding me of the Agile Manifesto&amp;rsquo;s pioneers who championed innovative ways to enhance work quality. Inspired by these trailblazers, I present &amp;ldquo;Augmented Developers&amp;rdquo; – my vision to elevate the quality of our work while ensuring the utmost satisfaction for everyone involved.&lt;/p&gt;</description>
             <content type="html"><![CDATA[<h2 id="introduction">Introduction</h2>
 <p>When Yukihiro Matsumoto, affectionately known as Matz, introduced the concept that a developer&rsquo;s happiness is a pivotal aspect of development, it was a revelation. It emphasized that producing quality work isn&rsquo;t just about the end product, but also about the journey and the well-being of those involved. This philosophy resonated deeply with me, reminding me of the Agile Manifesto&rsquo;s pioneers who championed innovative ways to enhance work quality. Inspired by these trailblazers, I present &ldquo;Augmented Developers&rdquo; – my vision to elevate the quality of our work while ensuring the utmost satisfaction for everyone involved.</p>
 <h2 id="current-landscape-of-software-development">Current landscape of software development</h2>
@@ -61,15 +62,16 @@
             <pubDate>Thu, 14 Sep 2023 16:29:49 -0500</pubDate>
             
             <guid>http://localhost:1313/posts/09-14-23-modern-times-call-for-modern-development/</guid>
-            <description>Today we a launching Augmented Developers!
-https://augmented-devs.com
-I am doing it with joy and happiness. It should address number of issues I see with modern development and how developers are fitting into it.
-I asked local data infused ChatGPT to help me write something knowing well about all the benefits we are offering, it is definitely kinder and nicer then I would ever be. Here is it&amp;rsquo;s take:
-In today&amp;rsquo;s rapidly evolving digital landscape, the demand for forward-thinking solutions is more pressing than ever.</description>
+            <description>&lt;p&gt;Today we a launching Augmented Developers!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://augmented-devs.com&#34;&gt;https://augmented-devs.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I am doing it with joy and happiness. It should address number of issues I see with modern development and how developers are fitting into it.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://augmented-devs.com/assets/homepage/crypto_face@2700w.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I asked local data infused ChatGPT to help me write something knowing well about all the benefits we are offering, it is definitely kinder and nicer then I would ever be. Here is it&amp;rsquo;s take:&lt;/p&gt;
+&lt;p&gt;In today&amp;rsquo;s rapidly evolving digital landscape, the demand for forward-thinking solutions is more pressing than ever. Traditional development methods, while reliable, often fall short in harnessing the full potential of modern technologies. This is where Augmented Developers come into the frame, offering a paradigm shift in the way we approach development. Here are some standout benefits of using Augmented Developers:&lt;/p&gt;</description>
             <content type="html"><![CDATA[<p>Today we a launching Augmented Developers!</p>
 <p><a href="https://augmented-devs.com">https://augmented-devs.com</a></p>
 <p>I am doing it with joy and happiness. It should address number of issues I see with modern development and how developers are fitting into it.</p>
-<p><img src="https://augmented-devs.com/assets/homepage/crypto_face@2700w.jpeg"></p>
+<p><img src="https://augmented-devs.com/assets/homepage/crypto_face@2700w.jpeg" alt=""></p>
 <p>I asked local data infused ChatGPT to help me write something knowing well about all the benefits we are offering, it is definitely kinder and nicer then I would ever be. Here is it&rsquo;s take:</p>
 <p>In today&rsquo;s rapidly evolving digital landscape, the demand for forward-thinking solutions is more pressing than ever. Traditional development methods, while reliable, often fall short in harnessing the full potential of modern technologies. This is where Augmented Developers come into the frame, offering a paradigm shift in the way we approach development. Here are some standout benefits of using Augmented Developers:</p>
 <ul>
@@ -107,7 +109,7 @@ In today&amp;rsquo;s rapidly evolving digital landscape, the demand for forward-
             <pubDate>Mon, 03 Apr 2023 14:25:55 -0500</pubDate>
             
             <guid>http://localhost:1313/posts/04-03-23-groundhog-day/</guid>
-            <description>Imagine being trapped in a never-ending cycle where each day is a repetition of the previous one, with little to no change. This is the premise of the classic comedy-drama film &amp;ldquo;Groundhog Day,&amp;rdquo; in which the protagonist, Phil Connors, finds himself living the same day over and over again. While the movie is a work of fiction, it serves as a compelling metaphor for the experiences of individuals with ADHD, particularly those who work as programmers.</description>
+            <description>&lt;p&gt;Imagine being trapped in a never-ending cycle where each day is a repetition of the previous one, with little to no change. This is the premise of the classic comedy-drama film &amp;ldquo;Groundhog Day,&amp;rdquo; in which the protagonist, Phil Connors, finds himself living the same day over and over again. While the movie is a work of fiction, it serves as a compelling metaphor for the experiences of individuals with ADHD, particularly those who work as programmers.&lt;/p&gt;</description>
             <content type="html"><![CDATA[<p>Imagine being trapped in a never-ending cycle where each day is a repetition of the previous one, with little to no change. This is the premise of the classic comedy-drama film &ldquo;Groundhog Day,&rdquo; in which the protagonist, Phil Connors, finds himself living the same day over and over again. While the movie is a work of fiction, it serves as a compelling metaphor for the experiences of individuals with ADHD, particularly those who work as programmers.</p>
 <p>For me as a programmer, daily life can feel like a perpetual Groundhog Day. There are things and projects I would like to accomplish, which I am trying really hard to work on and focus. Then weeks, months and sometimes year later, I would find notes on the projects I wanted to do then&hellip; and it is the same projects and things I am trying to do now. And when this happens this is just soul-crushing.</p>
 <p>ADHD is characterized by difficulty in sustaining attention, impulsivity, and hyperactivity. These symptoms can manifest in various ways, but for programmers, they may lead to struggles with time management, task completion, and organization.</p>
@@ -146,9 +148,9 @@ In today&amp;rsquo;s rapidly evolving digital landscape, the demand for forward-
             <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
             
             <guid>http://localhost:1313/posts/03-22-24-ai-and-creativity-2/</guid>
-            <description>I wanted to further expand on previous article and worked with ChatGPT to explore few more points of interest when it comes to creativity and how AI can help us expand it.
-**Introduction
-As previously discussed, AI is not only emulating human creativity but also stimulating and enhancing it. By delving deeper into the ways AI can boost and augment the human creative process, we can better understand the potential of this groundbreaking partnership.</description>
+            <description>&lt;p&gt;I wanted to further expand on previous article and worked with ChatGPT to explore few more points of interest when it comes to creativity and how AI can help us expand it.&lt;/p&gt;
+&lt;p&gt;**Introduction&lt;/p&gt;
+&lt;p&gt;As previously discussed, AI is not only emulating human creativity but also stimulating and enhancing it. By delving deeper into the ways AI can boost and augment the human creative process, we can better understand the potential of this groundbreaking partnership. In this article, we will explore the various ways AI is revolutionizing creativity and idea generation, paving the way for unprecedented innovation.&lt;/p&gt;</description>
             <content type="html"><![CDATA[<p>I wanted to further expand on previous article and worked with ChatGPT to explore few more points of interest when it comes to creativity and how AI can help us expand it.</p>
 <p>**Introduction</p>
 <p>As previously discussed, AI is not only emulating human creativity but also stimulating and enhancing it. By delving deeper into the ways AI can boost and augment the human creative process, we can better understand the potential of this groundbreaking partnership. In this article, we will explore the various ways AI is revolutionizing creativity and idea generation, paving the way for unprecedented innovation.</p>
@@ -187,9 +189,10 @@ As previously discussed, AI is not only emulating human creativity but also stim
             <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
             
             <guid>http://localhost:1313/posts/03-23-23-ai-and-creativity/</guid>
-            <description>I believe that AI can significantly aid and boost human creativity and enhance collaboration. This is something that has to be proven just yet, but I want to explore it and see where we can use AI for that purpose.
-This article and it&amp;rsquo;s points were made using ChatGPT-4.
-Introduction Creativity is often considered the exclusive domain of human intelligence. However, with the advancement of artificial intelligence (AI), it has become evident that AI can not only emulate human creativity but can also stimulate and enhance it.</description>
+            <description>&lt;p&gt;I believe that AI can significantly aid and boost human creativity and enhance collaboration. This is something that has to be proven just yet, but I want to explore it and see where we can use AI for that purpose.&lt;/p&gt;
+&lt;p&gt;This article and it&amp;rsquo;s points were made using ChatGPT-4.&lt;/p&gt;
+&lt;h4 id=&#34;introduction&#34;&gt;Introduction&lt;/h4&gt;
+&lt;p&gt;Creativity is often considered the exclusive domain of human intelligence. However, with the advancement of artificial intelligence (AI), it has become evident that AI can not only emulate human creativity but can also stimulate and enhance it. This article explores how AI is transforming the way we approach creative thinking and ideas, and how this innovative partnership between AI and humans can lead to unparalleled innovation.&lt;/p&gt;</description>
             <content type="html"><![CDATA[<p>I believe that AI can significantly aid and boost human creativity and enhance collaboration. This is something that has to be proven just yet, but I want to explore it and see where we can use AI for that purpose.</p>
 <p>This article and it&rsquo;s points were made using ChatGPT-4.</p>
 <h4 id="introduction">Introduction</h4>
@@ -225,7 +228,7 @@ Introduction Creativity is often considered the exclusive domain of human intell
             <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
             
             <guid>http://localhost:1313/posts/03-21-23-benefits-of-remote-work/</guid>
-            <description>As the world has shifted toward remote work, I have witnessed firsthand the numerous advantages it offers to both employees and employers. Working from home has allowed me to save time on my daily commute, become more productive and focused, and enjoy increased flexibility as a parent. Not only that, remote work has proven to be environmentally friendly and has required the development of innovative management strategies for success. In this article, I will share my experience with these benefits, as well as other advantages that have made remote work an invaluable option for me and many others.</description>
+            <description>&lt;p&gt;As the world has shifted toward remote work, I have witnessed firsthand the numerous advantages it offers to both employees and employers. Working from home has allowed me to save time on my daily commute, become more productive and focused, and enjoy increased flexibility as a parent. Not only that, remote work has proven to be environmentally friendly and has required the development of innovative management strategies for success. In this article, I will share my experience with these benefits, as well as other advantages that have made remote work an invaluable option for me and many others.&lt;/p&gt;</description>
             <content type="html"><![CDATA[<p>As the world has shifted toward remote work, I have witnessed firsthand the numerous advantages it offers to both employees and employers. Working from home has allowed me to save time on my daily commute, become more productive and focused, and enjoy increased flexibility as a parent. Not only that, remote work has proven to be environmentally friendly and has required the development of innovative management strategies for success. In this article, I will share my experience with these benefits, as well as other advantages that have made remote work an invaluable option for me and many others.</p>
 <h3 id="changes-cause-pushback">Changes cause pushback</h3>
 <p>Quite a number of managers, especially middle managers and CEOs are feeling lost and confused by these changes. On one hand they have all this savings and flexibility because they have a lot of fixed cost of owning real-estate and maintaining offices just gone. On the other hand,they feel the need to control people and they are not sure how to go about it.</p>
@@ -257,10 +260,16 @@ Introduction Creativity is often considered the exclusive domain of human intell
             <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
             
             <guid>http://localhost:1313/posts/03-19-23-year-of-creative-experiments/</guid>
-            <description>I am part of the NessLabs community and recently a member of NessLabs, a lovely women presented a topic of a whole year of creative experiments.
-Idea is to always have some small projects to work on, that will be limited in scope and will bring you joy and happiness of exploring new areas in your life or expanding existing ones.
-It works like this:
-Make a list of experiments you would like to do You would pick a single experiment every month.</description>
+            <description>&lt;p&gt;I am part of the NessLabs community and recently a member of NessLabs, a lovely women presented a topic of a whole year of creative experiments.&lt;/p&gt;
+&lt;p&gt;Idea is to always have some small projects to work on, that will be limited in scope and will bring you joy and happiness of exploring new areas in your life or expanding existing ones.&lt;/p&gt;
+&lt;p&gt;It works like this:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Make a list of experiments you would like to do&lt;/li&gt;
+&lt;li&gt;You would pick a single experiment every month.&lt;/li&gt;
+&lt;li&gt;They also need to be small and easily achievable&lt;/li&gt;
+&lt;li&gt;Experiment has to be defined clearly with outcome and goal that you want to accomplish&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You create a list of 12 things you will do throughout the year. Assign every experiment to month and start. And if you change your mind along the way, it is fine, replace, remove, add. But once you start working on something, do it till completion. Or at least try to finish it.&lt;/p&gt;</description>
             <content type="html"><![CDATA[<p>I am part of the NessLabs community and recently a member of NessLabs, a lovely women presented a topic of a whole year of creative experiments.</p>
 <p>Idea is to always have some small projects to work on, that will be limited in scope and will bring you joy and happiness of exploring new areas in your life or expanding existing ones.</p>
 <p>It works like this:</p>
@@ -301,17 +310,20 @@ I have some thoughts about modern management and planning, I will start writing 
             <pubDate>Tue, 14 Mar 2023 23:11:52 -0500</pubDate>
             
             <guid>http://localhost:1313/posts/03-14-23-dakic-online-ai-makes-song/</guid>
-            <description>I asked ChatGPT-3.5 to make a song about our mission to make a world a better place, here is what it came up with:
-Innovation and technology,
-They make our lives so bright,
-They bring us all together,
-And help us see the light.
-Dakic OnLine, the name we know,
-The company with a vision,
-To make our world a better place,
-With endless innovation.
-Through software, through devices,
-Through all the things we see,</description>
+            <description>&lt;p&gt;I asked ChatGPT-3.5 to make a song about our mission to make a world a better place,
+here is what it came up with:&lt;/p&gt;
+&lt;p&gt;Innovation and technology,&lt;br&gt;
+They make our lives so bright,&lt;br&gt;
+They bring us all together,&lt;br&gt;
+And help us see the light.&lt;/p&gt;
+&lt;p&gt;Dakic OnLine, the name we know,&lt;br&gt;
+The company with a vision,&lt;br&gt;
+To make our world a better place,&lt;br&gt;
+With endless innovation.&lt;/p&gt;
+&lt;p&gt;Through software, through devices,&lt;br&gt;
+Through all the things we see,&lt;br&gt;
+Dakic OnLine brings us closer,&lt;br&gt;
+To the world we want to be.&lt;/p&gt;</description>
             <content type="html"><![CDATA[<p>I asked ChatGPT-3.5 to make a song about our mission to make a world a better place,
 here is what it came up with:</p>
 <p>Innovation and technology,<br>
@@ -344,11 +356,12 @@ And showing us the way.</p>
             <pubDate>Tue, 14 Mar 2023 15:02:10 -0500</pubDate>
             
             <guid>http://localhost:1313/posts/03-14-23-making-world-a-better-place/</guid>
-            <description>This post is about my values that I defined long time ago and some tweaks I want to add as I think things through.
-It is long and rambly post, you can find conclusion near the end.
-In the past For a very long time mission of Dakic OnLine was to &amp;ldquo;create better business online using innovation&amp;rdquo; or specifically
-&amp;ldquo;Creating Better Business in Economy of Ideas&amp;rdquo;
-I tried my best to uphold those values, mostly by trying to offer innovative solutions and using latest technology to give our clients an edge.</description>
+            <description>&lt;p&gt;This post is about my values that I defined long time ago and some tweaks I want to add as I think things through.&lt;/p&gt;
+&lt;p&gt;It is long and rambly post, you can find conclusion near the end.&lt;/p&gt;
+&lt;h3 id=&#34;in-the-past&#34;&gt;In the past&lt;/h3&gt;
+&lt;p&gt;For a very long time mission of Dakic OnLine was to &amp;ldquo;create better business online using innovation&amp;rdquo; or specifically&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Creating Better Business in Economy of Ideas&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;I tried my best to uphold those values, mostly by trying to offer innovative solutions and using latest technology to give our clients an edge.&lt;/p&gt;</description>
             <content type="html"><![CDATA[<p>This post is about my values that I defined long time ago and some tweaks I want to add as I think things through.</p>
 <p>It is long and rambly post, you can find conclusion near the end.</p>
 <h3 id="in-the-past">In the past</h3>
