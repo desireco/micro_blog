@@ -1,17 +1,10 @@
-publishDate: 2025-05-20T00:00:00Z
+---
 title: "How I Wrote Software 20 Years Ago (And Still Do)"
-excerpt: A simple, timeless approach to building software that still beats most modern processes.
-image: https://images.unsplash.com/photo-1581091012184-7be9c5c5b6d5?ixlib=rb-4.0.3&auto=format&fit=crop&w=1950&q=80
-category: Software Development
-tags:
-  - software design
-  - product thinking
-  - development workflow
-  - planning
-  - data modeling
+date: 2025-05-20
+categories: ["programming","agile", "process", "product management"]
 ---
 
-# How I Wrote Software 20 Years Ago (And Still Do)
+## Introduction
 
 A while back, I read about this process, from another developer, can’t even remember where, but it described a way of building software that felt oddly familiar. Almost like it had been plucked from my own memory, but written down with more structure and clarity.
 

@@ -1,19 +1,200 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Hello World!</title>
-        <link>https://zeljko.dakic.com/posts/</link>
+        <link>http://localhost:1313/posts/</link>
         <description>Recent content in Posts on Hello World!</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Sun, 18 May 2025 00:00:00 +0000</lastBuildDate>
-        <atom:link href="https://zeljko.dakic.com/posts/index.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Wed, 21 May 2025 00:00:00 +0000</lastBuildDate>
+        <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Daily Logs for Devs: The 5-Minute Habit That Can 10x Your Output</title>
+            <link>http://localhost:1313/posts/05-21-25-daily-logging/</link>
+            <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+            
+            <guid>http://localhost:1313/posts/05-21-25-daily-logging/</guid>
+            <description>&lt;h2 id=&#34;why-im-recommending-daily-logs-to-every-developer-i-work-with&#34;&gt;Why I&amp;rsquo;m Recommending Daily Logs to Every Developer I Work With&lt;/h2&gt;
+&lt;p&gt;Most developers think productivity comes from better tooling, tighter sprint planning, or cutting meetings. Those help—but they don&amp;rsquo;t solve the &lt;em&gt;real&lt;/em&gt; problem:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;You’re losing your own context, day after day.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Start-of-day brain fog, half-solved bugs, forgotten edge cases… they all point to one thing: you didn’t close the loop yesterday.&lt;/p&gt;
+&lt;p&gt;That’s why I advise every dev I coach or lead to adopt a &lt;strong&gt;daily logging habit&lt;/strong&gt;. It’s simple. It takes five minutes. And it pays back &lt;strong&gt;10x&lt;/strong&gt; in clarity, momentum, and output.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<h2 id="why-im-recommending-daily-logs-to-every-developer-i-work-with">Why I&rsquo;m Recommending Daily Logs to Every Developer I Work With</h2>
+<p>Most developers think productivity comes from better tooling, tighter sprint planning, or cutting meetings. Those help—but they don&rsquo;t solve the <em>real</em> problem:</p>
+<blockquote>
+<p>You’re losing your own context, day after day.</p></blockquote>
+<p>Start-of-day brain fog, half-solved bugs, forgotten edge cases… they all point to one thing: you didn’t close the loop yesterday.</p>
+<p>That’s why I advise every dev I coach or lead to adopt a <strong>daily logging habit</strong>. It’s simple. It takes five minutes. And it pays back <strong>10x</strong> in clarity, momentum, and output.</p>
+<p>This is a system you install once—and benefit from every week, forever.</p>
+<hr>
+<h2 id="the-psychology-why-logging-works">The Psychology: Why Logging Works</h2>
+<p>Developers often underestimate how much cognitive energy they waste trying to <em>remember where they left off</em>. Psychologists call this the <strong>Zeigarnik Effect</strong>—your brain holds onto unfinished tasks like open tabs in RAM.</p>
+<p>Logging gives you closure. You offload the mess. Your brain goes, <em>&ldquo;Ah, good. That’s handled.&rdquo;</em></p>
+<p>A 5-minute end-of-day log:</p>
+<ul>
+<li>Clears short-term memory</li>
+<li>Builds continuity between sessions</li>
+<li>Reduces cognitive switching costs</li>
+<li>Increases problem-solving capacity</li>
+<li>Improves next-day readiness</li>
+</ul>
+<p>It’s not just a journal. It’s a compression algorithm for your mental state.</p>
+<hr>
+<h2 id="what-a-developer-log-looks-like">What a Developer Log Looks Like</h2>
+<p>This isn’t journaling. You don’t need to be poetic or elaborate. Just structured, consistent, and useful to <em>future you</em> (or your teammates).</p>
+<h3 id="simple-3-point-format">Simple 3-Point Format:</h3>
+<p><strong>1. What I Did</strong></p>
+<ul>
+<li>Finished login API (rate limiting added)</li>
+<li>Fixed session bug (#231)</li>
+<li>Debugged analytics memory leak</li>
+</ul>
+<p><strong>2. What’s Next</strong></p>
+<ul>
+<li>Write tests for session manager</li>
+<li>Refactor data pipeline (step 3)</li>
+<li>Review frontend PR</li>
+</ul>
+<p><strong>3. What Broke or Was Weird</strong></p>
+<ul>
+<li>Memory leak likely from 3rd-party SDK</li>
+<li>AWS logs delayed by 5 mins</li>
+<li>Auth intermittently returning 401s</li>
+</ul>
+<p><strong>Optional Enhancers:</strong></p>
+<ul>
+<li>Productivity score (1–5)</li>
+<li>Link to Jira ticket or Git branch</li>
+<li>Quick insight: “Bug traced to cookie expiration, not Redis”</li>
+</ul>
+<p>This format builds a <strong>breadcrumb trail</strong> of your work. You’ll be stunned how often you refer back to it.</p>
+<hr>
+<h2 id="tools-keep-it-stupid-simple">Tools: Keep It Stupid Simple</h2>
+<p>The best tool is the one you’ll actually use—daily, without friction.</p>
+<p>You could use something like <strong>Obsidian</strong>, which is excellent if you already have it set up for notes or knowledge management. It gives you powerful search, backlinks, daily templates, and local-first speed. It’s like having your own second brain that works perfectly for code-related journaling.</p>
+<p>But honestly? What I do is even simpler:
+I just keep a <code>daily-log.md</code> file inside my project folder and open it in VS Code at the end of the day. It’s fast, always available, and blends right into the development flow. I even have a small snippet that autofills the log template, so I don’t have to think about it.</p>
+<p>Whichever route you choose, keep it local, lightweight, and searchable.</p>
+<h3 id="-pro-tip-git--logs--magic">⚡ Pro Tip: Git + Logs = Magic</h3>
+<p>Create a Git alias or hook that commits your daily log with your code. Now your log is versioned alongside your branches—instant traceability and context for every commit.</p>
+<hr>
+<h2 id="real-world-win-debugging-faster">Real-World Win: Debugging Faster</h2>
+<p>In a distributed system project, one engineer logged this:</p>
+<blockquote>
+<p>“Consumer lag spikes at 3pm UTC. Could be tied to deployment script.”</p></blockquote>
+<p>They didn’t solve it that day—but another engineer picked it up the next morning, confirmed the hypothesis, and pushed a fix in under 30 minutes.</p>
+<p>The log didn’t solve the bug.
+It <strong>preserved the context</strong>—which solved the bug <em>faster</em>.</p>
+<hr>
+<h2 id="build-the-habit">Build the Habit</h2>
+<ul>
+<li>Start small: Just do it for <em>yourself</em>, not the team.</li>
+<li>Pick one place: Obsidian or a <code>daily-log.md</code>.</li>
+<li>Make it part of your shutdown ritual.</li>
+<li>Use a template so there’s no decision fatigue.</li>
+<li>Reward yourself. You’re building a cognitive edge.</li>
+</ul>
+<hr>
+<h2 id="wrap-up">Wrap Up</h2>
+<p>Most productivity advice for devs focuses on planning the future. But your real power lies in <strong>closing your present</strong>.</p>
+<p>Log your day.</p>
+<p>Every log becomes a time capsule—of lessons learned, bugs spotted, patterns noticed, and momentum captured. Future you will thank you.</p>
+<blockquote>
+<p>Five minutes a day. Ten times the clarity.
+That’s leverage.</p></blockquote>
+]]></content>
+        </item>
+        
+        <item>
+            <title>How I Wrote Software 20 Years Ago (And Still Do)</title>
+            <link>http://localhost:1313/posts/05-20-25-how-i-write-software/</link>
+            <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
+            
+            <guid>http://localhost:1313/posts/05-20-25-how-i-write-software/</guid>
+            <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;A while back, I read about this process, from another developer, can’t even remember where, but it described a way of building software that felt oddly familiar. Almost like it had been plucked from my own memory, but written down with more structure and clarity.&lt;/p&gt;
+&lt;p&gt;That structure helped me refine the way I already worked. And now, even 20 years later, it’s still my go-to process whenever I’m starting something new. Whether I’m building a quick prototype, helping a client, or launching a new product — this method keeps me sane, clear, and productive.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<h2 id="introduction">Introduction</h2>
+<p>A while back, I read about this process, from another developer, can’t even remember where, but it described a way of building software that felt oddly familiar. Almost like it had been plucked from my own memory, but written down with more structure and clarity.</p>
+<p>That structure helped me refine the way I already worked. And now, even 20 years later, it’s still my go-to process whenever I’m starting something new. Whether I’m building a quick prototype, helping a client, or launching a new product — this method keeps me sane, clear, and productive.</p>
+<p>It’s simple. Surprisingly simple. So simple you might think, “Well, duh.” But the truth is, most developers and teams still don’t do this. Not consistently. Not thoroughly. Not early enough.</p>
+<p>Let me show you what I mean.</p>
+<hr>
+<h2 id="dont-start-with-the-code">Don&rsquo;t Start with the Code</h2>
+<p>Most people open their editor the moment an idea hits. I used to do that too. It feels good — like you&rsquo;re moving fast.</p>
+<p>But often, you’re just rushing into a mess.</p>
+<p>You start building screens before you know what data you’re working with. You guess at features instead of solving real problems. You paint the walls before laying the foundation.</p>
+<p>Here’s what I do instead.</p>
+<hr>
+<h2 id="step-1-what-who-and-how">Step 1: What, Who, and How</h2>
+<p>Before anything else, I write — in plain, simple language — what I’m building, who it’s for, and how I expect people to use it.</p>
+<p>No fancy frameworks. No personas. Just clarity.</p>
+<blockquote>
+<p>&ldquo;This is an app for freelance designers to track their projects. It&rsquo;s meant to help them stay organized, see deadlines at a glance, and feel less overwhelmed. I expect them to check it every morning and use it again in the evening.&rdquo;</p></blockquote>
+<p>That’s already plenty.</p>
+<p>Want to go deeper? Great. Add problems you&rsquo;re solving. Outline user pain points. But don’t overthink it. The point is to start with a real reason and a real person in mind.</p>
+<hr>
+<h2 id="step-2-map-the-data">Step 2: Map the Data</h2>
+<p>Once I know the “what” and the “who,” I move on to the data.</p>
+<p>This is the part most people skip — but it’s one of the most valuable things you can do.</p>
+<p>I ask:</p>
+<ul>
+<li>What are the main objects in this system?</li>
+<li>How do they relate?</li>
+<li>What actions can be taken on each?</li>
+</ul>
+<p>For example:</p>
+<ul>
+<li>A user creates projects</li>
+<li>Projects have tasks</li>
+<li>Tasks can be marked complete or given a due date</li>
+<li>Tasks can belong to a category</li>
+</ul>
+<p>You don’t need to draw out the perfect schema. Just start sketching relationships. Think in terms of nouns and verbs. It gives your product structure, and makes everything else easier — especially when you&rsquo;re building fast.</p>
+<hr>
+<h2 id="step-3-sketch-the-flow">Step 3: Sketch the Flow</h2>
+<p>Next, I think about the screens.</p>
+<ul>
+<li>What’s the first screen users see?</li>
+<li>Where can they go from there?</li>
+<li>What actions happen on each page?</li>
+</ul>
+<p>Sometimes I’ll sketch this on paper. Sometimes I just jot down a list.</p>
+<p>This part is about flow. It’s how your app feels in motion. The data model gives it bones. The flow gives it life.</p>
+<p>You can go back and forth between steps 2 and 3. They inform each other. But together, they build the whole system before you touch a single line of code.</p>
+<hr>
+<h2 id="step-4-choose-the-tech">Step 4: Choose the Tech</h2>
+<p>Now that I know what I’m building, who it’s for, what data I need, and how the user moves through the product — now I choose my tools.</p>
+<ul>
+<li>What frontend makes sense?</li>
+<li>What kind of backend do I need?</li>
+<li>Is this mobile-first? Web-first?</li>
+<li>Do I need real-time sync, or will a simple API do?</li>
+</ul>
+<p>At this point, the tech stack almost picks itself. There’s no guessing, no overengineering. You’re just filling in the gaps.</p>
+<hr>
+<h2 id="step-5-build-it">Step 5: Build It</h2>
+<p>This is the fun part — and now, it&rsquo;s actually <em>fun</em>, because I’m not wandering.</p>
+<p>The product is already half-built in my mind and on paper. I just need to assemble it.</p>
+<p>Coding becomes fast and focused. Design decisions are grounded in user needs and data. And best of all, I stay motivated because I know exactly what I’m trying to deliver and why.</p>
+<hr>
+<h2 id="try-it-yourself">Try It Yourself</h2>
+<p>You’re probably doing some of this already — maybe without realizing it. That’s great.</p>
+<p>But I invite you to try doing it <em>on purpose</em>. Start your next project by writing out the “what, who, and how.” Map your data. Sketch your flow.</p>
+<p>It doesn’t take long. In fact, it saves you time.</p>
+<p>This method has helped me build faster, design better, and stay focused — for 20 years. It might just do the same for you.</p>
+<p>Let me know if you try it.</p>
+<p>– Jake</p>
+]]></content>
+        </item>
         
         <item>
             <title>🌿 Seeking Non-Technical Cofounder – Wellness Meets Tech 🔬</title>
-            <link>https://zeljko.dakic.com/posts/05-18-25-looking-for-a-cofounder/</link>
+            <link>http://localhost:1313/posts/05-18-25-looking-for-a-cofounder/</link>
             <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
             
-            <guid>https://zeljko.dakic.com/posts/05-18-25-looking-for-a-cofounder/</guid>
+            <guid>http://localhost:1313/posts/05-18-25-looking-for-a-cofounder/</guid>
             <description>&lt;p&gt;🌿 Seeking Non-Technical Cofounder – Wellness Meets Tech 🔬&lt;/p&gt;
 &lt;p&gt;I’m building a technological platform that blends medical testing with deep data analysis to deliver clear, actionable insights into personal wellness.&lt;/p&gt;
 &lt;p&gt;Our goal: simplify complex health data and help people take meaningful control of their well-being.&lt;/p&gt;
@@ -35,10 +216,10 @@
         
         <item>
             <title>How Do Augmented Developers Tackle the Complex Landscape of Modern Development?</title>
-            <link>https://zeljko.dakic.com/posts/09-19-23-why-is-now-the-perfect-time-for-the-rise-of-augmented-/</link>
+            <link>http://localhost:1313/posts/09-19-23-why-is-now-the-perfect-time-for-the-rise-of-augmented-/</link>
             <pubDate>Tue, 19 Sep 2023 10:58:41 -0500</pubDate>
             
-            <guid>https://zeljko.dakic.com/posts/09-19-23-why-is-now-the-perfect-time-for-the-rise-of-augmented-/</guid>
+            <guid>http://localhost:1313/posts/09-19-23-why-is-now-the-perfect-time-for-the-rise-of-augmented-/</guid>
             <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;When Yukihiro Matsumoto, affectionately known as Matz, introduced the concept that a developer&amp;rsquo;s happiness is a pivotal aspect of development, it was a revelation. It emphasized that producing quality work isn&amp;rsquo;t just about the end product, but also about the journey and the well-being of those involved. This philosophy resonated deeply with me, reminding me of the Agile Manifesto&amp;rsquo;s pioneers who championed innovative ways to enhance work quality. Inspired by these trailblazers, I present &amp;ldquo;Augmented Developers&amp;rdquo; – my vision to elevate the quality of our work while ensuring the utmost satisfaction for everyone involved.&lt;/p&gt;</description>
             <content type="html"><![CDATA[<h2 id="introduction">Introduction</h2>
@@ -83,10 +264,10 @@
         
         <item>
             <title>Modern Times Call for Modern Development</title>
-            <link>https://zeljko.dakic.com/posts/09-14-23-modern-times-call-for-modern-development/</link>
+            <link>http://localhost:1313/posts/09-14-23-modern-times-call-for-modern-development/</link>
             <pubDate>Thu, 14 Sep 2023 16:29:49 -0500</pubDate>
             
-            <guid>https://zeljko.dakic.com/posts/09-14-23-modern-times-call-for-modern-development/</guid>
+            <guid>http://localhost:1313/posts/09-14-23-modern-times-call-for-modern-development/</guid>
             <description>&lt;p&gt;Today we a launching Augmented Developers!&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://augmented-devs.com&#34;&gt;https://augmented-devs.com&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;I am doing it with joy and happiness. It should address number of issues I see with modern development and how developers are fitting into it.&lt;/p&gt;
@@ -130,10 +311,10 @@
         
         <item>
             <title>Groundhog Day</title>
-            <link>https://zeljko.dakic.com/posts/04-03-23-groundhog-day/</link>
+            <link>http://localhost:1313/posts/04-03-23-groundhog-day/</link>
             <pubDate>Mon, 03 Apr 2023 14:25:55 -0500</pubDate>
             
-            <guid>https://zeljko.dakic.com/posts/04-03-23-groundhog-day/</guid>
+            <guid>http://localhost:1313/posts/04-03-23-groundhog-day/</guid>
             <description>&lt;p&gt;Imagine being trapped in a never-ending cycle where each day is a repetition of the previous one, with little to no change. This is the premise of the classic comedy-drama film &amp;ldquo;Groundhog Day,&amp;rdquo; in which the protagonist, Phil Connors, finds himself living the same day over and over again. While the movie is a work of fiction, it serves as a compelling metaphor for the experiences of individuals with ADHD, particularly those who work as programmers.&lt;/p&gt;</description>
             <content type="html"><![CDATA[<p>Imagine being trapped in a never-ending cycle where each day is a repetition of the previous one, with little to no change. This is the premise of the classic comedy-drama film &ldquo;Groundhog Day,&rdquo; in which the protagonist, Phil Connors, finds himself living the same day over and over again. While the movie is a work of fiction, it serves as a compelling metaphor for the experiences of individuals with ADHD, particularly those who work as programmers.</p>
 <p>For me as a programmer, daily life can feel like a perpetual Groundhog Day. There are things and projects I would like to accomplish, which I am trying really hard to work on and focus. Then weeks, months and sometimes year later, I would find notes on the projects I wanted to do then&hellip; and it is the same projects and things I am trying to do now. And when this happens this is just soul-crushing.</p>
@@ -169,10 +350,10 @@
         
         <item>
             <title>Ai and Creativity 2nd part</title>
-            <link>https://zeljko.dakic.com/posts/03-22-24-ai-and-creativity-2/</link>
+            <link>http://localhost:1313/posts/03-22-24-ai-and-creativity-2/</link>
             <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
             
-            <guid>https://zeljko.dakic.com/posts/03-22-24-ai-and-creativity-2/</guid>
+            <guid>http://localhost:1313/posts/03-22-24-ai-and-creativity-2/</guid>
             <description>&lt;p&gt;I wanted to further expand on previous article and worked with ChatGPT to explore few more points of interest when it comes to creativity and how AI can help us expand it.&lt;/p&gt;
 &lt;p&gt;**Introduction&lt;/p&gt;
 &lt;p&gt;As previously discussed, AI is not only emulating human creativity but also stimulating and enhancing it. By delving deeper into the ways AI can boost and augment the human creative process, we can better understand the potential of this groundbreaking partnership. In this article, we will explore the various ways AI is revolutionizing creativity and idea generation, paving the way for unprecedented innovation.&lt;/p&gt;</description>
@@ -210,10 +391,10 @@
         
         <item>
             <title>Ai And Creativity</title>
-            <link>https://zeljko.dakic.com/posts/03-23-23-ai-and-creativity/</link>
+            <link>http://localhost:1313/posts/03-23-23-ai-and-creativity/</link>
             <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
             
-            <guid>https://zeljko.dakic.com/posts/03-23-23-ai-and-creativity/</guid>
+            <guid>http://localhost:1313/posts/03-23-23-ai-and-creativity/</guid>
             <description>&lt;p&gt;I believe that AI can significantly aid and boost human creativity and enhance collaboration. This is something that has to be proven just yet, but I want to explore it and see where we can use AI for that purpose.&lt;/p&gt;
 &lt;p&gt;This article and it&amp;rsquo;s points were made using ChatGPT-4.&lt;/p&gt;
 &lt;h4 id=&#34;introduction&#34;&gt;Introduction&lt;/h4&gt;
@@ -249,10 +430,10 @@
         
         <item>
             <title>Benefits of Remote Work</title>
-            <link>https://zeljko.dakic.com/posts/03-21-23-benefits-of-remote-work/</link>
+            <link>http://localhost:1313/posts/03-21-23-benefits-of-remote-work/</link>
             <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
             
-            <guid>https://zeljko.dakic.com/posts/03-21-23-benefits-of-remote-work/</guid>
+            <guid>http://localhost:1313/posts/03-21-23-benefits-of-remote-work/</guid>
             <description>&lt;p&gt;As the world has shifted toward remote work, I have witnessed firsthand the numerous advantages it offers to both employees and employers. Working from home has allowed me to save time on my daily commute, become more productive and focused, and enjoy increased flexibility as a parent. Not only that, remote work has proven to be environmentally friendly and has required the development of innovative management strategies for success. In this article, I will share my experience with these benefits, as well as other advantages that have made remote work an invaluable option for me and many others.&lt;/p&gt;</description>
             <content type="html"><![CDATA[<p>As the world has shifted toward remote work, I have witnessed firsthand the numerous advantages it offers to both employees and employers. Working from home has allowed me to save time on my daily commute, become more productive and focused, and enjoy increased flexibility as a parent. Not only that, remote work has proven to be environmentally friendly and has required the development of innovative management strategies for success. In this article, I will share my experience with these benefits, as well as other advantages that have made remote work an invaluable option for me and many others.</p>
 <h3 id="changes-cause-pushback">Changes cause pushback</h3>
@@ -281,10 +462,10 @@
         
         <item>
             <title>Year of Creative Experiments</title>
-            <link>https://zeljko.dakic.com/posts/03-19-23-year-of-creative-experiments/</link>
+            <link>http://localhost:1313/posts/03-19-23-year-of-creative-experiments/</link>
             <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
             
-            <guid>https://zeljko.dakic.com/posts/03-19-23-year-of-creative-experiments/</guid>
+            <guid>http://localhost:1313/posts/03-19-23-year-of-creative-experiments/</guid>
             <description>&lt;p&gt;I am part of the NessLabs community and recently a member of NessLabs, a lovely women presented a topic of a whole year of creative experiments.&lt;/p&gt;
 &lt;p&gt;Idea is to always have some small projects to work on, that will be limited in scope and will bring you joy and happiness of exploring new areas in your life or expanding existing ones.&lt;/p&gt;
 &lt;p&gt;It works like this:&lt;/p&gt;
@@ -331,10 +512,10 @@ I have some thoughts about modern management and planning, I will start writing 
         
         <item>
             <title>Dakic Online Ai Makes Song</title>
-            <link>https://zeljko.dakic.com/posts/03-14-23-dakic-online-ai-makes-song/</link>
+            <link>http://localhost:1313/posts/03-14-23-dakic-online-ai-makes-song/</link>
             <pubDate>Tue, 14 Mar 2023 23:11:52 -0500</pubDate>
             
-            <guid>https://zeljko.dakic.com/posts/03-14-23-dakic-online-ai-makes-song/</guid>
+            <guid>http://localhost:1313/posts/03-14-23-dakic-online-ai-makes-song/</guid>
             <description>&lt;p&gt;I asked ChatGPT-3.5 to make a song about our mission to make a world a better place,
 here is what it came up with:&lt;/p&gt;
 &lt;p&gt;Innovation and technology,&lt;br&gt;
@@ -377,10 +558,10 @@ And showing us the way.</p>
         
         <item>
             <title>Making World a Better Place</title>
-            <link>https://zeljko.dakic.com/posts/03-14-23-making-world-a-better-place/</link>
+            <link>http://localhost:1313/posts/03-14-23-making-world-a-better-place/</link>
             <pubDate>Tue, 14 Mar 2023 15:02:10 -0500</pubDate>
             
-            <guid>https://zeljko.dakic.com/posts/03-14-23-making-world-a-better-place/</guid>
+            <guid>http://localhost:1313/posts/03-14-23-making-world-a-better-place/</guid>
             <description>&lt;p&gt;This post is about my values that I defined long time ago and some tweaks I want to add as I think things through.&lt;/p&gt;
 &lt;p&gt;It is long and rambly post, you can find conclusion near the end.&lt;/p&gt;
 &lt;h3 id=&#34;in-the-past&#34;&gt;In the past&lt;/h3&gt;

@@ -1,21 +1,197 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>@’s Hello World! - Blog</title>
-    <link>https://zeljko.dakic.com/https://zeljko.dakic.com/blog/</link>
+    <link>http://localhost:1313/http://localhost:1313/blog/</link>
     <description>All entries in Blog on Hello World!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
     
-    <atom:link href="https://zeljko.dakic.com/blog/" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/" rel="self" type="application/rss+xml" />
+    
+      
+      <item>
+        <title>Daily Logs for Devs: The 5-Minute Habit That Can 10x Your Output</title>
+        <link>http://localhost:1313/posts/05-21-25-daily-logging/</link>
+        <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+        <author> </author>
+        <guid>http://localhost:1313/posts/05-21-25-daily-logging/</guid>
+        <description>&lt;h2 id=&#34;why-im-recommending-daily-logs-to-every-developer-i-work-with&#34;&gt;Why I&amp;rsquo;m Recommending Daily Logs to Every Developer I Work With&lt;/h2&gt;
+&lt;p&gt;Most developers think productivity comes from better tooling, tighter sprint planning, or cutting meetings. Those help—but they don&amp;rsquo;t solve the &lt;em&gt;real&lt;/em&gt; problem:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;You’re losing your own context, day after day.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Start-of-day brain fog, half-solved bugs, forgotten edge cases… they all point to one thing: you didn’t close the loop yesterday.&lt;/p&gt;
+&lt;p&gt;That’s why I advise every dev I coach or lead to adopt a &lt;strong&gt;daily logging habit&lt;/strong&gt;. It’s simple. It takes five minutes. And it pays back &lt;strong&gt;10x&lt;/strong&gt; in clarity, momentum, and output.&lt;/p&gt;
+&lt;p&gt;This is a system you install once—and benefit from every week, forever.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;the-psychology-why-logging-works&#34;&gt;The Psychology: Why Logging Works&lt;/h2&gt;
+&lt;p&gt;Developers often underestimate how much cognitive energy they waste trying to &lt;em&gt;remember where they left off&lt;/em&gt;. Psychologists call this the &lt;strong&gt;Zeigarnik Effect&lt;/strong&gt;—your brain holds onto unfinished tasks like open tabs in RAM.&lt;/p&gt;
+&lt;p&gt;Logging gives you closure. You offload the mess. Your brain goes, &lt;em&gt;&amp;ldquo;Ah, good. That’s handled.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;A 5-minute end-of-day log:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Clears short-term memory&lt;/li&gt;
+&lt;li&gt;Builds continuity between sessions&lt;/li&gt;
+&lt;li&gt;Reduces cognitive switching costs&lt;/li&gt;
+&lt;li&gt;Increases problem-solving capacity&lt;/li&gt;
+&lt;li&gt;Improves next-day readiness&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It’s not just a journal. It’s a compression algorithm for your mental state.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;what-a-developer-log-looks-like&#34;&gt;What a Developer Log Looks Like&lt;/h2&gt;
+&lt;p&gt;This isn’t journaling. You don’t need to be poetic or elaborate. Just structured, consistent, and useful to &lt;em&gt;future you&lt;/em&gt; (or your teammates).&lt;/p&gt;
+&lt;h3 id=&#34;simple-3-point-format&#34;&gt;Simple 3-Point Format:&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;1. What I Did&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Finished login API (rate limiting added)&lt;/li&gt;
+&lt;li&gt;Fixed session bug (#231)&lt;/li&gt;
+&lt;li&gt;Debugged analytics memory leak&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2. What’s Next&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Write tests for session manager&lt;/li&gt;
+&lt;li&gt;Refactor data pipeline (step 3)&lt;/li&gt;
+&lt;li&gt;Review frontend PR&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;3. What Broke or Was Weird&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Memory leak likely from 3rd-party SDK&lt;/li&gt;
+&lt;li&gt;AWS logs delayed by 5 mins&lt;/li&gt;
+&lt;li&gt;Auth intermittently returning 401s&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Optional Enhancers:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Productivity score (1–5)&lt;/li&gt;
+&lt;li&gt;Link to Jira ticket or Git branch&lt;/li&gt;
+&lt;li&gt;Quick insight: “Bug traced to cookie expiration, not Redis”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This format builds a &lt;strong&gt;breadcrumb trail&lt;/strong&gt; of your work. You’ll be stunned how often you refer back to it.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;tools-keep-it-stupid-simple&#34;&gt;Tools: Keep It Stupid Simple&lt;/h2&gt;
+&lt;p&gt;The best tool is the one you’ll actually use—daily, without friction.&lt;/p&gt;
+&lt;p&gt;You could use something like &lt;strong&gt;Obsidian&lt;/strong&gt;, which is excellent if you already have it set up for notes or knowledge management. It gives you powerful search, backlinks, daily templates, and local-first speed. It’s like having your own second brain that works perfectly for code-related journaling.&lt;/p&gt;
+&lt;p&gt;But honestly? What I do is even simpler:
+I just keep a &lt;code&gt;daily-log.md&lt;/code&gt; file inside my project folder and open it in VS Code at the end of the day. It’s fast, always available, and blends right into the development flow. I even have a small snippet that autofills the log template, so I don’t have to think about it.&lt;/p&gt;
+&lt;p&gt;Whichever route you choose, keep it local, lightweight, and searchable.&lt;/p&gt;
+&lt;h3 id=&#34;-pro-tip-git--logs--magic&#34;&gt;⚡ Pro Tip: Git + Logs = Magic&lt;/h3&gt;
+&lt;p&gt;Create a Git alias or hook that commits your daily log with your code. Now your log is versioned alongside your branches—instant traceability and context for every commit.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;real-world-win-debugging-faster&#34;&gt;Real-World Win: Debugging Faster&lt;/h2&gt;
+&lt;p&gt;In a distributed system project, one engineer logged this:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“Consumer lag spikes at 3pm UTC. Could be tied to deployment script.”&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;They didn’t solve it that day—but another engineer picked it up the next morning, confirmed the hypothesis, and pushed a fix in under 30 minutes.&lt;/p&gt;
+&lt;p&gt;The log didn’t solve the bug.
+It &lt;strong&gt;preserved the context&lt;/strong&gt;—which solved the bug &lt;em&gt;faster&lt;/em&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;build-the-habit&#34;&gt;Build the Habit&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Start small: Just do it for &lt;em&gt;yourself&lt;/em&gt;, not the team.&lt;/li&gt;
+&lt;li&gt;Pick one place: Obsidian or a &lt;code&gt;daily-log.md&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Make it part of your shutdown ritual.&lt;/li&gt;
+&lt;li&gt;Use a template so there’s no decision fatigue.&lt;/li&gt;
+&lt;li&gt;Reward yourself. You’re building a cognitive edge.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;wrap-up&#34;&gt;Wrap Up&lt;/h2&gt;
+&lt;p&gt;Most productivity advice for devs focuses on planning the future. But your real power lies in &lt;strong&gt;closing your present&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Log your day.&lt;/p&gt;
+&lt;p&gt;Every log becomes a time capsule—of lessons learned, bugs spotted, patterns noticed, and momentum captured. Future you will thank you.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Five minutes a day. Ten times the clarity.
+That’s leverage.&lt;/p&gt;&lt;/blockquote&gt;
+</description>
+      </item>
+      
+    
+      
+      <item>
+        <title>How I Wrote Software 20 Years Ago (And Still Do)</title>
+        <link>http://localhost:1313/posts/05-20-25-how-i-write-software/</link>
+        <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
+        <author> </author>
+        <guid>http://localhost:1313/posts/05-20-25-how-i-write-software/</guid>
+        <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;A while back, I read about this process, from another developer, can’t even remember where, but it described a way of building software that felt oddly familiar. Almost like it had been plucked from my own memory, but written down with more structure and clarity.&lt;/p&gt;
+&lt;p&gt;That structure helped me refine the way I already worked. And now, even 20 years later, it’s still my go-to process whenever I’m starting something new. Whether I’m building a quick prototype, helping a client, or launching a new product — this method keeps me sane, clear, and productive.&lt;/p&gt;
+&lt;p&gt;It’s simple. Surprisingly simple. So simple you might think, “Well, duh.” But the truth is, most developers and teams still don’t do this. Not consistently. Not thoroughly. Not early enough.&lt;/p&gt;
+&lt;p&gt;Let me show you what I mean.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;dont-start-with-the-code&#34;&gt;Don&amp;rsquo;t Start with the Code&lt;/h2&gt;
+&lt;p&gt;Most people open their editor the moment an idea hits. I used to do that too. It feels good — like you&amp;rsquo;re moving fast.&lt;/p&gt;
+&lt;p&gt;But often, you’re just rushing into a mess.&lt;/p&gt;
+&lt;p&gt;You start building screens before you know what data you’re working with. You guess at features instead of solving real problems. You paint the walls before laying the foundation.&lt;/p&gt;
+&lt;p&gt;Here’s what I do instead.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;step-1-what-who-and-how&#34;&gt;Step 1: What, Who, and How&lt;/h2&gt;
+&lt;p&gt;Before anything else, I write — in plain, simple language — what I’m building, who it’s for, and how I expect people to use it.&lt;/p&gt;
+&lt;p&gt;No fancy frameworks. No personas. Just clarity.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;This is an app for freelance designers to track their projects. It&amp;rsquo;s meant to help them stay organized, see deadlines at a glance, and feel less overwhelmed. I expect them to check it every morning and use it again in the evening.&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;That’s already plenty.&lt;/p&gt;
+&lt;p&gt;Want to go deeper? Great. Add problems you&amp;rsquo;re solving. Outline user pain points. But don’t overthink it. The point is to start with a real reason and a real person in mind.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;step-2-map-the-data&#34;&gt;Step 2: Map the Data&lt;/h2&gt;
+&lt;p&gt;Once I know the “what” and the “who,” I move on to the data.&lt;/p&gt;
+&lt;p&gt;This is the part most people skip — but it’s one of the most valuable things you can do.&lt;/p&gt;
+&lt;p&gt;I ask:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What are the main objects in this system?&lt;/li&gt;
+&lt;li&gt;How do they relate?&lt;/li&gt;
+&lt;li&gt;What actions can be taken on each?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For example:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A user creates projects&lt;/li&gt;
+&lt;li&gt;Projects have tasks&lt;/li&gt;
+&lt;li&gt;Tasks can be marked complete or given a due date&lt;/li&gt;
+&lt;li&gt;Tasks can belong to a category&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You don’t need to draw out the perfect schema. Just start sketching relationships. Think in terms of nouns and verbs. It gives your product structure, and makes everything else easier — especially when you&amp;rsquo;re building fast.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;step-3-sketch-the-flow&#34;&gt;Step 3: Sketch the Flow&lt;/h2&gt;
+&lt;p&gt;Next, I think about the screens.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What’s the first screen users see?&lt;/li&gt;
+&lt;li&gt;Where can they go from there?&lt;/li&gt;
+&lt;li&gt;What actions happen on each page?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Sometimes I’ll sketch this on paper. Sometimes I just jot down a list.&lt;/p&gt;
+&lt;p&gt;This part is about flow. It’s how your app feels in motion. The data model gives it bones. The flow gives it life.&lt;/p&gt;
+&lt;p&gt;You can go back and forth between steps 2 and 3. They inform each other. But together, they build the whole system before you touch a single line of code.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;step-4-choose-the-tech&#34;&gt;Step 4: Choose the Tech&lt;/h2&gt;
+&lt;p&gt;Now that I know what I’m building, who it’s for, what data I need, and how the user moves through the product — now I choose my tools.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What frontend makes sense?&lt;/li&gt;
+&lt;li&gt;What kind of backend do I need?&lt;/li&gt;
+&lt;li&gt;Is this mobile-first? Web-first?&lt;/li&gt;
+&lt;li&gt;Do I need real-time sync, or will a simple API do?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;At this point, the tech stack almost picks itself. There’s no guessing, no overengineering. You’re just filling in the gaps.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;step-5-build-it&#34;&gt;Step 5: Build It&lt;/h2&gt;
+&lt;p&gt;This is the fun part — and now, it&amp;rsquo;s actually &lt;em&gt;fun&lt;/em&gt;, because I’m not wandering.&lt;/p&gt;
+&lt;p&gt;The product is already half-built in my mind and on paper. I just need to assemble it.&lt;/p&gt;
+&lt;p&gt;Coding becomes fast and focused. Design decisions are grounded in user needs and data. And best of all, I stay motivated because I know exactly what I’m trying to deliver and why.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;try-it-yourself&#34;&gt;Try It Yourself&lt;/h2&gt;
+&lt;p&gt;You’re probably doing some of this already — maybe without realizing it. That’s great.&lt;/p&gt;
+&lt;p&gt;But I invite you to try doing it &lt;em&gt;on purpose&lt;/em&gt;. Start your next project by writing out the “what, who, and how.” Map your data. Sketch your flow.&lt;/p&gt;
+&lt;p&gt;It doesn’t take long. In fact, it saves you time.&lt;/p&gt;
+&lt;p&gt;This method has helped me build faster, design better, and stay focused — for 20 years. It might just do the same for you.&lt;/p&gt;
+&lt;p&gt;Let me know if you try it.&lt;/p&gt;
+&lt;p&gt;– Jake&lt;/p&gt;
+</description>
+      </item>
+      
     
       
       <item>
         <title>🌿 Seeking Non-Technical Cofounder – Wellness Meets Tech 🔬</title>
-        <link>https://zeljko.dakic.com/posts/05-18-25-looking-for-a-cofounder/</link>
+        <link>http://localhost:1313/posts/05-18-25-looking-for-a-cofounder/</link>
         <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
         <author> </author>
-        <guid>https://zeljko.dakic.com/posts/05-18-25-looking-for-a-cofounder/</guid>
+        <guid>http://localhost:1313/posts/05-18-25-looking-for-a-cofounder/</guid>
         <description>&lt;p&gt;🌿 Seeking Non-Technical Cofounder – Wellness Meets Tech 🔬&lt;/p&gt;
 &lt;p&gt;I’m building a technological platform that blends medical testing with deep data analysis to deliver clear, actionable insights into personal wellness.&lt;/p&gt;
 &lt;p&gt;Our goal: simplify complex health data and help people take meaningful control of their well-being.&lt;/p&gt;
@@ -35,10 +211,10 @@
       
       <item>
         <title>How Do Augmented Developers Tackle the Complex Landscape of Modern Development?</title>
-        <link>https://zeljko.dakic.com/posts/09-19-23-why-is-now-the-perfect-time-for-the-rise-of-augmented-/</link>
+        <link>http://localhost:1313/posts/09-19-23-why-is-now-the-perfect-time-for-the-rise-of-augmented-/</link>
         <pubDate>Tue, 19 Sep 2023 10:58:41 -0500</pubDate>
         <author> </author>
-        <guid>https://zeljko.dakic.com/posts/09-19-23-why-is-now-the-perfect-time-for-the-rise-of-augmented-/</guid>
+        <guid>http://localhost:1313/posts/09-19-23-why-is-now-the-perfect-time-for-the-rise-of-augmented-/</guid>
         <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;When Yukihiro Matsumoto, affectionately known as Matz, introduced the concept that a developer&amp;rsquo;s happiness is a pivotal aspect of development, it was a revelation. It emphasized that producing quality work isn&amp;rsquo;t just about the end product, but also about the journey and the well-being of those involved. This philosophy resonated deeply with me, reminding me of the Agile Manifesto&amp;rsquo;s pioneers who championed innovative ways to enhance work quality. Inspired by these trailblazers, I present &amp;ldquo;Augmented Developers&amp;rdquo; – my vision to elevate the quality of our work while ensuring the utmost satisfaction for everyone involved.&lt;/p&gt;
 &lt;h2 id=&#34;current-landscape-of-software-development&#34;&gt;Current landscape of software development&lt;/h2&gt;
@@ -83,10 +259,10 @@
       
       <item>
         <title>Modern Times Call for Modern Development</title>
-        <link>https://zeljko.dakic.com/posts/09-14-23-modern-times-call-for-modern-development/</link>
+        <link>http://localhost:1313/posts/09-14-23-modern-times-call-for-modern-development/</link>
         <pubDate>Thu, 14 Sep 2023 16:29:49 -0500</pubDate>
         <author> </author>
-        <guid>https://zeljko.dakic.com/posts/09-14-23-modern-times-call-for-modern-development/</guid>
+        <guid>http://localhost:1313/posts/09-14-23-modern-times-call-for-modern-development/</guid>
         <description>&lt;p&gt;Today we a launching Augmented Developers!&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://augmented-devs.com&#34;&gt;https://augmented-devs.com&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;I am doing it with joy and happiness. It should address number of issues I see with modern development and how developers are fitting into it.&lt;/p&gt;
@@ -126,10 +302,10 @@
       
       <item>
         <title>Groundhog Day</title>
-        <link>https://zeljko.dakic.com/posts/04-03-23-groundhog-day/</link>
+        <link>http://localhost:1313/posts/04-03-23-groundhog-day/</link>
         <pubDate>Mon, 03 Apr 2023 14:25:55 -0500</pubDate>
         <author> </author>
-        <guid>https://zeljko.dakic.com/posts/04-03-23-groundhog-day/</guid>
+        <guid>http://localhost:1313/posts/04-03-23-groundhog-day/</guid>
         <description>&lt;p&gt;Imagine being trapped in a never-ending cycle where each day is a repetition of the previous one, with little to no change. This is the premise of the classic comedy-drama film &amp;ldquo;Groundhog Day,&amp;rdquo; in which the protagonist, Phil Connors, finds himself living the same day over and over again. While the movie is a work of fiction, it serves as a compelling metaphor for the experiences of individuals with ADHD, particularly those who work as programmers.&lt;/p&gt;
 &lt;p&gt;For me as a programmer, daily life can feel like a perpetual Groundhog Day. There are things and projects I would like to accomplish, which I am trying really hard to work on and focus. Then weeks, months and sometimes year later, I would find notes on the projects I wanted to do then&amp;hellip; and it is the same projects and things I am trying to do now. And when this happens this is just soul-crushing.&lt;/p&gt;
 &lt;p&gt;ADHD is characterized by difficulty in sustaining attention, impulsivity, and hyperactivity. These symptoms can manifest in various ways, but for programmers, they may lead to struggles with time management, task completion, and organization.&lt;/p&gt;
@@ -166,10 +342,10 @@
       
       <item>
         <title>POSSE - practice to publish content on your own site</title>
-        <link>https://zeljko.dakic.com/microposts/04-03-23-posse/</link>
+        <link>http://localhost:1313/microposts/04-03-23-posse/</link>
         <pubDate>Mon, 03 Apr 2023 14:16:52 -0500</pubDate>
         <author> </author>
-        <guid>https://zeljko.dakic.com/microposts/04-03-23-posse/</guid>
+        <guid>http://localhost:1313/microposts/04-03-23-posse/</guid>
         <description>&lt;p&gt;&lt;a href=&#34;https://indieweb.org/POSSE&#34;&gt;https://indieweb.org/POSSE&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;POSSE is an abbreviation for Publish (on your) Own Site, Syndicate Elsewhere, the practice of posting content on your own site first, then publishing copies or sharing links to third parties (like social media silos) with original post links to provide viewers a path to directly interacting with your content.&lt;/p&gt;
 </description>
@@ -179,10 +355,10 @@
       
       <item>
         <title>Gary Makes Us Wat</title>
-        <link>https://zeljko.dakic.com/microposts/03-29-23-gary-makes-us-wat/</link>
+        <link>http://localhost:1313/microposts/03-29-23-gary-makes-us-wat/</link>
         <pubDate>Wed, 29 Mar 2023 23:23:50 -0600</pubDate>
         <author> </author>
-        <guid>https://zeljko.dakic.com/microposts/03-29-23-gary-makes-us-wat/</guid>
+        <guid>http://localhost:1313/microposts/03-29-23-gary-makes-us-wat/</guid>
         <description>&lt;p&gt;This is famous talk from Gary Bernhardt in 2012, but it is still amazing and relevant to see how weird sometimes writing software can be.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.destroyallsoftware.com/talks/wat&#34;&gt;https://www.destroyallsoftware.com/talks/wat&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -192,10 +368,10 @@
       
       <item>
         <title>Writing to Communicate</title>
-        <link>https://zeljko.dakic.com/microposts/03-29-23-writing-to-communicate/</link>
+        <link>http://localhost:1313/microposts/03-29-23-writing-to-communicate/</link>
         <pubDate>Wed, 29 Mar 2023 23:17:23 -0600</pubDate>
         <author> </author>
-        <guid>https://zeljko.dakic.com/microposts/03-29-23-writing-to-communicate/</guid>
+        <guid>http://localhost:1313/microposts/03-29-23-writing-to-communicate/</guid>
         <description>&lt;p&gt;Excellent piece on writing in organization and how it can enhance and help with communication.
 Wish more people and orgs were using this.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://fs.blog/carl-braun-communicating/&#34;&gt;https://fs.blog/carl-braun-communicating/&lt;/a&gt;&lt;/p&gt;
@@ -206,10 +382,10 @@ Wish more people and orgs were using this.&lt;/p&gt;
       
       <item>
         <title>Overcome Odds</title>
-        <link>https://zeljko.dakic.com/microposts/03-29-23-overcome-odds/</link>
+        <link>http://localhost:1313/microposts/03-29-23-overcome-odds/</link>
         <pubDate>Wed, 29 Mar 2023 23:11:23 -0600</pubDate>
         <author> </author>
-        <guid>https://zeljko.dakic.com/microposts/03-29-23-overcome-odds/</guid>
+        <guid>http://localhost:1313/microposts/03-29-23-overcome-odds/</guid>
         <description>&lt;p&gt;Excellent post about how small and passionate can go against big and entrenched opponent.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://fs.blog/leaders-talent/&#34;&gt;How Clever Leaders Overcome More Talented and Better Funded Competitors&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -219,10 +395,10 @@ Wish more people and orgs were using this.&lt;/p&gt;
       
       <item>
         <title>Ai Is Danger</title>
-        <link>https://zeljko.dakic.com/microposts/03-29-23-ai-is-danger/</link>
+        <link>http://localhost:1313/microposts/03-29-23-ai-is-danger/</link>
         <pubDate>Wed, 29 Mar 2023 22:37:42 -0600</pubDate>
         <author> </author>
-        <guid>https://zeljko.dakic.com/microposts/03-29-23-ai-is-danger/</guid>
+        <guid>http://localhost:1313/microposts/03-29-23-ai-is-danger/</guid>
         <description>&lt;p&gt;People is freaking out&lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/TpZcGhYp4rw?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
@@ -235,10 +411,10 @@ Wish more people and orgs were using this.&lt;/p&gt;
       
       <item>
         <title>Generative Ai Explanation</title>
-        <link>https://zeljko.dakic.com/microposts/03-29-23-generative-ai-explanation/</link>
+        <link>http://localhost:1313/microposts/03-29-23-generative-ai-explanation/</link>
         <pubDate>Wed, 29 Mar 2023 22:29:55 -0600</pubDate>
         <author> </author>
-        <guid>https://zeljko.dakic.com/microposts/03-29-23-generative-ai-explanation/</guid>
+        <guid>http://localhost:1313/microposts/03-29-23-generative-ai-explanation/</guid>
         <description>&lt;p&gt;Pretty good explanation of current state of AI. I personally thing Generative label is more then just picking next word, in fact, good Generative System/Model should provide you with range of choices, but overall this is very informative and short video.&lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/hfIUstzHs9A?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
@@ -251,10 +427,10 @@ Wish more people and orgs were using this.&lt;/p&gt;
       
       <item>
         <title>Vite for Js Libraries</title>
-        <link>https://zeljko.dakic.com/microposts/03-28-23-vite-for-js-libraries/</link>
+        <link>http://localhost:1313/microposts/03-28-23-vite-for-js-libraries/</link>
         <pubDate>Tue, 28 Mar 2023 22:19:49 -0600</pubDate>
         <author> </author>
-        <guid>https://zeljko.dakic.com/microposts/03-28-23-vite-for-js-libraries/</guid>
+        <guid>http://localhost:1313/microposts/03-28-23-vite-for-js-libraries/</guid>
         <description>&lt;p&gt;I&amp;rsquo;ve been building libraries and design systems for a while. Building them using Vite is very simple and effective.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://andrewwalpole.com/blog/use-vite-for-javascript-libraries/&#34;&gt;https://andrewwalpole.com/blog/use-vite-for-javascript-libraries/&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -264,10 +440,10 @@ Wish more people and orgs were using this.&lt;/p&gt;
       
       <item>
         <title>Push Notifications finally free</title>
-        <link>https://zeljko.dakic.com/microposts/03-28-23-push-notifications/</link>
+        <link>http://localhost:1313/microposts/03-28-23-push-notifications/</link>
         <pubDate>Tue, 28 Mar 2023 22:17:05 -0600</pubDate>
         <author> </author>
-        <guid>https://zeljko.dakic.com/microposts/03-28-23-push-notifications/</guid>
+        <guid>http://localhost:1313/microposts/03-28-23-push-notifications/</guid>
         <description>&lt;p&gt;Apple finally let us send notifications from PWA. You have to have it installed as desktop shortcut for this to work.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://web.dev/push-notifications-in-all-modern-browsers/&#34;&gt;https://web.dev/push-notifications-in-all-modern-browsers/&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -277,10 +453,10 @@ Wish more people and orgs were using this.&lt;/p&gt;
       
       <item>
         <title>Ai and Creativity 2nd part</title>
-        <link>https://zeljko.dakic.com/posts/03-22-24-ai-and-creativity-2/</link>
+        <link>http://localhost:1313/posts/03-22-24-ai-and-creativity-2/</link>
         <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
         <author> </author>
-        <guid>https://zeljko.dakic.com/posts/03-22-24-ai-and-creativity-2/</guid>
+        <guid>http://localhost:1313/posts/03-22-24-ai-and-creativity-2/</guid>
         <description>&lt;p&gt;I wanted to further expand on previous article and worked with ChatGPT to explore few more points of interest when it comes to creativity and how AI can help us expand it.&lt;/p&gt;
 &lt;p&gt;**Introduction&lt;/p&gt;
 &lt;p&gt;As previously discussed, AI is not only emulating human creativity but also stimulating and enhancing it. By delving deeper into the ways AI can boost and augment the human creative process, we can better understand the potential of this groundbreaking partnership. In this article, we will explore the various ways AI is revolutionizing creativity and idea generation, paving the way for unprecedented innovation.&lt;/p&gt;
@@ -317,10 +493,10 @@ Wish more people and orgs were using this.&lt;/p&gt;
       
       <item>
         <title>Ai And Creativity</title>
-        <link>https://zeljko.dakic.com/posts/03-23-23-ai-and-creativity/</link>
+        <link>http://localhost:1313/posts/03-23-23-ai-and-creativity/</link>
         <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
         <author> </author>
-        <guid>https://zeljko.dakic.com/posts/03-23-23-ai-and-creativity/</guid>
+        <guid>http://localhost:1313/posts/03-23-23-ai-and-creativity/</guid>
         <description>&lt;p&gt;I believe that AI can significantly aid and boost human creativity and enhance collaboration. This is something that has to be proven just yet, but I want to explore it and see where we can use AI for that purpose.&lt;/p&gt;
 &lt;p&gt;This article and it&amp;rsquo;s points were made using ChatGPT-4.&lt;/p&gt;
 &lt;h4 id=&#34;introduction&#34;&gt;Introduction&lt;/h4&gt;
@@ -354,10 +530,10 @@ Wish more people and orgs were using this.&lt;/p&gt;
       
       <item>
         <title>Benefits of Remote Work</title>
-        <link>https://zeljko.dakic.com/posts/03-21-23-benefits-of-remote-work/</link>
+        <link>http://localhost:1313/posts/03-21-23-benefits-of-remote-work/</link>
         <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
         <author> </author>
-        <guid>https://zeljko.dakic.com/posts/03-21-23-benefits-of-remote-work/</guid>
+        <guid>http://localhost:1313/posts/03-21-23-benefits-of-remote-work/</guid>
         <description>&lt;p&gt;As the world has shifted toward remote work, I have witnessed firsthand the numerous advantages it offers to both employees and employers. Working from home has allowed me to save time on my daily commute, become more productive and focused, and enjoy increased flexibility as a parent. Not only that, remote work has proven to be environmentally friendly and has required the development of innovative management strategies for success. In this article, I will share my experience with these benefits, as well as other advantages that have made remote work an invaluable option for me and many others.&lt;/p&gt;
 &lt;h3 id=&#34;changes-cause-pushback&#34;&gt;Changes cause pushback&lt;/h3&gt;
 &lt;p&gt;Quite a number of managers, especially middle managers and CEOs are feeling lost and confused by these changes. On one hand they have all this savings and flexibility because they have a lot of fixed cost of owning real-estate and maintaining offices just gone. On the other hand,they feel the need to control people and they are not sure how to go about it.&lt;/p&gt;
@@ -387,10 +563,10 @@ Wish more people and orgs were using this.&lt;/p&gt;
       
       <item>
         <title>Using Chatgpt With Your Data</title>
-        <link>https://zeljko.dakic.com/microposts/03-20-23-using-chatgpt-with-your-data/</link>
+        <link>http://localhost:1313/microposts/03-20-23-using-chatgpt-with-your-data/</link>
         <pubDate>Mon, 20 Mar 2023 15:38:44 -0500</pubDate>
         <author> </author>
-        <guid>https://zeljko.dakic.com/microposts/03-20-23-using-chatgpt-with-your-data/</guid>
+        <guid>http://localhost:1313/microposts/03-20-23-using-chatgpt-with-your-data/</guid>
         <description>&lt;p&gt;A good guide when you want your data to be foundation for AI&lt;/p&gt;
 &lt;p&gt;[A step-by-step guide to building a chatbot based on your own documents with GPT](A step-by-step guide to building a chatbot based on your own documents with GPT)&lt;/p&gt;
 </description>
@@ -400,10 +576,10 @@ Wish more people and orgs were using this.&lt;/p&gt;
       
       <item>
         <title>03 20 23 Remote Work Mainstream</title>
-        <link>https://zeljko.dakic.com/microposts/03-20-23-remote-work-mainstream/</link>
+        <link>http://localhost:1313/microposts/03-20-23-remote-work-mainstream/</link>
         <pubDate>Mon, 20 Mar 2023 15:36:53 -0500</pubDate>
         <author> </author>
-        <guid>https://zeljko.dakic.com/microposts/03-20-23-remote-work-mainstream/</guid>
+        <guid>http://localhost:1313/microposts/03-20-23-remote-work-mainstream/</guid>
         <description>&lt;p&gt;This!&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://fortune.com/2023/03/09/return-to-office-seemed-inevitable-new-study-shows-companies-already-reversing-course-careers-remote-work-gleb-tsipursky/&#34;&gt;The return to the office once seemed inevitable. A new study shows companies are already reversing course&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -413,10 +589,10 @@ Wish more people and orgs were using this.&lt;/p&gt;
       
       <item>
         <title>Year of Creative Experiments</title>
-        <link>https://zeljko.dakic.com/posts/03-19-23-year-of-creative-experiments/</link>
+        <link>http://localhost:1313/posts/03-19-23-year-of-creative-experiments/</link>
         <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
         <author> </author>
-        <guid>https://zeljko.dakic.com/posts/03-19-23-year-of-creative-experiments/</guid>
+        <guid>http://localhost:1313/posts/03-19-23-year-of-creative-experiments/</guid>
         <description>&lt;p&gt;I am part of the NessLabs community and recently a member of NessLabs, a lovely women presented a topic of a whole year of creative experiments.&lt;/p&gt;
 &lt;p&gt;Idea is to always have some small projects to work on, that will be limited in scope and will bring you joy and happiness of exploring new areas in your life or expanding existing ones.&lt;/p&gt;
 &lt;p&gt;It works like this:&lt;/p&gt;
@@ -455,10 +631,10 @@ I have some thoughts about modern management and planning, I will start writing 
       
       <item>
         <title>Dakic Online Ai Makes Song</title>
-        <link>https://zeljko.dakic.com/posts/03-14-23-dakic-online-ai-makes-song/</link>
+        <link>http://localhost:1313/posts/03-14-23-dakic-online-ai-makes-song/</link>
         <pubDate>Tue, 14 Mar 2023 23:11:52 -0500</pubDate>
         <author> </author>
-        <guid>https://zeljko.dakic.com/posts/03-14-23-dakic-online-ai-makes-song/</guid>
+        <guid>http://localhost:1313/posts/03-14-23-dakic-online-ai-makes-song/</guid>
         <description>&lt;p&gt;I asked ChatGPT-3.5 to make a song about our mission to make a world a better place,
 here is what it came up with:&lt;/p&gt;
 &lt;p&gt;Innovation and technology,&lt;br&gt;
@@ -489,10 +665,10 @@ And showing us the way.&lt;/p&gt;
       
       <item>
         <title>Making World a Better Place</title>
-        <link>https://zeljko.dakic.com/posts/03-14-23-making-world-a-better-place/</link>
+        <link>http://localhost:1313/posts/03-14-23-making-world-a-better-place/</link>
         <pubDate>Tue, 14 Mar 2023 15:02:10 -0500</pubDate>
         <author> </author>
-        <guid>https://zeljko.dakic.com/posts/03-14-23-making-world-a-better-place/</guid>
+        <guid>http://localhost:1313/posts/03-14-23-making-world-a-better-place/</guid>
         <description>&lt;p&gt;This post is about my values that I defined long time ago and some tweaks I want to add as I think things through.&lt;/p&gt;
 &lt;p&gt;It is long and rambly post, you can find conclusion near the end.&lt;/p&gt;
 &lt;h3 id=&#34;in-the-past&#34;&gt;In the past&lt;/h3&gt;
@@ -541,10 +717,10 @@ And showing us the way.&lt;/p&gt;
       
       <item>
         <title>Deno Svelte</title>
-        <link>https://zeljko.dakic.com/microposts/08-01-22-deno-svelte/</link>
+        <link>http://localhost:1313/microposts/08-01-22-deno-svelte/</link>
         <pubDate>Mon, 01 Aug 2022 09:27:39 -0500</pubDate>
         <author> </author>
-        <guid>https://zeljko.dakic.com/microposts/08-01-22-deno-svelte/</guid>
+        <guid>http://localhost:1313/microposts/08-01-22-deno-svelte/</guid>
         <description>&lt;p&gt;This is definitely a way to go for performance until Bun gets more production ready. But totally legitimate combination and solid choice is using Svelte (kit) with Deno runtime.&lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/4wE_Ey-cuuo?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
