@@ -19,7 +19,8 @@
         <description>&lt;h2 id=&#34;why-im-recommending-daily-logs-to-every-developer-i-work-with&#34;&gt;Why I&amp;rsquo;m Recommending Daily Logs to Every Developer I Work With&lt;/h2&gt;
 &lt;p&gt;Most developers think productivity comes from better tooling, tighter sprint planning, or cutting meetings. Those help—but they don&amp;rsquo;t solve the &lt;em&gt;real&lt;/em&gt; problem:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;You’re losing your own context, day after day.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;You’re losing your own context, day after day.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;Start-of-day brain fog, half-solved bugs, forgotten edge cases… they all point to one thing: you didn’t close the loop yesterday.&lt;/p&gt;
 &lt;p&gt;That’s why I advise every dev I coach or lead to adopt a &lt;strong&gt;daily logging habit&lt;/strong&gt;. It’s simple. It takes five minutes. And it pays back &lt;strong&gt;10x&lt;/strong&gt; in clarity, momentum, and output.&lt;/p&gt;
 &lt;p&gt;This is a system you install once—and benefit from every week, forever.&lt;/p&gt;
@@ -78,7 +79,8 @@ I just keep a &lt;code&gt;daily-log.md&lt;/code&gt; file inside my project folde
 &lt;h2 id=&#34;real-world-win-debugging-faster&#34;&gt;Real-World Win: Debugging Faster&lt;/h2&gt;
 &lt;p&gt;In a distributed system project, one engineer logged this:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;“Consumer lag spikes at 3pm UTC. Could be tied to deployment script.”&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;“Consumer lag spikes at 3pm UTC. Could be tied to deployment script.”&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;They didn’t solve it that day—but another engineer picked it up the next morning, confirmed the hypothesis, and pushed a fix in under 30 minutes.&lt;/p&gt;
 &lt;p&gt;The log didn’t solve the bug.
 It &lt;strong&gt;preserved the context&lt;/strong&gt;—which solved the bug &lt;em&gt;faster&lt;/em&gt;.&lt;/p&gt;
@@ -98,7 +100,8 @@ It &lt;strong&gt;preserved the context&lt;/strong&gt;—which solved the bug &lt
 &lt;p&gt;Every log becomes a time capsule—of lessons learned, bugs spotted, patterns noticed, and momentum captured. Future you will thank you.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Five minutes a day. Ten times the clarity.
-That’s leverage.&lt;/p&gt;&lt;/blockquote&gt;
+That’s leverage.&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
       </item>
       
@@ -126,7 +129,8 @@ That’s leverage.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;Before anything else, I write — in plain, simple language — what I’m building, who it’s for, and how I expect people to use it.&lt;/p&gt;
 &lt;p&gt;No fancy frameworks. No personas. Just clarity.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;This is an app for freelance designers to track their projects. It&amp;rsquo;s meant to help them stay organized, see deadlines at a glance, and feel less overwhelmed. I expect them to check it every morning and use it again in the evening.&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&amp;ldquo;This is an app for freelance designers to track their projects. It&amp;rsquo;s meant to help them stay organized, see deadlines at a glance, and feel less overwhelmed. I expect them to check it every morning and use it again in the evening.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;That’s already plenty.&lt;/p&gt;
 &lt;p&gt;Want to go deeper? Great. Add problems you&amp;rsquo;re solving. Outline user pain points. But don’t overthink it. The point is to start with a real reason and a real person in mind.&lt;/p&gt;
 &lt;hr&gt;

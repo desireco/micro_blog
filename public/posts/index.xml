@@ -17,13 +17,15 @@
             <description>&lt;h2 id=&#34;why-im-recommending-daily-logs-to-every-developer-i-work-with&#34;&gt;Why I&amp;rsquo;m Recommending Daily Logs to Every Developer I Work With&lt;/h2&gt;
 &lt;p&gt;Most developers think productivity comes from better tooling, tighter sprint planning, or cutting meetings. Those help—but they don&amp;rsquo;t solve the &lt;em&gt;real&lt;/em&gt; problem:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;You’re losing your own context, day after day.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;You’re losing your own context, day after day.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;Start-of-day brain fog, half-solved bugs, forgotten edge cases… they all point to one thing: you didn’t close the loop yesterday.&lt;/p&gt;
 &lt;p&gt;That’s why I advise every dev I coach or lead to adopt a &lt;strong&gt;daily logging habit&lt;/strong&gt;. It’s simple. It takes five minutes. And it pays back &lt;strong&gt;10x&lt;/strong&gt; in clarity, momentum, and output.&lt;/p&gt;</description>
             <content type="html"><![CDATA[<h2 id="why-im-recommending-daily-logs-to-every-developer-i-work-with">Why I&rsquo;m Recommending Daily Logs to Every Developer I Work With</h2>
 <p>Most developers think productivity comes from better tooling, tighter sprint planning, or cutting meetings. Those help—but they don&rsquo;t solve the <em>real</em> problem:</p>
 <blockquote>
-<p>You’re losing your own context, day after day.</p></blockquote>
+<p>You’re losing your own context, day after day.</p>
+</blockquote>
 <p>Start-of-day brain fog, half-solved bugs, forgotten edge cases… they all point to one thing: you didn’t close the loop yesterday.</p>
 <p>That’s why I advise every dev I coach or lead to adopt a <strong>daily logging habit</strong>. It’s simple. It takes five minutes. And it pays back <strong>10x</strong> in clarity, momentum, and output.</p>
 <p>This is a system you install once—and benefit from every week, forever.</p>
@@ -82,7 +84,8 @@ I just keep a <code>daily-log.md</code> file inside my project folder and open i
 <h2 id="real-world-win-debugging-faster">Real-World Win: Debugging Faster</h2>
 <p>In a distributed system project, one engineer logged this:</p>
 <blockquote>
-<p>“Consumer lag spikes at 3pm UTC. Could be tied to deployment script.”</p></blockquote>
+<p>“Consumer lag spikes at 3pm UTC. Could be tied to deployment script.”</p>
+</blockquote>
 <p>They didn’t solve it that day—but another engineer picked it up the next morning, confirmed the hypothesis, and pushed a fix in under 30 minutes.</p>
 <p>The log didn’t solve the bug.
 It <strong>preserved the context</strong>—which solved the bug <em>faster</em>.</p>
@@ -102,7 +105,8 @@ It <strong>preserved the context</strong>—which solved the bug <em>faster</em>
 <p>Every log becomes a time capsule—of lessons learned, bugs spotted, patterns noticed, and momentum captured. Future you will thank you.</p>
 <blockquote>
 <p>Five minutes a day. Ten times the clarity.
-That’s leverage.</p></blockquote>
+That’s leverage.</p>
+</blockquote>
 ]]></content>
         </item>
         
@@ -131,7 +135,8 @@ That’s leverage.</p></blockquote>
 <p>Before anything else, I write — in plain, simple language — what I’m building, who it’s for, and how I expect people to use it.</p>
 <p>No fancy frameworks. No personas. Just clarity.</p>
 <blockquote>
-<p>&ldquo;This is an app for freelance designers to track their projects. It&rsquo;s meant to help them stay organized, see deadlines at a glance, and feel less overwhelmed. I expect them to check it every morning and use it again in the evening.&rdquo;</p></blockquote>
+<p>&ldquo;This is an app for freelance designers to track their projects. It&rsquo;s meant to help them stay organized, see deadlines at a glance, and feel less overwhelmed. I expect them to check it every morning and use it again in the evening.&rdquo;</p>
+</blockquote>
 <p>That’s already plenty.</p>
 <p>Want to go deeper? Great. Add problems you&rsquo;re solving. Outline user pain points. But don’t overthink it. The point is to start with a real reason and a real person in mind.</p>
 <hr>
