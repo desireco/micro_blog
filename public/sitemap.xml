@@ -2,92 +2,95 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/05-21-25-daily-logging/</loc>
+    <loc>https://zeljko.dakic.com/</loc>
+    <lastmod>2025-10-25T15:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://zeljko.dakic.com/posts/10-25-25-boris-brejcha-makes-you-productive.md/</loc>
+    <lastmod>2025-10-25T15:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://zeljko.dakic.com/posts/</loc>
+    <lastmod>2025-10-25T15:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://zeljko.dakic.com/posts/05-21-25-daily-logging/</loc>
     <lastmod>2025-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-05-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-05-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/05-20-25-how-i-write-software/</loc>
+    <loc>https://zeljko.dakic.com/posts/05-20-25-how-i-write-software/</loc>
     <lastmod>2025-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/05-18-25-looking-for-a-cofounder/</loc>
+    <loc>https://zeljko.dakic.com/posts/05-18-25-looking-for-a-cofounder/</loc>
     <lastmod>2025-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/09-19-23-why-is-now-the-perfect-time-for-the-rise-of-augmented-/</loc>
+    <loc>https://zeljko.dakic.com/posts/09-19-23-why-is-now-the-perfect-time-for-the-rise-of-augmented-/</loc>
     <lastmod>2023-09-19T10:58:41-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/09-14-23-modern-times-call-for-modern-development/</loc>
+    <loc>https://zeljko.dakic.com/posts/09-14-23-modern-times-call-for-modern-development/</loc>
     <lastmod>2023-09-14T16:29:49-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/04-03-23-groundhog-day/</loc>
+    <loc>https://zeljko.dakic.com/posts/04-03-23-groundhog-day/</loc>
     <lastmod>2023-04-03T14:25:55-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/microposts/</loc>
+    <loc>https://zeljko.dakic.com/microposts/</loc>
     <lastmod>2023-04-03T14:16:52-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/microposts/04-03-23-posse/</loc>
+    <loc>https://zeljko.dakic.com/microposts/04-03-23-posse/</loc>
     <lastmod>2023-04-03T14:16:52-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/microposts/03-29-23-gary-makes-us-wat/</loc>
+    <loc>https://zeljko.dakic.com/microposts/03-29-23-gary-makes-us-wat/</loc>
     <lastmod>2023-03-29T23:23:50-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/microposts/03-29-23-writing-to-communicate/</loc>
+    <loc>https://zeljko.dakic.com/microposts/03-29-23-writing-to-communicate/</loc>
     <lastmod>2023-03-29T23:17:23-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/microposts/03-29-23-overcome-odds/</loc>
+    <loc>https://zeljko.dakic.com/microposts/03-29-23-overcome-odds/</loc>
     <lastmod>2023-03-29T23:11:23-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/microposts/03-29-23-ai-is-danger/</loc>
+    <loc>https://zeljko.dakic.com/microposts/03-29-23-ai-is-danger/</loc>
     <lastmod>2023-03-29T22:37:42-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/microposts/03-29-23-generative-ai-explanation/</loc>
+    <loc>https://zeljko.dakic.com/microposts/03-29-23-generative-ai-explanation/</loc>
     <lastmod>2023-03-29T22:29:55-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/microposts/03-28-23-vite-for-js-libraries/</loc>
+    <loc>https://zeljko.dakic.com/microposts/03-28-23-vite-for-js-libraries/</loc>
     <lastmod>2023-03-28T22:19:49-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/microposts/03-28-23-push-notifications/</loc>
+    <loc>https://zeljko.dakic.com/microposts/03-28-23-push-notifications/</loc>
     <lastmod>2023-03-28T22:17:05-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/03-22-24-ai-and-creativity-2/</loc>
+    <loc>https://zeljko.dakic.com/posts/03-22-24-ai-and-creativity-2/</loc>
     <lastmod>2023-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/03-23-23-ai-and-creativity/</loc>
+    <loc>https://zeljko.dakic.com/posts/03-23-23-ai-and-creativity/</loc>
     <lastmod>2023-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/03-21-23-benefits-of-remote-work/</loc>
+    <loc>https://zeljko.dakic.com/posts/03-21-23-benefits-of-remote-work/</loc>
     <lastmod>2023-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/microposts/03-20-23-using-chatgpt-with-your-data/</loc>
+    <loc>https://zeljko.dakic.com/microposts/03-20-23-using-chatgpt-with-your-data/</loc>
     <lastmod>2023-03-20T15:38:44-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/microposts/03-20-23-remote-work-mainstream/</loc>
+    <loc>https://zeljko.dakic.com/microposts/03-20-23-remote-work-mainstream/</loc>
     <lastmod>2023-03-20T15:36:53-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/03-19-23-year-of-creative-experiments/</loc>
+    <loc>https://zeljko.dakic.com/posts/03-19-23-year-of-creative-experiments/</loc>
     <lastmod>2023-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/03-14-23-dakic-online-ai-makes-song/</loc>
+    <loc>https://zeljko.dakic.com/posts/03-14-23-dakic-online-ai-makes-song/</loc>
     <lastmod>2023-03-14T23:11:52-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/03-14-23-making-world-a-better-place/</loc>
+    <loc>https://zeljko.dakic.com/posts/03-14-23-making-world-a-better-place/</loc>
     <lastmod>2023-03-14T15:02:10-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/microposts/08-01-22-deno-svelte/</loc>
+    <loc>https://zeljko.dakic.com/microposts/08-01-22-deno-svelte/</loc>
     <lastmod>2022-08-01T09:27:39-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/music/</loc>
+    <loc>https://zeljko.dakic.com/music/</loc>
   </url><url>
-    <loc>http://localhost:1313/sites/</loc>
+    <loc>https://zeljko.dakic.com/sites/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://zeljko.dakic.com/blog/</loc>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://zeljko.dakic.com/series/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://zeljko.dakic.com/tags/</loc>
   </url>
 </urlset>
