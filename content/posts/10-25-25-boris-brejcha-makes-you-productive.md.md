@@ -3,9 +3,6 @@ title: "How Boris Brejcha Helps You Be Productive and Focused at Work"
 date: 2025-10-25T15:00:00-05:00
 ---
 ---
-title: "Boris Brejcha Helps You Be Productive and Focused at Work"
-date: 2025-10-25T15:00:00-05:00
----
 
 When I sit down at my desk—code editor open, browser with 12 tabs, inbox pinging—I hit play on a track by [Boris Brejcha](https://www.youtube.com/watch?v=81T5PoITQTs). Within the first 30 seconds, the rhythm settles. I’m no longer bouncing between Slack and Twitter. The beat becomes the metronome for my focus. My fingers start moving, ideas click, and the world outside my screen fades.
 
