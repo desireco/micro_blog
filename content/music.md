@@ -16,6 +16,9 @@ Music to help you work and keep you motivated.
 
 {{< youtube "nhitcWAO2ys" >}}
 
+
+This is powerful experience.
+
 {{< youtube "D4W2ZqEh1ZE" >}}
 
 ---
@@ -32,6 +35,18 @@ Auralis is visual and sound experience.
 {{< youtube "1Xw6O6WU7qs" >}}
 
 {{< youtube "PsropN4Kxfc" >}}
+
+
+There a bunch of these AI generated, but really good ambient pieces.
+{{< youtube "Rz1V57mhJos" >}}
+
+This is great for thinking and pondering
+{{< youtube "92hUFKb0WR4" >}}
+
 ### Music to dance
 
 ### Inspiration
+
+{{< youtube "XyoBMOjy9ag" >}}
+
+{{< youtube "tlk3ZM1YUnw" >}}
